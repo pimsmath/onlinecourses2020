@@ -14,3 +14,20 @@
 div#qualtrics-form-1 iframe {
     height: 1550px;
 }
+
+section#hero {
+    div.hero-lead {
+        font-size: 1.1rem;
+    }
+
+    i.fas { 
+        display:inline-block;
+        font-size: 1000%;
+        color:#1978BE;
+        text-align: center;
+        padding-top: 0.2em;
+        vertical-align: bottom;
+    }
+}
+
+

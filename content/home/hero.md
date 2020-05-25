@@ -5,9 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
-
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+title = "" # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "pims-avatar.png"
 
 [design.background]
@@ -35,4 +33,10 @@ hero_media = "pims-avatar.png"
 
 +++
 
-In fall/winter 2020, PIMS will be helping to coordinate a number of online courses. By filling out this form, you are expressing your interest in attending one or more of these courses and agreeing to be contacted with logistical details for the events.
+PIMS is pleased to announce four new network-wide graduate courses in
+mathematical sciences! These courses provide remote access to experts across the
+PIMS network. Students at PIMS Canadian member universities can get graduate
+credit via the Western Deans Agreement. Be advised, in some cases, students must
+enroll 6 weeks in advance of the next term.
+
+Please use the form below to receive more information on these courses.
