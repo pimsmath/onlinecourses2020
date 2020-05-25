@@ -13,11 +13,16 @@
 
 div#qualtrics-form-1 iframe {
     height: 1550px;
+    border: 1px solid;
 }
 
 section#hero {
     div.hero-lead {
         font-size: 1.1rem;
+        a {
+          text-decoration: none;
+          font-style: oblique;
+        }
     }
 
     i.fas { 
@@ -36,5 +41,13 @@ div.article-metadata-footer {
     font-size: 14px;
     letter-spacing: 0.03em;
     color: rgba(0, 0, 0, 0.54);
+}
+
+body {
+    color: rgb(82, 82, 82);
+}
+
+section#register p {
+    font-style: oblique;
 }
 

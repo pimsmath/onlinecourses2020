@@ -15,9 +15,9 @@ After the global financial crisis in 2008 there has been a growing need for
 fully trained financial risk forecasters, which involves 
 
 1. Statistical modeling and forecasting
-2. Data analytics
-3. Deep learning techniques
-4. Computing skills for Statistics, Computer Science and basic Finance.
+1. Data analytics
+1. Deep learning techniques
+1. Computing skills for Statistics, Computer Science and basic Finance.
 
 The purpose of this new course is to expose graduate and senior undergraduate
 students to challenging new opportunities for learning fundamentals of financial
