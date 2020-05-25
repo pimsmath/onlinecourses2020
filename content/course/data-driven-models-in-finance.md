@@ -5,6 +5,10 @@ date: "2020-10-01T13:00:00Z"
 date_end: "2021-04-30T13:00:00Z"
 draft: false
 tags: [undergraduate]
+authors:  
+  - A. Thavaneswaran (University of Manitoba)
+  - Ruppa K. Thulasiram (University of Manitoba)
+
 ---
 
 After the global financial crisis in 2008 there has been a growing need for

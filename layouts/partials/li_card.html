@@ -23,11 +23,6 @@
 
   {{ if eq $item.Type "course" }}
   <div class="article-metadata">
-    {{ if $item.Params.authors }}
-    <div>
-      {{ partial "page_metadata_authors" $item }}
-    </div>
-    {{ end }}
     <span>
       {{ partial "functions/get_event_dates_short" $item }}
     </span>
@@ -62,16 +57,16 @@
     </div>
     {{end}}
   </details>
-  <!--
-  {{ with $summary }}
-  <div class="article-style">
-    <p>{{.}}</p>
-  </div>
-  {{ end }}
-  -->
   {{ if $show_buttons }}
   <div class="btn-links">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+  {{ if $item.Params.authors }}
+  <div class="article-metadata-footer">
+  <div>
+    {{ partial "page_metadata_authors" $item }}
+  </div>
   </div>
   {{ end }}
 

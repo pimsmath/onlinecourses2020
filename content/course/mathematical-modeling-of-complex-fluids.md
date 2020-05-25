@@ -4,6 +4,8 @@ publishdate: 2020-05-25T10:00:47-07:00
 date: "2020-10-01T13:00:00Z"
 date_end: "2020-04-30T13:00:00Z"
 draft: false
+authors:
+  - Jimmy Feng (University of British Columbia)
 ---
 
 This course will give students an overview of Non-Newtonian Fluid Dynamics, and

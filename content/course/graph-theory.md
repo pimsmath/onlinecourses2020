@@ -4,6 +4,10 @@ publishdate: 2020-05-25T10:00:29-07:00
 date: "2020-10-01T13:00:00Z"
 date_end: "2021-04-30T13:00:00Z"
 draft: false
+authors:
+  - Karen Meagher (University of Regina)
+  - Joy Morris (University of Lethbridge)
+  - Karen Gunderson (University of Manitoba)
 ---
 
 The Fall 2021 offering of Math 827, Graph Theory will on algebraic techniques in
