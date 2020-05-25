@@ -40,5 +40,5 @@ credit via the <a target="_blank" href="http://wcdgs.ca/western-deans-agreement.
 Deans Agreement <i class="fas fa-external-link-alt"></i></a>. Be advised, in some
 cases, students must enroll 6 weeks in advance of the next term.
 
-Please complete the <a href="/#register" data-target="#register">signup form</a>
+Please complete the <a href="/#register" data-target="#register">sign-up form</a>
 below to receive more information on these courses.
