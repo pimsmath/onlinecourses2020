@@ -2,8 +2,8 @@
 title: "Optimal Transport + X"
 event: "Online course in Optimal Transport"
 publishdate: 2020-05-25T10:00:47-07:00
-date: "2020-10-01T13:00:00Z"
-date_end: "2021-04-30T15:00:00Z"
+date: "2020-09-01T13:00:00Z"
+date_end: "2020-12-30T15:00:00Z"
 event_url: https://pims.math.ca
 math: true
 draft: false
