@@ -17,15 +17,17 @@ div#qualtrics-form-1 iframe {
 }
 
 section#hero {
+
     div.hero-lead {
         font-size: 1.1rem;
         a {
           text-decoration: none;
           font-style: oblique;
+
         }
     }
 
-    i.fas fa-chalkboard-teacher { 
+    i.fas.fa-chalkboard-teacher { 
         display:inline-block;
         font-size: 1000%;
         color:#1978BE;
@@ -33,6 +35,10 @@ section#hero {
         padding-top: 0.2em;
         vertical-align: bottom;
     }
+}
+
+a i.fas {
+    font-style: oblique
 }
 
 div.article-metadata-footer {
@@ -49,5 +55,32 @@ body {
 
 section#register p {
     font-style: oblique;
+}
+
+nav#navbar-main li.nav-item {
+  font-size: 1.3em;
+  font-weight: normal;
+
+  a.nav-link.active {
+      color:#1978BE;
+      font-weight: normal !important;
+  }
+}
+
+ul.nav-tabs {
+    border-bottom: none;
+    .nav-link {
+        border: none;
+        border-top-left-radius: none;
+        border-top-right-radius: none;
+    }
+    a.nav-link.active {
+        border-left: 1px solid rgba(52, 73, 94, 0.45);
+        border-right: 1px solid rgba(52, 73, 94, 0.45);
+        border-top: none;
+        border-bottom: none;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
 }
 
