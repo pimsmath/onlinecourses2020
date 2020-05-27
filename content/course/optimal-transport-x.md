@@ -11,7 +11,7 @@ authors:
   - Young-Heon Kim (UBC)
   - Soumik Pal (University of Washington)
   - Brendan Pass (University of Alberta)
-  - Yanquin Fan (University of Washington)
+  - Yanqin Fan (University of Washington)
 ---
 
 This course has two main objectives: first, to introduce a wide range of
