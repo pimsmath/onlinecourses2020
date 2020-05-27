@@ -10,17 +10,23 @@ authors:
   - Karen Gunderson (University of Manitoba)
 ---
 
-The Fall 2021 offering of Math 827, Graph Theory will on algebraic techniques in
-graph theory. The focus will be on spectral graph theory, adjacency matrices and
-eigenvalues of graphs. We will consider graph homomorphism and automorphisms of
-graphs. We will study transitive graphs and examine several examples of
-important families of transitive graphs where algebraic methods are particularly
-effective. The course will include an introduction to strongly regular graphs
-and association schemes. We will look at applications, such as extremal problems
-on these graphs.
+The Fall 2021 offering of Math 827, Graph Theory  will consist of three units on
+advanced graph theory topics.
 
-This class will include a 3 week unit on Cayley graphs, taught by Dr. Joy Morris
-from the University of Lethbridge. There will also be a 3 week unit on Ramsey
-theory and random graphs taught by Dr Karen Gunderson from the University of
-Manitoba.
-<!--more-->
+The first unit will be 6 weeks will be on algebraic techniques in graph theory
+taught by Dr. Karen Meagher of the University of Regina.  The focus will be on
+spectral graph theory, adjacency matrices and eigenvalues of graphs. We will
+consider important families of transitive graphs where algebraic methods are
+particularly effective.
+
+The second unit will be 3 weeks on Cayley graphs, taught by Dr. Joy Morris from
+the University of Lethbridge. This unit will focus on automorphisms,
+isomorphisms and the isomorphism problem, and Hamilton cycles, all in the
+context of Cayley graphs.
+
+The third unit will be 3 weeks on the topic of random graphs taught by Dr Karen
+Gunderson from the University of Manitoba.  This unit will cover various models
+of random graphs and some types of pseudorandomness.
+
+
+
