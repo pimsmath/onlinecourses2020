@@ -8,10 +8,7 @@ event_url: https://pims.math.ca
 math: true
 draft: false
 authors:
-  - Young-Heon Kim (UBC)
-  - Soumik Pal (University of Washington)
-  - Brendan Pass (University of Alberta)
-  - Yanqin Fan (University of Washington)
+ - Brendan Pass (University of Alberta)
 ---
 
 This course has two main objectives: first, to introduce a wide range of
