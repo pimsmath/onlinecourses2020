@@ -10,7 +10,7 @@ authors:
   - Karen Gunderson (University of Manitoba)
 ---
 
-The Fall 2021 offering of Math 827, Graph Theory  will consist of three units on
+The Fall 2020 offering of Math 827, Graph Theory  will consist of three units on
 advanced graph theory topics.
 
 The first unit will be 6 weeks will be on algebraic techniques in graph theory
