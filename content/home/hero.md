@@ -36,9 +36,9 @@ hero_media = "pims-avatar.png"
 PIMS is pleased to announce four new network-wide graduate courses in
 mathematical sciences! These courses provide remote access to experts across the
 PIMS network. Students at PIMS Canadian member universities can get graduate
-credit via the <a target="_blank" href="http://wcdgs.ca/western-deans-agreement.html">Western
-Deans Agreement <i class="fas fa-external-link-alt"></i></a>. Be advised, in some
+credit via the <a href="#wda">Western
+Deans Agreement</i></a>. Be advised, in some
 cases, students must enroll 6 weeks in advance of the next term.
 
 Please complete the <a href="/#register" data-target="#register">sign-up form</a>
-below to receive more information on these courses.
+below to receive more information on these courses. 
