@@ -35,8 +35,9 @@ Once you have obtained their approval please complete the <a
 href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western
 Dean's agreement form <i class="fas fa-file-pdf"
 aria-hidden="true"></i></a>. These
-forms need to be signed by your home institution and school of graduate studies.
-The form then needs to be sent to the host institution for the course. 
+forms need to be signed by your home institution department and school of
+graduate studies.  The form then needs to be sent to the host institution for
+the course. 
 
 For help with completing the Western Dean's agreement form, please
 contact the graduate student program coordinator at your institution. For more
