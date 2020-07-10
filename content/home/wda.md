@@ -32,7 +32,7 @@ In order to register for a PIMS digital course for the Western Dean's agreement 
         
 
 Once you have obtained their approval please complete the <a
-href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western
+target="_blank" href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western
 Dean's agreement form <i class="fas fa-file-pdf"
 aria-hidden="true"></i></a>. These
 forms need to be signed by your home institution department and school of
