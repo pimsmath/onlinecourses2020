@@ -32,6 +32,10 @@ hero_media = "pims-avatar.png"
   text_color_light = false
 
 +++
+{{% alert note %}}
+Enrollment for the fall/winter 2020 courses is now closed. Please check back
+later for future courses.
+{{% /alert %}}
 
 PIMS is pleased to announce four new network-wide graduate courses in
 mathematical sciences! These courses provide remote access to experts across the
