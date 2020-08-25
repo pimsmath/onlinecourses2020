@@ -33,8 +33,7 @@ hero_media = "pims-avatar.png"
 
 +++
 {{% alert note %}}
-Enrollment for the fall/winter 2020 courses is now closed. Please check back
-later for future courses.
+For inquiries about enrollment for fall/winter 2020 term courses, please [contact the course instructors](#wda) directly.
 {{% /alert %}}
 
 PIMS is pleased to announce four new network-wide graduate courses in
