@@ -13,10 +13,10 @@
   url = "#courses"
   weight = 30
 
-[[main]]
-  name = "Register"
-  url = "#register"
-  weight = 60
+#[[main]]
+#  name = "Register"
+#  url = "#register"
+#  weight = 60
 
 [[main]]
   name = "WDA (Western Dean's Agreement)"
