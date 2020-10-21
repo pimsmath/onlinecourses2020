@@ -3,7 +3,7 @@
 
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_buttons := false }}
-{{ if eq $item.Type "course" }}
+{{ if eq $item.Type "courses" }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "publication" }}
   {{ $show_buttons = true }}
@@ -21,7 +21,7 @@
 
 <div class="card-simple">
 
-  {{ if eq $item.Type "course" }}
+  {{ if eq $item.Type "courses" }}
   <div class="article-metadata">
     <span>
       {{ partial "functions/get_event_dates_short" $item }}
