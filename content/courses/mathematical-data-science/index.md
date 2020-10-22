@@ -26,7 +26,7 @@ course_number: "XXX"
 section_number: "YYY"
 
 # Course Code at Home institution
-course_code: "0000"
+section_code: "0000"
 
 # Course Abstract
 # abstract : |

@@ -26,7 +26,7 @@ course_number: "UVic Math 540 Section A01, Topology"
 section_number: "A01"
 
 # Course Code at Home institution
-course_code: "ZZZ"
+section_code: "ZZZ"
 
 # Course Abstract
 # abstract : |

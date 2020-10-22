@@ -46,31 +46,46 @@
 
   <details>
     <summary>{{ $item.Title }}</summary>
-    <h3>{{ i18n "instructors" }}</h3>
-    <ul class="ul-edu fa-ul">
-      {{ range $index, $instructor := $item.Params.instructors }}
-      <li>
-        <i class="fa-li fas fa-graduation-cap"></i>
-        <div class="description">
-          <p class="instructor">{{ $instructor.name }}
-          {{ if $instructor.email }}
-          : <a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ $item.Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>
-          {{ end }}
-          <p class="institution">{{ $instructor.institution }}</p>
-        </div>
-      </li>
-    {{ end }}
-    </ul>
-    <h3>{{ i18n "abstract" }}</h3>
-    {{ with $item.Params.abstract }}
-    <div class="article-style">
-      <p>{{.}}</p>
+    <div class="row">
+      <div class="col-lg-6">
+        <h3><i class="fas fa-graduation-cap"></i> {{ i18n "instructors" }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range $index, $instructor := $item.Params.instructors }}
+          <li>
+            <i class="fa-li fas fa-user-alt"></i>
+            <div class="description">
+              <p class="instructor">{{ $instructor.name }}
+              {{ if $instructor.email }}
+              : <a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ $item.Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>
+              {{ end }}
+              <p class="institution">{{ $instructor.institution }}</p>
+            </div>
+          </li>
+        {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-6">
+        <h3><i class="fas fa-sign-in-alt"></i> Registration</h3>
+          <div class="article-style">
+            <p>This course is available for registration under the Western Dean's
+            Agreement. See the <a href="{{ $item.RelPermalink }}">course webpage</a> for more information, including registration details.</p>
+          </div>
+      </div>
     </div>
-    {{end}}
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>{{ i18n "abstract" }}</h3>
+        {{ with $item.Params.abstract }}
+        <div class="article-style">
+          <p>{{.}}</p>
+          <div class="more-info">
+            <p><a href="{{ $item.RelPermalink }}">More information, including registration details. <i class="fas fa-sign-in-alt"></i></a></p>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
 
-    <ul>
-      <li><a href="{{ $item.RelPermalink }}">More info/registration</a></li>
-    </ul>
   </details>
   {{ if $show_buttons }}
   <div class="btn-links">
