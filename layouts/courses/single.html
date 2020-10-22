@@ -1,0 +1,102 @@
+{{- define "main" -}}
+
+<div class="pub">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+    <secton id="registration">
+      <div class="d-md-none space-below"></div>
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">Course Name</div>
+            <div class="col-12 col-md-8">
+              {{ .Params.course_title }}
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+      <div class="d-md-none space-below"></div>
+      
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">{{ i18n "date" }}</div>
+            <div class="col-12 col-md-8">
+              {{ partial "functions/get_course_dates" . }}
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">Course Number</div>
+            <div class="col-12 col-md-8">
+              {{ .Params.course_number }}
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+      <div class="d-md-none space-below"></div>
+
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">Section Number </div>
+            <div class="col-12 col-md-8">
+              {{ .Params.section_number }}
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+      <div class="d-md-none space-below"></div>
+
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-4 pub-row-heading">Course website </div>
+            <div class="col-12 col-md-8">
+              {{ if .Params.course_website }}
+              <a href="{{ . }}" target="_blank" rel="noopener">{{ .Params.course_website | markdownify }}</a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+      <div class="d-md-none space-below"></div>
+    </section>
+
+    <section id="course-info">
+      {{ if .Params.abstract }}
+      <h3>{{ i18n "abstract" }}</h3>
+      <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+      {{ end }}
+
+      {{ if .Params.syllabus_txt }}
+      <h3>{{ i18n "syllabus" }}</h3>
+      <p class="pub-syllabus">{{ .Params.syllabus_txt | markdownify }}</p>
+      {{ end }}
+    </section>
+    <div class="space-below"></div>
+
+    <section id="other-info">
+      <div class="article-style">{{ .Content }}</div>
+    </section>
+    {{ partial "page_footer" . }}
+
+  </div>
+</div>
+{{- end -}}
