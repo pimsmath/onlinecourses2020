@@ -4,71 +4,75 @@
   <h1>{{ .Title }}</h1>
 </div>
 
-<section id="registration" class="home-section">
-  <div class="container">
-    <div class="d-md-none space-below"></div>
-
-    <dl class="row">
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">Course Name</dt>
-      <dd class="col-sm-6">{{ .Params.course_title }}</dd>
-      <div class="col-sm-2"></div>
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">Instructor(s)</dt>
-      <dd class="col-sm-6">
-        {{ $title := .Title }}
-        {{ range $index, $instructor := .Params.instructors }}
-          {{ $instructor.name }} (<a href="mailto:{{ $instructor.email }}?subject=PIMS Online Course enquiry: {{ $title }}">{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>)
-        {{ end }}
-      </dd>
-      <div class="col-sm-2"></div>
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">{{ i18n "date" }}</dt>
-      <dd class="col-sm-6">{{ partial "functions/get_course_dates" . }}</dd>
-      <div class="col-sm-2"></div>
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">Course Number</dt>
-      <dd class="col-sm-6">{{ .Params.course_number }}</dd>
-      <div class="col-sm-2"></div>
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">Section Number</dt>
-      <dd class="col-sm-6">{{ .Params.section_number }}</dd>
-      <div class="col-sm-2"></div>
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">Section Code</dt>
-      <dd class="col-sm-6">{{ .Params.section_code }}</dd>
-      <div class="col-sm-2"></div>
-      {{ if .Params.course_website }}
-      <div class="col-sm-1"></div>
-      <dt class="col-sm-3">Course Website</dt>
-      <dd class="col-sm-6"><a href="{{ .Params.course_website }}" target="_blank" rel="noopener">{{ .Params.course_website | markdownify }}</dd>
-      <div class="col-sm-2"></div>
-      {{ end }}
-    </dl>
-
-    {{ if .Params.abstract }}
-    <h3>{{ i18n "abstract" }}</h3>
-    <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
-    {{ end }}
-
-</section>
-
 <section id="course-info" class="home-section">
   <div class="container">
+    <h1>Course Information</h1>
     {{ if .Params.abstract }}
-    <h3>{{ i18n "abstract" }}</h3>
+    <h2>{{ i18n "abstract" }}</h2>
     <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
 
     {{ if .Params.syllabus_txt }}
-    <h3>{{ i18n "syllabus" }}</h3>
+    <h2>{{ i18n "syllabus" }}</h2>
     <p class="pub-syllabus">{{ .Params.syllabus_txt | markdownify }}</p>
     {{ end }}
   </div>
 </section>
 
+<section id="registration" class="home-section">
+  <div class="container">
+    <h1>Registration</h1>
+<p>This course is available for registration under the Western Dean's
+Agreement. To register, you must obtain the approval of the course instructor
+and you must complete the <a target="_blank" href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western Dean's agreement form  <i class="fas fa-file-pdf" aria-hidden="true"></i></a>, using the details
+below. The completed form should be signed by your home institution department
+and school of graduate studies, then returned to the host institution of the
+course.</p>
+    <div class="row">
+      <div class="col-lg-6">
+        <h2>Enrollment Details</h2>
+        <dl class="row">
+          <dt class="col-sm-4">Course Name</dt>
+          <dd class="col-sm-8">{{ .Params.course_title }}</dd>
+          <dt class="col-sm-4">{{ i18n "date" }}</dt>
+          <dd class="col-sm-8">{{ partial "functions/get_course_dates" . }}</dd>
+          <dt class="col-sm-4">Course Number</dt>
+          <dd class="col-sm-8">{{ .Params.course_number }}</dd>
+          <dt class="col-sm-4">Section Number</dt>
+          <dd class="col-sm-8">{{ .Params.section_number }}</dd>
+          <dt class="col-sm-4">Section Code</dt>
+          <dd class="col-sm-8">{{ .Params.section_code }}</dd>
+        </dl>
+      </div>
+      <div class="col-lg-6">
+        <h2><i class="fas fa-graduation-cap"></i> {{ i18n "instructors" }}</h2>
+        <ul class="ul-edu fa-ul">
+          {{ range $index, $instructor := .Params.instructors }}
+          <li>
+            <i class="fa-li fas fa-user-alt"></i>
+            <div class="description">
+              <p class="instructor">{{ $instructor.name }}</p>
+              {{ if $instructor.email }}
+              <p class="email"><a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ .Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a></p>
+              {{ end }}
+              <p class="institution">{{ $instructor.institution }}</p>
+            </div>
+          </li>
+        {{ end }}
+        </ul>
+      </div>
+      <p>For help with completing the Western Dean’s agreement form, please contact
+      the graduate student program coordinator at your institution. For more
+      information about the agreement, please see the <a
+      target="_blank" href="http://wcdgs.ca/western-deans-agreement.html">Western Dean's Agreement
+      website <i class="fas fa-external-link-alt"></i></a></p>
+    </div>
+</section>
+
+
 <section id="other-info" class="home-section">
   <div class="container">
+    <h1>Other Information</h1>
     <div class="article-style">{{ .Content }}</div>
   </div>
 </section>
