@@ -13,18 +13,19 @@ course_title: "Mathematical Data Science"
 instructors:
 - name: Lele Wang
   email: lelewang@ece.ubc.ca
+  primary: true
 
 course_start: 2021-01-01
 course_end: 2021-06-01
 
 # Course number at home institution
-course_number: "1001"
+course_number: "XXX"
 
 # Section/Catalog number
-section_number: "23131"
+section_number: "YYY"
 
 # Course Code at Home institution
-course_code: "1234"
+course_code: "0000"
 
 # Course Abstract
 # abstract : |
@@ -78,7 +79,7 @@ math: true
 # Free form markdown below this point
 ---
 
-## Textbooks
+### Textbooks
 All ebooks are available at https://www.library.ubc.ca/.
 
 1. [Alan Frieze and Michał Karon ́ ski, Introduction to Random Graphs, Cambridge
@@ -92,11 +93,11 @@ Wiley & Sons, Inc.,
 1. [Noga Alon and Joel H. Spencer, The Probabilistic Method, 4th Edition, Wiley,
    2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/0471722154)
 
-## Prerequisites
+### Prerequisites
 Working knowledge of probability and linear algebra. No prior knowledge on graph
 theory is assumed.
 
-## Assessment scheme
+### Assessment scheme
 * **Grading**: Homework 50% and paper reading 50% (presentations 20%, critical
   reviews 15%, in-class participation in discussing the paper 15%).
 * **Homework assignment**: In the first half of the course, homework will be
