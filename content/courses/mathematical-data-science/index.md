@@ -12,6 +12,7 @@ course_title: "Mathematical Data Science"
 
 instructors:
 - name: Lele Wang
+  institution: University of British Columbia
   email: lelewang@ece.ubc.ca
   primary: true
 

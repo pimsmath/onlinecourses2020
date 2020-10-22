@@ -1,137 +1,148 @@
 {{- define "main" -}}
 
-<div class="pub">
-
-  {{ partial "page_header.html" . }}
-
-  <div class="article-container">
-    <section id="registration">
-      <div class="d-md-none space-below"></div>
-      <div class="row">
-        <h3>Registration Information</h3>
-      </div>
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">Course Name</div>
-            <div class="col-12 col-md-8">
-              {{ .Params.course_title }}
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-      <div class="d-md-none space-below"></div>
-     
-      {{ range $index, $instructor := .Params.instructors }}
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">{{ if eq $index 0 }}{{ i18n "instructors" }}{{ end }}</div>
-            <div class="col-12 col-md-8">
-              {{ $instructor.name }} (<a href="mailto:{{ $instructor.email }}?subject={{ .Page.title }}">{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>)
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-      {{ end }}
-      
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">{{ i18n "date" }}</div>
-            <div class="col-12 col-md-8">
-              {{ partial "functions/get_course_dates" . }}
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">Course Number</div>
-            <div class="col-12 col-md-8">
-              {{ .Params.course_number }}
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-      <div class="d-md-none space-below"></div>
-
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">Section Number</div>
-            <div class="col-12 col-md-8">
-              {{ .Params.section_number }}
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-      <div class="d-md-none space-below"></div>
-      
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">Section Code</div>
-            <div class="col-12 col-md-8">
-              {{ .Params.course_code }}
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-      <div class="d-md-none space-below"></div>
-
-      {{ if .Params.course_website }}
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-12 col-md-4 pub-row-heading">Course website </div>
-            <div class="col-12 col-md-8">
-              {{ if .Params.course_website }}
-              <a href="{{ . }}" target="_blank" rel="noopener">{{ .Params.course_website | markdownify }}</a>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-        <div class="col-md-1"></div>
-      </div>
-      <div class="d-md-none space-below"></div>
-      {{ end }}
-
-    </section>
-
-    <section id="course-info">
-      {{ if .Params.abstract }}
-      <h3>{{ i18n "abstract" }}</h3>
-      <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
-      {{ end }}
-
-      {{ if .Params.syllabus_txt }}
-      <h3>{{ i18n "syllabus" }}</h3>
-      <p class="pub-syllabus">{{ .Params.syllabus_txt | markdownify }}</p>
-      {{ end }}
-    </section>
-    <div class="space-below"></div>
-
-    <section id="other-info">
-      <div class="article-style">{{ .Content }}</div>
-    </section>
-    {{ partial "page_footer" . }}
-
-  </div>
+<div class="container">
+  <h1>{{ .Title }}</h1>
 </div>
+
+<section id="registration" class="home-section">
+  <div class="container">
+    <div class="d-md-none space-below"></div>
+    <h3>Registration Details</h3>
+
+
+    <div class="row">
+      <div class="col-md-12">
+        <p>
+To register for a PIMS digital course under the Western Dean's agreement, you must obtain the approval of the course instructor (listed below). Following that, please complete the <a target="_blank" href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western Dean's agreement form  <i class="fas fa-file-pdf"
+aria-hidden="true"></i></a>. This form must be signed by your home institution department and school of graduate studies then sent to the host institution for the course.</p>
+      </div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Course Name</div>
+          <div class="col-12 col-md-8">
+            {{ .Params.course_title }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+  
+    {{ $title := .Title }}
+    {{ range $index, $instructor := .Params.instructors }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">{{ if eq $index 0 }}{{ i18n "instructors" }}{{ end }}</div>
+          <div class="col-12 col-md-8">
+            {{ $instructor.name }} (<a href="mailto:{{ $instructor.email }}?subject=PIMS Online Course enquiry: {{ $title }}">{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>)
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    {{ end }}
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">{{ i18n "date" }}</div>
+          <div class="col-12 col-md-8">
+            {{ partial "functions/get_course_dates" . }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Course Number</div>
+          <div class="col-12 col-md-8">
+            {{ .Params.course_number }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Section Number</div>
+          <div class="col-12 col-md-8">
+            {{ .Params.section_number }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Section Code</div>
+          <div class="col-12 col-md-8">
+            {{ .Params.course_code }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    {{ if .Params.course_website }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Course website </div>
+          <div class="col-12 col-md-8">
+            {{ if .Params.course_website }}
+            <a href="{{ . }}" target="_blank" rel="noopener">{{ .Params.course_website | markdownify }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+    <div class="d-md-none space-below"></div>
+</section>
+
+<section id="course-info" class="home-section">
+  <div class="container">
+    {{ if .Params.abstract }}
+    <h3>{{ i18n "abstract" }}</h3>
+    <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+    {{ end }}
+
+    {{ if .Params.syllabus_txt }}
+    <h3>{{ i18n "syllabus" }}</h3>
+    <p class="pub-syllabus">{{ .Params.syllabus_txt | markdownify }}</p>
+    {{ end }}
+  </div>
+</section>
+
+<section id="other-info" class="home-section">
+  <div class="container">
+    <div class="article-style">{{ .Content }}</div>
+  </div>
+</section>
+{{ partial "page_footer" . }}
+
 {{- end -}}

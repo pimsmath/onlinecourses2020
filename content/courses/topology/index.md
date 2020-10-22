@@ -12,6 +12,7 @@ course_title: "Topology"
 
 instructors:
 - name: Ian F. Putnam
+  institution: University of Victoria
   email: ifputnam@uvic.ca
 
 # Start and end dates

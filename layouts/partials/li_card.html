@@ -24,7 +24,7 @@
   {{ if eq $item.Type "courses" }}
   <div class="article-metadata">
     <span>
-      {{ partial "functions/get_event_dates_short" $item }}
+      {{ partial "functions/get_course_dates" $item }}
     </span>
     {{ with $item.Params.location }}
     <span class="middot-divider"></span>
@@ -44,28 +44,46 @@
   </a>
   {{end}}
 
-  <!--
-  <h3 class="article-title mb-1 mt-3">
-    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
-  </h3>
-  -->
   <details>
     <summary>{{ $item.Title }}</summary>
-    {{ with $item.Content }}
+    <h3>{{ i18n "instructors" }}</h3>
+    <ul class="ul-edu fa-ul">
+      {{ range $index, $instructor := $item.Params.instructors }}
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="instructor">{{ $instructor.name }}
+          {{ if $instructor.email }}
+          : <a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ $item.Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>
+          {{ end }}
+          <p class="institution">{{ $instructor.institution }}</p>
+        </div>
+      </li>
+    {{ end }}
+    </ul>
+    <h3>{{ i18n "abstract" }}</h3>
+    {{ with $item.Params.abstract }}
     <div class="article-style">
       <p>{{.}}</p>
     </div>
     {{end}}
+
+    <ul>
+      <li><a href="{{ $item.RelPermalink }}">More info/registration</a></li>
+    </ul>
   </details>
   {{ if $show_buttons }}
   <div class="btn-links">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}
-  {{ if $item.Params.authors }}
+  {{ if $item.Params.instructors }}
   <div class="article-metadata-footer">
   <div>
-    {{ partial "page_metadata_authors" $item }}
+    {{ range $index, $instructor := $item.Params.instructors }}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span>{{ $instructor.name }} ({{ $instructor.institution }})</span>
+    {{ end }}
   </div>
   </div>
   {{ end }}
