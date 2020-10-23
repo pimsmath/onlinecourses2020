@@ -2,19 +2,18 @@
 
 <div class="container">
   <h1>{{ .Title }}</h1>
+  {{ range $index, $instructor := .Params.instructors }}
+  {{- if gt $index 0 }}, {{ end -}}
+  <span>{{ $instructor.name }} ({{ $instructor.institution }})</span>
+  {{ end }}
+  <p>{{ partial "functions/get_course_dates" . }}</p>
 </div>
 
 <section id="course-info" class="home-section">
   <div class="container">
-    <h1>Course Information</h1>
+  <h2>About the course</h2>
     {{ if .Params.abstract }}
-    <h2>{{ i18n "abstract" }}</h2>
     <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
-    {{ end }}
-
-    {{ if .Params.syllabus_txt }}
-    <h2>{{ i18n "syllabus" }}</h2>
-    <p class="pub-syllabus">{{ .Params.syllabus_txt | markdownify }}</p>
     {{ end }}
   </div>
 </section>
@@ -72,10 +71,12 @@ course.</p>
 
 <section id="other-info" class="home-section">
   <div class="container">
-    <h1>Other Information</h1>
+    <h1>Other Course Details</h1>
     <div class="article-style">{{ .Content }}</div>
   </div>
 </section>
+
+
 {{ partial "page_footer" . }}
 
 {{- end -}}
