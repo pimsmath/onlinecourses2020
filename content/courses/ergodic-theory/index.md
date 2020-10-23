@@ -1,0 +1,66 @@
+---
+title: "Ergodic Theory"
+date: 2020-10-21T19:18:22-07:00
+tags: []
+categories: []
+
+registration_open: true
+
+# Schedule page publish date (NOT publication's date).
+publishDate: 2020-10-21T19:18:22-07:00
+
+# Publication name and optional abbreviated publication name.
+course_title: "Ergodic Theory"
+
+instructors:
+- name: Chris Hoffman
+  institution: University of Washington
+  email: hoffman@math.washington.edu
+  primary: true
+
+course_start: 2021-01-01
+course_end: 2021-06-01
+
+# Course number at home institution
+course_number: "N/a"
+
+# Section/Catalog number
+section_number: ""
+
+# Course Code at Home institution
+section_code: ""
+
+# Course Abstract
+# abstract : |
+abstract: |
+  Ergodic theory is the study of dynamical systems from a measurable or
+  statistical point of view. Starting with Poincaré's recurrence theorem and the
+  ergodic theorems of Birkoff and von Neumann ergodic theory in the early
+  twentieth century. The field has applications to many other areas of mathematics
+  including probability, number theory and harmonic analysis.  Among the topics
+  covered will be
+    *  examples of ergodic systems
+    * the mean and pointwise ergodic theorems
+    * mixing conditions
+    * recurrence
+    * entropy and
+    * the Ornstein's Isomorphism Theorem.
+  
+course_website: https://canvas.ubc.ca/courses/59429
+
+# Complete either or both of these when you have a syllabus, prefer txt!
+# syllabus_txt: |
+#
+# (file upload)
+# syllabus_pdf:
+# syllabus_txt: |
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+math: true
+# Free form markdown below this point
+---
+* **Course prerequisites:** Graduate Real Analysis
+* **Reference texts:** Ergodic Theory by Karl Petersen
