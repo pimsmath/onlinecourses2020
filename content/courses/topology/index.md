@@ -33,7 +33,7 @@ section_code: ""
 # Course Abstract
 # abstract : |
 abstract: |
- The title 'Topology' is misleading. A better one would 'Topics in Dynamical
+ The title 'Topology' is misleading. A better one would be 'Topics in Dynamical
  Systems'. Dynamical systems is the mathematical study of models based on the
  idea of a topological space, representing the possible configurations of a
  system and a continuous map (or maps) which represent its time evolution. The
