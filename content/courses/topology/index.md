@@ -1,5 +1,5 @@
 ---
-title: "Topology"
+title: "Cantor Minimal Dynamics"
 date: 2020-10-21T21:02:57-07:00
 tags: []
 categories: []
@@ -33,7 +33,7 @@ section_code: ""
 # Course Abstract
 # abstract : |
 abstract: |
- The title 'Topology' is misleading. A better one would be 'Topics in Dynamical
+ The official title 'Topology' of this course is misleading. A better one would be 'Topics in Dynamical
  Systems'. Dynamical systems is the mathematical study of models based on the
  idea of a topological space, representing the possible configurations of a
  system and a continuous map (or maps) which represent its time evolution. The

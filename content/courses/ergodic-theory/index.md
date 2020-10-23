@@ -18,8 +18,8 @@ instructors:
   email: hoffman@math.washington.edu
   primary: true
 
-course_start: 2021-01-01
-course_end: 2021-06-01
+course_start: 2021-04-01
+course_end: 2021-06-30
 
 # Course number at home institution
 course_number: "N/a"
