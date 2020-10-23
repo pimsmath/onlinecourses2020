@@ -22,13 +22,13 @@ course_start: 2021-01-01
 course_end: 2021-06-01
 
 # Course number at home institution
-course_number: "UVic Math 540 Section A01, Topology"
+course_number: "MATH 540"
 
 # Section/Catalog number
 section_number: "A01"
 
 # Course Code at Home institution
-section_code: "ZZZ"
+section_code: ""
 
 # Course Abstract
 # abstract : |

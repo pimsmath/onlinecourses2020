@@ -22,13 +22,13 @@ course_start: 2021-01-01
 course_end: 2021-06-01
 
 # Course number at home institution
-course_number: "XXX"
+course_number: "EECE 571W"
 
 # Section/Catalog number
-section_number: "YYY"
+section_number: "202"
 
 # Course Code at Home institution
-section_code: "0000"
+section_code: ""
 
 # Course Abstract
 # abstract : |

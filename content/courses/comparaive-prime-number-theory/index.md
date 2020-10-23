@@ -28,7 +28,7 @@ course_number: "MATH 613D"
 section_number: "201"
 
 # Course Code at Home institution
-section_code: "N/A"
+section_code: ""
 
 # Course Abstract
 # abstract : |
