@@ -52,13 +52,15 @@ image:
 
 # Free form markdown below this point
 ---
-**Course prerequisites:**
-    - A course in general topology, or metric space topology.
-    - A course in group theory.
-**Reference texts:**
-     * **Main reference:** Algebraic Topology, by Allen Hatcher.
-Available for free on the author's website:
-http://pi.math.cornell.edu/~hatcher/AT/ATpage.html
-     * **Secondary reference:** A Concise Course in Algebraic Topology, by J. Peter May.
+#### Course prerequisites
+ * A course in general topology, or metric space topology.
+ * A course in group theory.
+
+
+#### Reference texts:
+ * **Main reference:** Algebraic Topology, by Allen Hatcher.
+   Available for free on the author's website:
+   http://pi.math.cornell.edu/~hatcher/AT/ATpage.html
+ * **Secondary reference:** A Concise Course in Algebraic Topology, by J. Peter May.
 Available for free on the author's website:
 https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf

@@ -52,15 +52,15 @@ image:
 
 # Free form markdown below this point
 ---
-**Course prerequisites:**
-     * Topological space
-     * continuous maps
-     * metric space topology
-     * quotient topology
-     * compactness
-     * Basic notions about simplicial complexes, fundamental groups and covering spaces will be helpful, but students will also be given opportunity to self-study about these notions during the first month of the course and help will be offered during tutorials.
+#### Course prerequisites:
+  * Topological space
+  * continuous maps
+  * metric space topology
+  * quotient topology
+  * compactness
+  * Basic notions about simplicial complexes, fundamental groups and covering spaces will be helpful, but students will also be given opportunity to self-study about these notions during the first month of the course and help will be offered during tutorials.
 
-**Reference texts:**
+#### Reference texts
 * [1] A. Hatcher, Algebraic Topology, Cambridge University Press, 2002.
 (Available for free download from
 http://pi.math.cornell.edu/~hatcher/AT/ATpage.html).

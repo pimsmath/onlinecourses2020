@@ -63,12 +63,13 @@ image:
 math: true
 # Free form markdown below this point
 ---
-* **Course Prerequisites:**
+#### Course Prerequisites
   * Linear Algebra: vectors, matrices, quadratic forms, orthogonality, projections, eigenvalues.
   * Calculus: basic multivariate differential calculus such as computing gradients and finding critical points.
   * Statistics: an understanding of estimation and hypothesis testing, knowledge of linear regression is helpful.
   * Discrete Math: familiarity with topics like basic group theory and combinatorics can help, but are not required
-* **Reference texts:**
+
+#### Reference texts
   * My online lecture notes at https://sites.ualberta.ca/~kashlak/data/stat568.pdf.
   * Supplementary texts:
     * Wu, CF Jeff, and Michael S. Hamada. Experiments: planning, analysis, and optimization. Vol. 552. John Wiley & Sons, 2011.

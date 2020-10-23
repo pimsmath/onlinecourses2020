@@ -66,6 +66,9 @@ image:
 math: true
 # Free form markdown below this point
 ---
-**Course prerequisites:** Basic background in programming and numerical analysis desirable. 
-**Reference texts:** D.L. Chopp, Introduction to High Performance Scientific Computing, Society for Industrial and Applied Mathematics, 2019.
+#### Prerequisites
+Basic background in programming and numerical analysis desirable. 
+
+#### Reference texts
+ * D.L. Chopp, Introduction to High Performance Scientific Computing, Society for Industrial and Applied Mathematics, 2019.
 

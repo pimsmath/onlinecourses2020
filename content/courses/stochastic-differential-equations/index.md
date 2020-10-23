@@ -66,8 +66,11 @@ image:
 
 # Free form markdown below this point
 ---
-* **Course Prerequisites:** Some preparation on mathematical analysis and probability theory
-* **Reference Texts:**
+#### Course Prerequisites
+  * Some preparation on mathematical analysis and probability theory
+
+
+#### Reference Texts
   * The main reference book for this course is
     * Øksendal, B. Stochastic differential equations. An introduction with applications. Sixth edition. Universitext. Springer-Verlag, Berlin, 2003. xxiv+360 pp. ISBN: 3-540-04758-1
     * Karatzas, Ioannis; Shreve, Steven E. Brownian motion and stochastic calculus. Second edition. Graduate Texts in Mathematics, 113. Springer-Verlag, New York, 1991. xxiv+470 pp. ISBN: 0-387-97655-8

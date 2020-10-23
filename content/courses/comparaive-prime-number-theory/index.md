@@ -55,7 +55,17 @@ abstract: |
 # Course Website
 # course_website: 
 
-# syllabus_txt:
+syllabus_txt: |
+  The course (MATH 613D at UBC-V) would begin with a quick review of the prime
+  number theorem/explicit formula, then develop the theory of Dirichlet
+  characters, and combine these two sets of tools to prove the prime number
+  theorem in arithmetic progressions. We would then move into comparing two
+  counting functions of primes in arithmetic progressions, going through the
+  history of such comparisons and learning how the normalized difference can be
+  modeled by random variables, thus giving us a way to understand its limiting
+  distribution. Student assessment would be modest and would consist of some
+  combination of presentations, mini problem sets, essays, and reviews of research
+  articles.
 # syllabus_pdf:
 
 image:
@@ -65,3 +75,13 @@ image:
 
 # Free form markdown below this point
 ---
+#### Prerequisites
+
+Prerequisites would be a solid course (preferably graduate-level) in elementary
+number theory, and a graduate-level course in analytic number theory, one that
+included a proof of the prime number theorem and the corresponding "explicit
+formula". An undergraduate course in probability would also be helpful.
+
+#### Reference Texts
+Reference texts would be standard analytic number theory books by Iwaniec &
+Kowalski, by Montgomery & Vaughan, and by Titchmarsh.
