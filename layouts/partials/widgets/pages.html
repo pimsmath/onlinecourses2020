@@ -43,6 +43,11 @@
 {{ if $st.Params.content.filters.exclude_future }}
   {{ $query = where $query "Date" "<" now }}
 {{ end }}
+{{ if $st.Params.content.filters.registration }}
+  {{ $query = where $query "Params.registration_open" "!=" true }}
+{{ else }}
+  {{ $query = where $query "Params.registration_open" "==" true }}
+{{ end }}
 
 {{ $count := len $query }}
 

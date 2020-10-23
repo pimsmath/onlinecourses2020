@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Upcoming Courses"
-subtitle = "Expand each item to see a course abstract"
+subtitle = "The courses in this section are accepting registrations. Expand each item to see the course details and registration information."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -32,6 +32,7 @@ subtitle = "Expand each item to see a course abstract"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
+    registration_open = true
     
 [design]
   # Toggle between the various page layout types.

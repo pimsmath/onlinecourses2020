@@ -2,3 +2,5 @@
   translation: Syllabus
 - id: instructors
   translation: Instructor(s)
+- id: otherinfo
+  translation: Other Information
