@@ -36,7 +36,7 @@ The Pacific Institute for the Mathematical Sciences is pleased to announce the
 following network-wide graduate courses in mathematical sciences. These courses
 are available online and provide access to experts from throughout the PIMS
 network. Students at Canadian PIMS member universities apply for graduate credit
-via the <a href="#wda">Western Deans Agreement</i></a>, but please be advised,
+via the <a href="#wda">Western Dean's Agreement</i></a>, but please be advised,
 in some cases, students must enroll 6 weeks in advance of the term start date.
 Please see the individual courses below for more details including registration
 instructions.
