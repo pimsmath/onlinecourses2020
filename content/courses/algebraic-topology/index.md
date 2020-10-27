@@ -50,11 +50,11 @@ image:
   focal_point: ""
   preview_only: false
 
+prerequisites:
+  - A course in general topology, or metric space topology.
+  - A course in group theory.
 # Free form markdown below this point
 ---
-#### Course prerequisites
- * A course in general topology, or metric space topology.
- * A course in group theory.
 
 
 #### Reference texts:

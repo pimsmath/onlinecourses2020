@@ -64,12 +64,11 @@ image:
   focal_point: ""
   preview_only: false
 
+prerequisites:
+  - Some preparation on mathematical analysis and probability theory
+
 # Free form markdown below this point
 ---
-#### Course Prerequisites
-  * Some preparation on mathematical analysis and probability theory
-
-
 #### Reference Texts
   * The main reference book for this course is
     * Øksendal, B. Stochastic differential equations. An introduction with applications. Sixth edition. Universitext. Springer-Verlag, Berlin, 2003. xxiv+360 pp. ISBN: 3-540-04758-1

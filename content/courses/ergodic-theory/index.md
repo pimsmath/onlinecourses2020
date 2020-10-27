@@ -59,11 +59,9 @@ image:
   focal_point: ""
   preview_only: false
 
-math: true
 # Free form markdown below this point
+prerequisites:
+ - Graduate Real Analysis
 ---
-#### Course prerequisites
- * Graduate Real Analysis
-
 #### Reference texts
  * Ergodic Theory by Karl Petersen

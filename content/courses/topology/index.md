@@ -61,6 +61,10 @@ image:
   focal_point: ""
   preview_only: false
 
+prerequisites:
+  - A good course in abstract algebra, up to the first isomorphism theorem and a
+    good course in general topology. The course is accessible to advanced
+    undergraduates with a good background.
 # Free form markdown below this point
 ---
 

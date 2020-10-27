@@ -4,3 +4,5 @@
   translation: Instructor(s)
 - id: otherinfo
   translation: Other Information
+- id: prerequisites
+  translation: Prerequisites

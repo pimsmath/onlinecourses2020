@@ -73,15 +73,13 @@ image:
   focal_point: ""
   preview_only: false
 
+prerequisites:
+  - Solid course (preferable graduate-level) in elementary number theory
+  - Graduate level course in analytic number theory, one that includes a proof
+    of the prime number theorem and the corresponding "explicit formula"
+  - Undergraduate course in probability would also be helpful
 # Free form markdown below this point
 ---
-#### Prerequisites
-
-Prerequisites would be a solid course (preferably graduate-level) in elementary
-number theory, and a graduate-level course in analytic number theory, one that
-included a proof of the prime number theorem and the corresponding "explicit
-formula". An undergraduate course in probability would also be helpful.
-
 #### Reference Texts
 Reference texts would be standard analytic number theory books by Iwaniec &
 Kowalski, by Montgomery & Vaughan, and by Titchmarsh.

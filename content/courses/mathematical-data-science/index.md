@@ -78,7 +78,10 @@ image:
   focal_point: ""
   preview_only: false
 
-math: true
+prerequisites:
+  - Working knowledge of probability and linear algebra
+  - No prior knowledge on graph theory is assumed
+
 # Free form markdown below this point
 ---
 
@@ -95,10 +98,6 @@ Wiley & Sons, Inc.,
 2000.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118032718)
 1. [Noga Alon and Joel H. Spencer, The Probabilistic Method, 4th Edition, Wiley,
    2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/0471722154)
-
-### Prerequisites
-Working knowledge of probability and linear algebra. No prior knowledge on graph
-theory is assumed.
 
 ### Assessment scheme
 * **Grading**: Homework 50% and paper reading 50% (presentations 20%, critical

@@ -70,13 +70,11 @@ image:
   focal_point: ""
   preview_only: false
 
-math: true
+prerequisites:
+  - Graduate level abstract algebra and complex analysis. Knowledge to Lie
+    algebras would be helpful but not essential.
 # Free form markdown below this point
 ---
-#### Course prerequisites
-
-Graduate level abstract algebra and complex analysis. Knowledge to Lie algebras would be helpful but not essential.
-
 #### Reference texts
   1. Lepowsky-Li, Introduction to vertex algebras and its representation theory
   2. Vertex Operator Algebras and the Monster by Igor Frenkel, James Lepowsky, and Arne Meurman

@@ -48,29 +48,46 @@
     <summary>{{ $item.Title }}</summary>
     <div class="row">
       <div class="col-lg-6">
-        <h3><i class="fas fa-graduation-cap"></i> {{ i18n "instructors" }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range $index, $instructor := $item.Params.instructors }}
-          <li>
-            <i class="fa-li fas fa-user-alt"></i>
-            <div class="description">
-              <p class="instructor">{{ $instructor.name }}
-              {{ if $instructor.email }}
-              : <a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ $item.Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>
-              {{ end }}
-              <p class="institution">{{ $instructor.institution }}</p>
-            </div>
-          </li>
-          {{ end }}
-        </ul>
+        <div id="instructors">
+          <h3><i class="fas fa-graduation-cap"></i> {{ i18n "instructors" }}</h3>
+          <ul class="ul-edu fa-ul">
+            {{ range $index, $instructor := $item.Params.instructors }}
+            <li>
+              <i class="fa-li fas fa-user-alt"></i>
+              <div class="description">
+                <p class="instructor">{{ $instructor.name }}
+                {{ if $instructor.email }}
+                : <a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ $item.Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a>
+                {{ end }}
+                <p class="institution">{{ $instructor.institution }}</p>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div id="prerequisites">
+          <h3><i class="fas fa-list"></i> {{ i18n "prerequisites" }}</h3>
+          <ul class="ul-edu fa-ul">
+            {{ range $index, $prereq := $item.Params.prerequisites }}
+            <li>
+              <i class="fa-li fas fa-check"></i>
+              <div class="description">
+                <p class="prerequisite">{{ $prereq }}</p>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
       <div class="col-lg-6">
         <h3><i class="fas fa-sign-in-alt"></i> Registration</h3>
           <div class="article-style">
             {{ if $item.Params.registration_open }}
             <p>This course is available for registration under the Western
-            Dean's Agreement. To register, you must obtain the approval of the
-            course instructor (use the email link to the left) and you must complete the <a target="_blank"
+            Dean's Agreement but registrations must be approved by the course
+            instructor. Please contact the instructor (using the email link to
+            the left) including details of how you meet the prerequisites.
+            Following that, you must complete the <a target="_blank"
             href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western
           Deans' agreement form  <i class="fas fa-file-pdf"
             aria-hidden="true"></i></a>, using the details below. The completed
