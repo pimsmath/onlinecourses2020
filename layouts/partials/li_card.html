@@ -139,6 +139,14 @@
             <p>{{ . | markdownify }}</p>
           </div>
           {{ end }}
+        {{ else if $item.Params.syllabus_pdf }}
+          <h2>{{ i18n "syllabus" }}</h2>
+          {{ with $item.Params.syllabus_pdf }}
+          <div class="article_style">
+            {{ $resource := $item.Resources.GetMatch "*.pdf" }}
+            <a href="{{ path.Join $item.RelPermalink . | relURL }}" target="_blank" rel="noopener">{{ . }} <i class="fas fa-file-pdf"></i></a>
+          </div>
+          {{ end }}
         {{ end }}
         <h2>{{ i18n "otherinfo" }}</h2>
         {{ with $item.Content }}

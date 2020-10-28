@@ -22,13 +22,13 @@ course_start: 2021-01-01
 course_end: 2021-06-01
 
 # Course number at home institution
-course_number: "N/a"
+course_number: "CMPT 851.3"
 
 # Section/Catalog number
-section_number: ""
+section_number: "02"
 
 # Course Code at Home institution
-section_code: ""
+section_code: "23923"
 
 # Course Abstract
 # abstract : |
@@ -55,7 +55,7 @@ abstract: |
 # syllabus_txt: |
 #
 # (file upload)
-# syllabus_pdf:
+syllabus_pdf: syllabus_CMPT851_W2021.pdf
 # syllabus_txt:
 
 image:

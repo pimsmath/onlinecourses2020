@@ -22,10 +22,10 @@ course_start: 2021-01-01
 course_end: 2021-06-01
 
 # Course number at home institution
-course_number: "N/A"
+course_number: "Math 663"
 
 # Section/Catalog number
-section_number: "N/A"
+section_number: "Topics in Applied Mathematics I: Stochastic differential equations"
 
 # Course Code at Home institution
 section_code: "N/A"
@@ -57,7 +57,7 @@ abstract: |
 # course_website: 
 
 # syllabus_txt:
-# syllabus_pdf:
+syllabus_pdf: hu_sde_abstract_2021.pdf
 
 image:
   caption: ""

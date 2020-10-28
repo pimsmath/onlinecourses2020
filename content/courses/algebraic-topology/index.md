@@ -43,7 +43,7 @@ abstract: |
 # course_website: 
 
 # syllabus_txt:
-# syllabus_pdf:
+syllabus_pdf: syllabus.pdf
 
 image:
   caption: ""

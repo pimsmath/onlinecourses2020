@@ -22,13 +22,13 @@ course_start: 2021-01-01
 course_end: 2021-06-01
 
 # Course number at home institution
-course_number: "N/a"
+course_number: "STAT568"
 
 # Section/Catalog number
-section_number: "N/a"
+section_number: "STAT568 - R1"
 
 # Course Code at Home institution
-section_code: "N/a"
+section_code: "45966"
 
 # Course Abstract
 # abstract : |
@@ -53,7 +53,7 @@ abstract: |
 # syllabus_txt: |
 #
 # (file upload)
-# syllabus_pdf:
+syllabus_pdf: stat568_syllabus2021.pdf
 
 image:
   caption: ""
