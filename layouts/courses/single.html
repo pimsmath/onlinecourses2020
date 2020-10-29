@@ -1,0 +1,92 @@
+{{- define "main" -}}
+
+<div class="container-fluid">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      <ul class="nav docs-sidenav">
+        <li><a href="#course-info">Overview</a></li>
+        <li><a href="#registration">Registration</a></li>
+        <li><a href="#other-info">Other Information</a></li>
+      </ul>
+    </div>
+    <div class="d-none d-xm-block col-xl-2 docs-toc"></div>
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 -pl-md-4 docs-content">
+      <article class="article">
+        <div class="docs-article-container">
+          <section id="course-info">
+            <h1>{{ .Title }}</h1>
+            {{ range $index, $instructor := .Params.instructors }}
+            {{- if gt $index 0 }}, {{ end -}}
+            <span>{{ $instructor.name }} ({{ $instructor.institution }})</span>
+            {{ end }}
+            <p>{{ partial "functions/get_course_dates" . }}</p>
+            <h2>About the course</h2>
+              {{ if .Params.abstract }}
+              <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+              {{ end }}
+          </section>
+          <section id="registration">
+              <h1>Registration</h1>
+          <p>This course is available for registration under the Western Dean's
+          Agreement. To register, you must obtain the approval of the course instructor
+          and you must complete the <a target="_blank" href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western Dean's agreement form  <i class="fas fa-file-pdf" aria-hidden="true"></i></a>, using the details
+          below. The completed form should be signed by your home institution department
+          and school of graduate studies, then returned to the host institution of the
+          course.</p>
+              <div class="row">
+                <div class="col-lg-12">
+                  <h2>Enrollment Details</h2>
+                  <dl class="row">
+                    <dt class="col-sm-4">Course Name</dt>
+                    <dd class="col-sm-8">{{ .Params.course_title }}</dd>
+                    <dt class="col-sm-4">{{ i18n "date" }}</dt>
+                    <dd class="col-sm-8">{{ partial "functions/get_course_dates" . }}</dd>
+                    <dt class="col-sm-4">Course Number</dt>
+                    <dd class="col-sm-8">{{ .Params.course_number }}</dd>
+                    <dt class="col-sm-4">Section Number</dt>
+                    <dd class="col-sm-8">{{ .Params.section_number }}</dd>
+                    <dt class="col-sm-4">Section Code</dt>
+                    <dd class="col-sm-8">{{ .Params.section_code }}</dd>
+                  </dl>
+                </div>
+                <div class="col-lg-12">
+                  <h2><i class="fas fa-graduation-cap"></i> {{ i18n "instructors" }}</h2>
+                  <ul class="ul-edu fa-ul">
+                    {{ range $index, $instructor := .Params.instructors }}
+                    <li>
+                      <i class="fa-li fas fa-user-alt"></i>
+                      <div class="description">
+                        <p class="instructor">{{ $instructor.name }}</p>
+                        {{ if $instructor.email }}
+                        <p class="email"><a href='mailto:{{ $instructor.email }}?subject=PIMS Course registration enquiry : {{ .Title }}'>{{ $instructor.email }} <i class="fa fa-envelope" aria-hidden="true"></i></a></p>
+                        {{ end }}
+                        <p class="institution">{{ $instructor.institution }}</p>
+                      </div>
+                    </li>
+                  {{ end }}
+                  </ul>
+                  <p>For help with completing the Western Dean’s agreement form, please contact
+                  the graduate student program coordinator at your institution. For more
+                  information about the agreement, please see the <a
+                  target="_blank" href="http://wcdgs.ca/western-deans-agreement.html">Western Dean's Agreement
+                  website <i class="fas fa-external-link-alt"></i></a></p>
+                </div>
+          </section>
+
+          <section id="other-info">
+            <h1>Other Course Details</h1>
+            <div class="article-style">{{ .Content }}</div>
+          </section>
+        </div>
+      </article>
+    </main>
+  </div>
+</div>
+
+
+
+
+
+{{ partial "page_footer" . }}
+
+{{- end -}}

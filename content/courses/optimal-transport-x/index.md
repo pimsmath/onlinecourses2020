@@ -1,14 +1,35 @@
 ---
 title: "Optimal Transport + X"
-event: "Online course in Optimal Transport"
 publishdate: 2020-05-25T10:00:47-07:00
 date: "2020-09-01T13:00:00Z"
-date_end: "2020-12-30T15:00:00Z"
-event_url: https://pims.math.ca
-math: true
-draft: false
-authors:
- - Brendan Pass (University of Alberta)
+tags: []
+categories: []
+
+registration_open: false
+
+course_title: "Optimal Transport + X"
+
+instructors:
+ - name: Brendan Pass
+   institution: University of Alberta
+   email: pass@ualberta.ca
+
+course_start: 2020-09-01
+course_end: 2020-12-30
+
+course_number: N/a
+section_number: N/a
+section_code: 0
+
+abstract: |
+  This course is part of a long-term initiative to develop integrated teaching and
+  learning optimal transport infrastructure connecting the various PIMS sites. The
+  plan is to offer this course several times over the next few years; in each
+  iteration, ‘X’ will be chosen from the many disciplines in which optimal
+  transport places an important role, including data science/statistics,
+  computation, biology,finance, etc. **In Fall, 2020 we will take
+  'X'="economics".**
+
 ---
 
 This course is part of a long-term initiative to develop integrated teaching and

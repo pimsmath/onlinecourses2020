@@ -20,7 +20,7 @@ copyright = "&copy; 2020 PIMS"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+# theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -41,7 +41,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [permalinks]
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
-  categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
 
 [outputs]
@@ -74,7 +73,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # Taxonomies.
 [taxonomies]
   tag = "tags"
-  category = "categories"
   publication_type = "publication_types"
   author = "authors"
   course = "course"
+
+[module]
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic"

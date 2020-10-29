@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Upcoming Courses"
-subtitle = "The courses in this section are accepting registrations. Expand each item to see the course details and registration information."
+title = "Previous Courses"
+subtitle = "The courses in this section are no longer accepting registrations. Expand each item to see a course abstract"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -32,7 +32,7 @@ subtitle = "The courses in this section are accepting registrations. Expand each
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    registration_open = true
+    registration = true
     
 [design]
   # Toggle between the various page layout types.
@@ -57,7 +57,7 @@ subtitle = "The courses in this section are accepting registrations. Expand each
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  
 
   # Text color (true=light or false=dark).
   # text_color_light = true  

@@ -32,16 +32,12 @@ hero_media = "pims-avatar.png"
   text_color_light = false
 
 +++
-{{% alert note %}}
-For inquiries about enrollment for fall/winter 2020 term courses, please [contact the course instructors](#wda) directly.
-{{% /alert %}}
+The Pacific Institute for the Mathematical Sciences is pleased to announce the
+following network-wide graduate courses in mathematical sciences. These courses
+are available online and provide access to experts from throughout the PIMS
+network. Students at Canadian PIMS member universities apply for graduate credit
+via the <a href="#wda">Western Dean's Agreement</i></a>, but please be advised,
+in some cases, students must enroll 6 weeks in advance of the term start date.
+Please see the individual courses below for more details including registration
+instructions.
 
-PIMS is pleased to announce four new network-wide graduate courses in
-mathematical sciences! These courses provide remote access to experts across the
-PIMS network. Students at PIMS Canadian member universities can get graduate
-credit via the <a href="#wda">Western
-Deans Agreement</i></a>. Be advised, in some
-cases, students must enroll 6 weeks in advance of the next term.
-
-Please complete the <a href="/#register" data-target="#register">sign-up form</a>
-below to receive more information on these courses. 
