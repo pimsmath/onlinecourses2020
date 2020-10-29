@@ -19,7 +19,7 @@ instructors:
 
 # Start and end dates
 course_start: 2020-09-01
-course_end: 2020-12-31
+course_end: 2020-12-30
 
 # Course number at home institution
 course_number: "Geography 825"
