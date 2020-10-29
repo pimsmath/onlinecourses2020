@@ -155,6 +155,13 @@
           </div>
           {{ end }}
         {{ end }}
+        {{ if $item.Params.course_website }}
+        <h2>{{ i18n "coursewebsite" }}</h2>
+        <div class="article-style">
+          {{ with $item.Params.course_website }}
+          <p><a href="{{ . }}" target="_blank" rel="noopener">{{ . }} <i class="fas fa-external-link-alt"></i></a></p>
+          {{ end }}
+        {{ end }}
         <h2>{{ i18n "otherinfo" }}</h2>
         {{ with $item.Content }}
         <div class="article-style">
