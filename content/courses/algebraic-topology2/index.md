@@ -87,9 +87,13 @@ students to cover by themselves from the provided textbooks. The remaining
 weekly time will be used for tutorials, covering problems and examples,
 explaining details of proofs, and having students work in small groups and
 report on their solutions. The online platform used will be Zoom, with
-synchronous teaching that will be recorded for asynchronous viewing. Grading
-scheme Homework 20% Midterm 30% Final 50% Number of students from PIMS
-affiliated universities and from elsewhere The instructor reserves the right to
-limit the number of students from outside of SFU. He will allow for additional
-students who will not take the course for credit (their homework and exams will
-not be graded).
+synchronous teaching that will be recorded for asynchronous viewing. 
+
+#### Grading Scheme
+ * Homework 20%
+ * Midterm 30% 
+ * Final 50% 
+
+The instructor reserves the right to limit the number of students from outside
+of SFU. He will allow for additional students who will not take the course for
+credit (their homework and exams will not be graded).
