@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Vertex Algebras and its Representation Theory"
+title: "Introduction to Vertex Algebras and Their Representation Theory"
 date: 2020-10-21T19:18:22-07:00
 tags: []
 categories: []
@@ -10,7 +10,7 @@ registration_open: true
 publishDate: 2020-10-21T19:18:22-07:00
 
 # Publication name and optional abbreviated publication name.
-course_title: "Introduction to Vertex Algebras and its Representation Theory"
+course_title: "Introduction to Vertex Algebras and Their Representation Theory"
 
 instructors:
 - name: Fei Qi
