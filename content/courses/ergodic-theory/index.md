@@ -13,7 +13,7 @@ publishDate: 2020-10-21T19:18:22-07:00
 course_title: "Ergodic Theory"
 
 instructors:
-- name: Chris Hoffman
+- name: Christopher Hoffman
   institution: University of Washington
   email: hoffman@math.washington.edu
   primary: true
