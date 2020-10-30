@@ -22,7 +22,7 @@ course_start: 2021-04-01
 course_end: 2021-06-30
 
 # Course number at home institution
-course_number: "N/a"
+course_number: "Not yet available (see below)"
 
 # Section/Catalog number
 section_number: ""
@@ -63,5 +63,9 @@ image:
 prerequisites:
  - Graduate Real Analysis
 ---
+#### Registration
+This course will run between April and June of 2021, and is not yet open for
+registration. Registration details will be posted here when they are available
+and will be required by February 15th, 2021.
 #### Reference texts
  * Ergodic Theory by Karl Petersen
