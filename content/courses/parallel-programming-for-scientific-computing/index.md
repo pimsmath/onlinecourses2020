@@ -18,8 +18,8 @@ instructors:
   email: spiteri@cs.usask.ca
   primary: true
 
-course_start: 2021-01-01
-course_end: 2021-06-01
+course_start: 2021-01-14
+course_end: 2021-04-30
 
 # Course number at home institution
 course_number: "CMPT 851.3"
