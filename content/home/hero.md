@@ -37,7 +37,8 @@ following network-wide graduate courses in mathematical sciences. These courses
 are available online and provide access to experts from throughout the PIMS
 network. Students at Canadian PIMS member universities apply for graduate credit
 via the <a href="#wda">Western Dean's Agreement</i></a>, but please be advised,
-in some cases, students must enroll 6 weeks in advance of the term start date.
-Please see the individual courses below for more details including registration
-instructions.
+in some cases, students must enroll 6 weeks in advance of the term start date,
+and students may be required to pay ancillary fees to the host institution (as
+much as $250), or explicitly request exemptions from some items.  Please see the
+individual courses below for more details including registration instructions.
 
