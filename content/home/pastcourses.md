@@ -41,7 +41,8 @@ subtitle = "The courses in this section are no longer accepting registrations. E
   #   3 = Card
   #   4 = Citation (publication only)
   view = 3
-  
+  columns = "1"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
