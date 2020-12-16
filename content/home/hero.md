@@ -43,6 +43,6 @@ advised, in some cases, students must enroll 6 weeks in advance of the term
 start date, and will typically be required to pay ancillary fees to the
 host institution (as much as $250) or explicitly request exemptions.  Please
 see the <a href="#wda">WDA section</a> for details of fees at
-specific sites, and check the individual courses below for specific registration
+specific sites, and check the individual courses below for registration
 details.
 
