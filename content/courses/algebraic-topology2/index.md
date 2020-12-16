@@ -35,10 +35,11 @@ section_code: ""
 abstract: |
   This is a basic level graduate course with introduction to algebraic topology
   and its applications in combinatorics, graph theory and geometry.  The course
-  will cover introductory chapters from [1] and parts of [2].  Time permitting, we
-  may touch some recent topics like the topology of random simplicial complexes.
-  The instructor expects that students with interests in topology and those with
-  interests in discrete mathematics and geometry would find the course suitable.
+  will cover introductory chapters from [1] and parts of [2].  With a guest
+  lecture by Nati Linial from Israel, we will also touch some recent topics like
+  the topology of random simplicial complexes.  The instructor expects that
+  students with interests in topology and those with interests in discrete
+  mathematics and geometry would find the course suitable.
 # Course Website
 # course_website: 
 
