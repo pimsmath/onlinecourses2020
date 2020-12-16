@@ -56,23 +56,25 @@ contact page <i class="fas fa-external-link-alt"></i></a>.
 
 #### University of Saskatchewan
 
+_Please see [Student Fees at the University of
+Saskatchwan](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees)
+for potential fees and exemption requirements._
+
  * Chair of Graduate Committee
    - Steven Rayan: mathgrad@math.usask.ca
  * Graduate Admin:
    - Kyla Denton: Kyla@math.usask.ca
 
-_Please see [Student Fees at the University of
-Saskatchwan](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees)
-for potential fees or exemption requirements._
 
 
 #### Simon Fraser University
- * Graduate Program Assistant
-   - Nicole Ceron: mathgsec@sfu.ca
-
 _Please see [Student Fees at Simon Fraser
 University](https://www.sfu.ca/gradstudies/apply/tuition-and-fees/fees.html) for
 potential fees and exemption requirements._
+
+ * Graduate Program Assistant
+   - Nicole Ceron: mathgsec@sfu.ca
+
 
 #### University of Victoria
  * Graduate advisor
