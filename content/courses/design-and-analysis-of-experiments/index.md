@@ -15,7 +15,7 @@ course_title: "Design and Analysis of Experiments"
 instructors:
 - name: Adam Kashlak
   institution: University of Alberta
-  email: Kashlak@umanitoba.ca
+  email: Kashlak@ualberta.ca
   primary: true
 
 course_start: 2021-01-01
