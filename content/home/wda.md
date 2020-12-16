@@ -55,12 +55,15 @@ contact page <i class="fas fa-external-link-alt"></i></a>.
    - Karen Meagher: karen.meagher@uregina.ca
 
 #### University of Saskatchewan
+
  * Chair of Graduate Committee
    - Steven Rayan: mathgrad@math.usask.ca
  * Graduate Admin:
    - Kyla Denton: Kyla@math.usask.ca
- * [Student fee
-   details](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees)
+
+_Please see [Student Fees at the University of Saskatchwan](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees) for any applicable fees or exemption requirements._
+
+
 #### Simon Fraser University
  * Graduate Program Assistant
    - Nicole Ceron: mathgsec@sfu.ca
