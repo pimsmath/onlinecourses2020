@@ -85,10 +85,10 @@ potential fees and exemption requirements._
 The Western Deans' Agreement provides an automatic tuition fee waiver for
 visiting students. Graduate students paying normal required tuition fees at
 their home institution will not pay tuition fees to the host institution.
-However, students may be required to pay other ancillary fees to the host
-institution, or explicitly request exemptions from some items (e.g. Insurance
-or travel fees).  For help with completing the Western Deans' agreement form,
-please contact the graduate advisor at your institution.
-For more information about the agreement, please see the <a target="_blank"
+However, students will typically be required to pay other ancillary fees to the
+host institution (as much as $250) or explicitly request exemptions (e.g.
+Insurance or travel fees).  For help completing the Western Deans'
+agreement form, please contact the graduate advisor at your institution.  For
+more information about the agreement, please see the <a target="_blank"
 href="http://wcdgs.ca/western-deans-agreement.html">Western Deans' Agreement
 website <i class="fas fa-external-link-alt"></i></a>.
