@@ -59,7 +59,8 @@ contact page <i class="fas fa-external-link-alt"></i></a>.
    - Steven Rayan: mathgrad@math.usask.ca
  * Graduate Admin:
    - Kyla Denton: Kyla@math.usask.ca
-
+ * [Student fee
+   details](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees)
 #### Simon Fraser University
  * Graduate Program Assistant
    - Nicole Ceron: mathgsec@sfu.ca
