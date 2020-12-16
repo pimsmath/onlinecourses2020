@@ -45,9 +45,10 @@ much as $250) or explicitly request exemptions.  Please see the <a
 href="#wda">WDA section</a> for details of fees at specific sites, and check the
 individual courses below for registration details.
 
-Students at Canadian universities not covered by the WDA may still be eligible
-to enroll under the terms of the Canadian University Graduate Transfer Agreement
-(CUGTA) of the [Canadian Association for Graduate Studies
-(CAGS)](https://cags.ca/). The details of this program vary by university and
-are also typically subject to ancillary fees so please contact your local
-Graduate Student Advisor for more information.
+Students at universities not covered by the WDA but which are part of the <a
+target="_blank" href="https://cags.ca">Canadian Association for Graduate Studies
+(CAGS) <i class="fas fa-external-link-alt"></i></a> may still be eligible to
+register for this course under the Canadian University Graduate Transfer
+Agreement (CUGTA).  Details of this program vary by university and are also
+typically subject to ancillary fees. Please contact your local Graduate Student
+Advisor for more information.
