@@ -61,12 +61,18 @@ contact page <i class="fas fa-external-link-alt"></i></a>.
  * Graduate Admin:
    - Kyla Denton: Kyla@math.usask.ca
 
-_Please see [Student Fees at the University of Saskatchwan](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees) for any applicable fees or exemption requirements._
+_Please see [Student Fees at the University of
+Saskatchwan](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees)
+for potential fees or exemption requirements._
 
 
 #### Simon Fraser University
  * Graduate Program Assistant
    - Nicole Ceron: mathgsec@sfu.ca
+
+_Please see [Student Fees at Simon Fraser
+University](https://www.sfu.ca/gradstudies/apply/tuition-and-fees/fees.html) for
+potential fees and exemption requirements._
 
 #### University of Victoria
  * Graduate advisor
