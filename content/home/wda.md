@@ -77,6 +77,10 @@ potential fees and exemption requirements._
 
 
 #### University of Victoria
+_Please see [Student Fees at the University of
+Victoria ("Other fees" section)](https://www.uvic.ca/calendar/grad/index.php#/policy/B146lofuE?bc=true&bcCurrent=03%20-%20Regulations%20Concerning%20Tuition%20Fees%20for%20Graduate%20Programs&bcGroup=Tuition%20and%20Other%20Fees&bcItemType=policies)
+for potential fees and exemption requirements._
+
  * Graduate advisor
    - Dr. Marcelo Laca: msgradad@uvic.ca
  * Graduate secretary
