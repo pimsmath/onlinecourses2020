@@ -38,6 +38,9 @@ fees).
    - Dr. J. Kuttler: jochen.kuttler@ualberta.ca
 
 #### University of British Columbia
+_Please see [Student Fees at the University of British
+Columbia](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/graduate-student-fees) for
+potential fees and exemption requirements._
  * Mathematics Graduate Chair
    - Dr. Michael Ward : gradchair@math.ubc.ca
  * Mathematics Graduate Program Coordinator 
