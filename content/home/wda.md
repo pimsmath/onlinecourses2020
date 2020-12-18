@@ -21,7 +21,7 @@ The completed form should be returned to your graduate advisor who will sign it
 and take the required steps. For students at PIMS sites, a list of graduate
 advisors is given below, contacts for other sites can be found on the <a
 target="_blank" href="http://wcdgs.ca/contact-us.html">Western Deans' Agreement
-contact page <i class="fas fa-external-link-alt"></i></a>.  .  Note that: The
+contact page <i class="fas fa-external-link-alt"></i></a>. Note that: The
 Western Deans' Agreement provides an automatic tuition fee waiver for visiting
 students. Graduate students paying normal required tuition fees at their home
 institution will not pay tuition fees to the host institution. However, students
