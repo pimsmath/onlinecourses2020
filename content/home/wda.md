@@ -21,7 +21,14 @@ The completed form should be returned to your graduate advisor who will sign it
 and take the required steps. For students at PIMS sites, a list of graduate
 advisors is given below, contacts for other sites can be found on the <a
 target="_blank" href="http://wcdgs.ca/contact-us.html">Western Deans' Agreement
-contact page <i class="fas fa-external-link-alt"></i></a>.
+contact page <i class="fas fa-external-link-alt"></i></a>. Note that: The
+Western Deans' Agreement provides an automatic tuition fee waiver for visiting
+students. Graduate students paying normal required tuition fees at their home
+institution will not pay tuition fees to the host institution. However, students
+will typically be required to pay other ancillary fees to the host institution
+(as much as $250) or explicitly request exemptions (e.g. Insurance or travel
+fees).
+
 
 
 #### University of Alberta
@@ -86,13 +93,8 @@ for potential fees and exemption requirements._
  * Graduate secretary
    - Ms. Amy Almeida: msgstt@uvic.ca
 
-The Western Deans' Agreement provides an automatic tuition fee waiver for
-visiting students. Graduate students paying normal required tuition fees at
-their home institution will not pay tuition fees to the host institution.
-However, students will typically be required to pay other ancillary fees to the
-host institution (as much as $250) or explicitly request exemptions (e.g.
-Insurance or travel fees).  For help completing the Western Deans'
-agreement form, please contact the graduate advisor at your institution.  For
-more information about the agreement, please see the <a target="_blank"
+For help completing the Western Deans' agreement form, please contact the
+graduate advisor at your institution.  For more information about the agreement,
+please see the <a target="_blank"
 href="http://wcdgs.ca/western-deans-agreement.html">Western Deans' Agreement
 website <i class="fas fa-external-link-alt"></i></a>.
