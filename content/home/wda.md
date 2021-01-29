@@ -26,7 +26,7 @@ Western Deans' Agreement provides an automatic tuition fee waiver for visiting
 students. Graduate students paying normal required tuition fees at their home
 institution will not pay tuition fees to the host institution. However, students
 will typically be required to pay other ancillary fees to the host institution
-(as much as $250) or explicitly request exemptions (e.g. Insurance or travel
+(as much as $270) or explicitly request exemptions (e.g. Insurance or travel
 fees).
 
 

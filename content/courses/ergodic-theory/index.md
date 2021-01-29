@@ -6,6 +6,8 @@ categories: []
 
 registration_open: true
 
+course_upcoming: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-21T19:18:22-07:00
 
@@ -22,7 +24,7 @@ course_start: 2021-04-01
 course_end: 2021-06-30
 
 # Course number at home institution
-course_number: "Not yet available (see below)"
+course_number: "Not yet available (see Other Information below)"
 
 # Section/Catalog number
 section_number: ""

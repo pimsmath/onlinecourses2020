@@ -41,7 +41,7 @@ Students at Canadian PIMS member universities may apply for graduate credit via
 the <a href="#wda">Western Deans' Agreement (WDA)</i></a>. Please be advised, in
 some cases students must enroll 6 weeks in advance of the term start date and
 will typically be required to pay ancillary fees to the host institution (as
-much as $250) or explicitly request exemptions.  Please see the <a
+much as $270) or explicitly request exemptions.  Please see the <a
 href="#wda">WDA section</a> for details of fees at specific sites, and check the
 individual courses below for registration details.
 
