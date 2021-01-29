@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Upcoming Courses"
 subtitle = "The courses in this section are accepting registrations. Expand each item to see the course details and registration information."
@@ -33,6 +33,7 @@ subtitle = "The courses in this section are accepting registrations. Expand each
     exclude_past = false
     exclude_future = false
     registration_open = true
+    upcoming = true
     
 [design]
   # Toggle between the various page layout types.

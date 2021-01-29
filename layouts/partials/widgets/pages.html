@@ -49,6 +49,12 @@
 {{ else }}
   {{ $query = where $query "Params.registration_open" "==" true }}
 {{ end }}
+{{ if $st.Params.content.filters.upcoming }}
+  {{ $query = where $query "Params.course_upcoming" "==" true }}
+{{ else }}
+  {{ $query = where $query "Params.course_upcoming" "!=" true }}
+{{ end }}
+{{ $count := len $query }}
 {{ $count := len $query }}
 
 {{/* Sort */}}

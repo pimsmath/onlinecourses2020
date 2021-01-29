@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
-title = "Previous Courses"
-subtitle = "The courses in this section are no longer accepting registrations. Expand each item to see a course abstract"
+title = "Current Courses"
+subtitle = "The courses in this section are currently running and may not be accepting registrations. Expand each item to see the course details."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -32,7 +32,7 @@ subtitle = "The courses in this section are no longer accepting registrations. E
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    registration = true
+    registration_open = true
     upcoming = false
     
 [design]
@@ -43,7 +43,7 @@ subtitle = "The courses in this section are no longer accepting registrations. E
   #   4 = Citation (publication only)
   view = 3
   columns = "1"
-
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -59,7 +59,7 @@ subtitle = "The courses in this section are no longer accepting registrations. E
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
-  
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
