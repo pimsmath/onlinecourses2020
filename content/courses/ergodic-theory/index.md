@@ -39,14 +39,14 @@ abstract: |
   twentieth century. The field has applications to many other areas of mathematics
   including probability, number theory and harmonic analysis.  Among the topics
   covered will be
-    *  examples of ergodic systems
+    * examples of ergodic systems
     * the mean and pointwise ergodic theorems
     * mixing conditions
     * recurrence
     * entropy and
     * the Ornstein's Isomorphism Theorem.
   
-course_website: https://canvas.ubc.ca/courses/59429
+course_website:
 
 # Complete either or both of these when you have a syllabus, prefer txt!
 # syllabus_txt: |
