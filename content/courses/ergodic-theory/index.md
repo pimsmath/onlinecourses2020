@@ -19,6 +19,10 @@ instructors:
   institution: University of Washington
   email: hoffman@math.washington.edu
   primary: true
+- name: Anthony Quas
+  institution: University of Victoria
+  email: aquas@uvic.ca
+  primary: false
 
 course_start: 2021-03-29
 course_end: 2021-06-04
