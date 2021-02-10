@@ -20,17 +20,17 @@ instructors:
   email: hoffman@math.washington.edu
   primary: true
 
-course_start: 2021-04-01
-course_end: 2021-06-30
+course_start: 2021-03-29
+course_end: 2021-06-04
 
 # Course number at home institution
-course_number: "Not yet available (see Other Information below)"
+course_number: MATH580 (UVic)
 
 # Section/Catalog number
 section_number: ""
 
 # Course Code at Home institution
-section_code: ""
+section_code: "Topics in Pure Mathematics"
 
 # Course Abstract
 # abstract : |
@@ -66,8 +66,13 @@ prerequisites:
  - Graduate Real Analysis
 ---
 #### Registration
-This course will run between April and June of 2021, and is not yet open for
-registration. Registration details will be posted here when they are available
-and will be required by February 15th, 2021.
+This course will run between **March 29th and June 6th of 2021**, and is *now open
+for registration*. Please note that this course is shared between the
+University of Washington and the University of Victoria. **Canadian students
+wishing to register for credit under the WDA should use the details above for
+the course at the University of Victoria.** Please note that for some sites
+students must register at least 6 weeks before the course start date, for this
+course that deadline is **February 15th, 2021**.
+
 #### Reference texts
  * Ergodic Theory by Karl Petersen
