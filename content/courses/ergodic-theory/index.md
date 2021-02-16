@@ -70,13 +70,15 @@ prerequisites:
  - Graduate Real Analysis
 ---
 #### Registration
-This course will run between **March 29th and June 6th of 2021**, and is *now open
-for registration*. Please note that this course is shared between the
-University of Washington and the University of Victoria. **Canadian students
-wishing to register for credit under the WDA should use the details above for
-the course at the University of Victoria.** Please note that for some sites
-students must register at least 6 weeks before the course start date, for this
-course that deadline is **February 15th, 2021**.
+This course will run between **March 29th and June 6th of 2021**, and is *now
+open for registration*. Please note that this course is shared between the
+University of Washington and the University of Victoria. The course will taught
+primarily by by Prof. Hoffman (UWashington) **Canadian students wishing to
+register for credit under the WDA should use the details above for the course at
+the University of Victoria and should direct any registration enquiries to Prof.
+Quas (UVic).** Please note that for some sites students must register at least 6
+weeks before the course start date, for this course that deadline is **February
+15th, 2021**.
 
 #### Reference texts
  * Ergodic Theory by Karl Petersen
