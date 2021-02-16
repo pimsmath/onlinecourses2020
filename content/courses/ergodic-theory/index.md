@@ -68,6 +68,7 @@ image:
 # Free form markdown below this point
 prerequisites:
  - Graduate Real Analysis
+ - Measure Theory
 ---
 #### Registration
 This course will run between **March 29th and June 6th of 2021**, and is *now
