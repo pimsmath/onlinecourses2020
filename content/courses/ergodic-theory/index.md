@@ -6,7 +6,7 @@ categories: []
 
 registration_open: true
 
-course_upcoming: true
+course_upcoming: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-21T19:18:22-07:00
