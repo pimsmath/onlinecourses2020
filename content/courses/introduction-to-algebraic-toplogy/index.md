@@ -35,16 +35,16 @@ section_code: " MATH 625 L01"
 # Course Abstract
 # abstract : |
 abstract: |
-  Official Calendar Description: Introduction to the algebraic invariants that
-  distinguish topological spaces. Focuses on the fundamental group and its
-  applications, and homology. Introduction to the basics of homological algebra.
+  Introduction to the algebraic invariants that distinguish topological spaces.
+  Focuses on the fundamental group and its applications, and homology.
+  Introduction to the basics of homological algebra.
   
-  Unofficial adorned version: This course introduces the algebraic invariants that
-  distinguish topological spaces. The course will focus on the fundamental group
-  and its applications and homology. Students will also learn the basics of
-  homological algebra. Over the last few decades, algebraic topology has developed
-  many applications to data science, materials science, and robotics. Whenever
-  possible, connections to these emerging research fields will be discussed.
+  This course introduces the algebraic invariants that distinguish topological
+  spaces. The course will focus on the fundamental group and its applications
+  and homology. Students will also learn the basics of homological algebra. Over
+  the last few decades, algebraic topology has developed many applications to
+  data science, materials science, and robotics. Whenever possible, connections
+  to these emerging research fields will be discussed.
 
 
 # course_website:
@@ -62,5 +62,14 @@ image:
   preview_only: false
 
 prerequisites:
+- An undergraduate course in Real Analysis including metric spaces and the
+  topology of the plane (University of Calgary [Math
+  445](https://contacts.ucalgary.ca/info/math/courses/w20/MATH445),
+  [447](https://contacts.ucalgary.ca/info/math/courses/w20/MATH447) or
+  equivalent), or a course in point set topology.
+- An undergraduate course in Abstract Algebra including introduction to groups,
+  rings and fields (University of Calgary [Math
+  431](https://contacts.ucalgary.ca/info/math/courses/f19/MATH431) or
+  equivalent).
 ---
 
