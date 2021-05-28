@@ -15,7 +15,7 @@ publishDate: 2021-05-17T12:18:22-07:00
 course_title: "Introduction to Mathematical Biology"
 
 instructors:
-- name: Eric Cytrnybaum
+- name: Eric Cytrynbaum
   institution: University of British Columbia
   email: cytryn@math.ubc.ca
   primary: true
