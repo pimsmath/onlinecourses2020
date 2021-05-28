@@ -39,8 +39,7 @@ abstract: |
   cultivating an appropriate mindset for approaching security and privacy issues
   and developing basic familiarity with related technical controls.
 
-  This course may not be repeated for credit and is not intended for students
-  specializing in information security and privacy technologies.
+  This course may not be repeated for credit.
 # course_website:
 
 # Complete either or both of these when you have a syllabus, prefer txt!
@@ -82,6 +81,6 @@ image:
   preview_only: false
 
 prerequisites:
-# Free form markdown below this point
+- This course is _not_ intended for students specializing in information security and privacy technologies.
 ---
 
