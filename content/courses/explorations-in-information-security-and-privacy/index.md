@@ -38,7 +38,9 @@ abstract: |
   Surveys topics in information security and privacy, with the purposes of
   cultivating an appropriate mindset for approaching security and privacy issues
   and developing basic familiarity with related technical controls.
-  This course may not be repeated for credit.
+
+  This course may not be repeated for credit and is not intended for students
+  specializing in information security and privacy technologies.
 # course_website:
 
 # Complete either or both of these when you have a syllabus, prefer txt!
