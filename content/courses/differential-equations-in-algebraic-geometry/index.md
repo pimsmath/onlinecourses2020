@@ -24,7 +24,7 @@ course_start: 2021-09-01
 course_end: 2021-12-31
 
 # Course number at home institution
-course_number: ""
+course_number: "Math 676 - Topics in Geometry I"
 
 # Section/Catalog number
 section_number: ""
