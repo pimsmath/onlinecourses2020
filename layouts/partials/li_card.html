@@ -72,7 +72,7 @@
             <li>
               <i class="fa-li fas fa-check"></i>
               <div class="description">
-                <p class="prerequisite">{{ $prereq }}</p>
+                <p class="prerequisite">{{ $prereq | markdownify | emojify }}</p>
               </div>
             </li>
             {{ end }}
