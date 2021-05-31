@@ -27,7 +27,7 @@ course_end: 2021-12-31
 course_number: "Math 676 - Topics in Geometry I"
 
 # Section/Catalog number
-section_number: ""
+section_number: "LEC-A1-57019"
 
 # Course Code at Home institution
 section_code: ""
