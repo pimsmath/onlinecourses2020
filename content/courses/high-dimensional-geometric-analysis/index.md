@@ -27,7 +27,7 @@ course_start: 2022-01-01
 course_end: 2022-04-30
 
 # Course number at home institution
-course_number: ""
+course_number: "Math 617 - Topics in Functional Analysis"
 
 # Section/Catalog number
 section_number: ""
@@ -61,8 +61,13 @@ abstract: |
 # syllabus_txt: |
 #
 # (file upload)
-syllabus_pdf:
-# syllabus_txt:
+# syllabus_pdf:
+syllabus_txt: |
+  Banach-Mazur distance; John’s theorem and applications;
+  Dvoretsky’s theorem; M-ellipsoids; the Fourier transform of distributions;
+  the Busemann-Petty problem; Shephard’s problem; Additional topics at the
+  discretion of the instructors.
+
 
 image:
   caption: ""
@@ -70,5 +75,7 @@ image:
   preview_only: false
 
 prerequisites:
+- University of Alberta [Math 411](https://apps.ualberta.ca/catalogue/course/math/411) Complex Analysis (or equivalent)
+- University of Alberta [Math 418](https://apps.ualberta.ca/catalogue/course/math/418) or [Math 516](https://apps.ualberta.ca/catalogue/course/math/516) Real Analysis and Introduction to Functional Analysis (or equivalent)
 ---
 

@@ -26,7 +26,7 @@ course_start: 2021-09-01
 course_end: 2021-12-31
 
 # Course number at home institution
-course_number: ""
+course_number: "Math 566 - Topics in Optimal Transport"
 
 # Section/Catalog number
 section_number: ""
