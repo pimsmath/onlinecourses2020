@@ -15,11 +15,15 @@ publishDate: 2021-05-17T12:18:22-07:00
 course_title: "Optimal Transport + Machine Learning (OT + ML)"
 
 instructors:
-- name: Zaid Harchaoui
+- name: Zaid Harchaoui (teaching)
   institution: University of Washington
-- name: Soumik Pal
+- name: Soumik Pal (teaching)
   institution: University of Washington
   email: soumikpal@gmail.com
+  primary: true
+- name: Young-Heon Kim (WDA administrator)
+  institution: University of British Columbia
+  email: yhkim@math.ubc.ca
   primary: true
 
 course_start: 2021-09-01
