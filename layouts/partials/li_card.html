@@ -19,7 +19,7 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="card-simple">
+<div id="{{ $item.Title | anchorize }}" class="card-simple">
 
   {{ if eq $item.Type "courses" }}
   <div class="article-metadata">
@@ -43,6 +43,7 @@
       <img src="{{ $image.RelPermalink }}" class="article-banner" alt="">
   </a>
   {{end}}
+
 
   <details>
     <summary>{{ $item.Title }}</summary>
