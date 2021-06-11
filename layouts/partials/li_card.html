@@ -19,7 +19,7 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div id="{{ $item.Title | anchorize }}" class="card-simple">
+<div class="card-simple">
 
   {{ if eq $item.Type "courses" }}
   <div class="article-metadata">
@@ -45,7 +45,7 @@
   {{end}}
 
 
-  <details>
+  <details id="{{ $item.Title | anchorize }}">
     <summary>{{ $item.Title }}</summary>
     <div class="row">
       <div class="col-lg-6">
