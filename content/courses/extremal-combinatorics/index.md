@@ -22,7 +22,7 @@ instructors:
 - name: Karen Meagher
   institution: University of Regina
 - name: Venkata Raghu Tej Pantangi
-  institution: Southern University of Science and Technology
+  institution: University of Lethbridge
 
 course_start: 2022-01-01
 course_end: 2022-04-30
