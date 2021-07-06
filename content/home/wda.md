@@ -61,10 +61,6 @@ fees).
 -->
 
 #### University of Alberta
- * Graduate Administration
-   - Peng Wang: mathgrad@ualberta.ca
- * Graduate Chair
-   - Dr. J. Kuttler: jochen.kuttler@ualberta.ca
 
 {{< wdainstruction 
   site="UAlberta"
