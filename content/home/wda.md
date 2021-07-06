@@ -29,13 +29,44 @@ will typically be required to pay other ancillary fees to the host institution
 (as much as $270) or explicitly request exemptions (e.g. Insurance or travel
 fees).
 
-
+<!--
+<div class="form-group row">
+    <label for="homeInstitution" class="col-lg-2 col-form-label">Home Institution</label>
+    <select class="col-lg-4 form-control" aria-label="Select home institution" name="homeInstitution" id="homeInstitution">
+      <option value="ua">University of Alberta</option
+      <option value="ubc">University of British Columbia</option>
+      <option value="uc">University of Calgary</option>
+      <option value="ul">University of Lethbridge</option>
+      <option value="um">University of Manitoba</option>
+      <option value="ur">University of Regina</option>
+      <option value="us">University of Saskatchewan</option>
+      <option value="sfu">Simon Fraser University</option>
+      <option value="uv">University of Victoria</option>
+      <option value="uw">University of Washington</option>
+    </select>
+    <label for="remoteInstitution" class="col-lg-2 col-form-label">Remote Institution</label>
+    <select class="col-lg-4 form-control" aria-label="Select remote institution" name="remoteInstitution" id="remoteInstitution">
+      <option value="ua">University of Alberta</option
+      <option value="ubc">University of British Columbia</option>
+      <option value="uc">University of Calgary</option>
+      <option value="ul">University of Lethbridge</option>
+      <option value="um">University of Manitoba</option>
+      <option value="ur">University of Regina</option>
+      <option value="us">University of Saskatchewan</option>
+      <option value="sfu">Simon Fraser University</option>
+      <option value="uv">University of Victoria</option>
+      <option value="uw">University of Washington</option>
+    </select>
+</div>
+-->
 
 #### University of Alberta
  * Graduate Administration
    - Peng Wang: mathgrad@ualberta.ca
  * Graduate Chair
    - Dr. J. Kuttler: jochen.kuttler@ualberta.ca
+
+{{< wdainstruction direction="inbound" site="UAlberta" in-instructions="Complete application form and obtain all 4 signatures.  Submit form to UA department. By signing the WDA form, the student's home department is providing written assurance that the course(s) listed on the form: (a) is not available at the home university; (b) is required for the student's program; and (c) will be credited toward the student's graduate degree program upon successful completion." in-deadline="Not given" in-contact="grad-mail@ualberta.ca" in-site-admin="Kimberly Wilke Budinsky pimsasst@ualberta.ca" out-instructions="Complete application form and obtain all 4 signatures.  Submit form to host department.     By approving the WDA application, the department at the University of Alberta is certifying that the course(s) listed on the form: (a) is not available at the University of Alberta; (b) is required for the student's program; and (c) will be credited to the student's graduate degree program upon successful completion with a satisfactory grade." out-site-admin="Kimberly Wilke Budinsky pimsasst@ualberta.ca" out-deadlne="Not given" out-contact="grad-mail@ualberta.ca" >}}
 
 #### University of British Columbia
 _Please see [Student Fees at the University of British

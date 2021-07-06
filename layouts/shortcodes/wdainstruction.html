@@ -1,0 +1,46 @@
+<div class="wda-instruction">
+  <div class="row">
+    <div class="col-lg-6">
+      <div class="card-simple">
+        <details id="{{ .Get "direction" }}">
+          <summary>
+            {{ .Get "site" }} inbound students
+          </summary>
+          <dl class="row">
+            <dt class="col-sm-4">Contact</dt>
+            <dd class="col-sm-8">{{ .Get "in-contact" }}</dt>
+            <dt class="col-sm-4">Deadline</dt>
+            <dd class="col-sm-8">{{ .Get "in-deadline" }}</dt>
+            {{ if .Get "in-site-dir" }}
+            <dt class="col-sm-4">Site Director</dt>
+            <dd class="col-sm-8">{{ .Get "in-site-dir" }}</dt>
+            {{ end }}
+            <dt class="col-sm-4">Site Admin</dt>
+            <dd class="col-sm-8">{{ .Get "in-site-admin" }}</dt>
+          </dl>
+          <p>{{ .Get "in-instructions"}}</p>
+        </details>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="card-simple">
+        <details id="{{ .Get "direction" }}">
+          <summary>
+            {{ .Get "site" }} outbound students
+          </summary>
+          <dl class="row">
+            <dt class="col-sm-4">Contact</dt>
+            <dd class="col-sm-8">{{ .Get "out-contact" }}</dt>
+            <dt class="col-sm-4">Deadline</dt>
+            <dd class="col-sm-8">{{ .Get "out-deadline" }}</dt>
+            <dt class="col-sm-4">Site Director</dt>
+            <dd class="col-sm-8">{{ .Get "out-site-dir" }}</dt>
+            <dt class="col-sm-4">Site Admin</dt>
+            <dd class="col-sm-8">{{ .Get "out-site-admin" }}</dt>
+          </dl>
+          <p>{{ .Get "out-instructions"}}</p>
+        </details>
+      </div>
+    </div>
+  </div>
+</div>
