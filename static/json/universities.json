@@ -1,0 +1,377 @@
+{
+    "ua": {
+        "id": "ua",
+        "name": "University of Alberta",
+        "incoming": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Graduate enquiries",
+                    "email": "grad.mail@ualberta.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Kimberley Wilke-Budinski",
+                "email": "pimsasst@ualberta.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to UA department.     By signing the WDA form, the student's home department is providing written assurance that the course(s) listed on the form: (a) is not available at the home university; (b) is required for the student's program; and (c) will be credited toward the student's graduate degree program upon successful completion.",
+                "The University of Alberta does not place restrictions on the number of courses that may be taken under the WDA; however, the FGSR at the University of Alberta reserves the right to limit that number. Before applying, it is the student's responsibility to ensure that the course(s) the student wishes to take will be recognized as part of the graduate degree program by their home University. If acceptable to the home University, the courses can be taken as audits.",
+                "For each course requested under the WDA, authorized signatures from the department(s) offering the course(s) at the University of Alberta are needed. The department is under no obligation to accept a student into a particular course.",
+                "For courses taken at the University of Alberta, students will be assessed only Non-Instructional fees by the University of Alberta. If a course requires additional expenses under University of Alberta policy, the department will require that the student pay these.  Fees are $484.43 for Fall, $216 for Summer and cannot be waived."
+            ]
+        },
+        "outgoing": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Graduate enquiries",
+                    "email": "grad.mail@ualberta.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Kimberley Wilke-Budinski",
+                "email": "pimsasst@ualberta.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.     By approving the WDA application, the department at the University of Alberta is certifying that the course(s) listed on the form: (a) is not available at the University of Alberta; (b) is required for the student's program; and (c) will be credited to the student's graduate degree program upon successful completion with a satisfactory grade.",
+                "All the requirements and course prerequisites of the university where the student plans to take the course(s) must be met. The university where the student plans to take the course(s) is under no obligation to accept a student into a particular course and that university may restrict the number of courses which a student may take under the WDA.",
+                "For thesis-based master's and doctoral students, up to two half-course equivalents (six units of course weights) may be taken under the WDA. No more than two half-course equivalents will be considered since the policy of the Faculty of Graduate Studies and Research (FGSR) provides for the transfer credit of a maximum of two half-courses or equivalent into a University of Alberta thesis-based graduate degree program. Courses taken under the WDA are counted toward the two half-course limit for transfer credit. ",
+                "For course-based master's students, up to one-third of a course-based master's program may be met through transfer credit or course exemption or a combination of both, if recommended by the department and approved by the FGSR. Therefore the number of courses a student is eligible to take under the WDA depends on meeting this requirement and prior approval of the department and the FGSR.",
+                "For each term of study under the WDA, the student will register at the University of Alberta in an Exchange (EXCH) course, which will be equivalent to the course weight registration at the university where the student is taking the course(s). The student will be assessed fees for that EXCH course at the University of Alberta. In accordance with the provisions of the WDA the student will be assessed general student fees, but no regular instructional fees by the university where the course(s) are being taken. If a course requires additional expenses, the university may require the student to pay these additional expenses."
+            ]
+        }
+    },
+    "ubc": {
+        "id": "ubc",
+        "name": "University of British Columbia",
+        "incoming": {
+            "deadline": "6 weeks prior to start of term",
+            "contacts": [
+                {
+                    "name": "Michael Ward (Graduate Director)",
+                    "email": "ward@math.ubc.ca"
+                },
+                {
+                    "name": "Kirsten Cameron (Academic Support)",
+                    "email": "kirsten.cameron@ubc.ca"
+                },
+                {
+                    "name": "Rebecca Kim (Information Clerk)",
+                    "email": "rebecca.kim@ubc.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Brian Marcus",
+                "email": "marcus@math.ubc.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to UBC department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.  The total student fee is $400.  Any student can opt-out of the U-Pass, about $200 (students from  SFU are automatically opted out because they get a U-Pass from SFU).  Any student can opt out of medical insurance (IMED, about $100) but must state that they have other medical insurance (domestic students are automatically opted-out because it is assumed they have medical insurance from their home institution).  This leaves a residual of about $100 that the student pays. Student is responsible for ordering an official transcript from UBC and have it sent to their home institution."
+            ]
+        },
+        "outgoing": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Kirsten Cameron",
+                    "email": "kirsten.cameron@ubc.ca"
+                },
+                {
+                    "name": "Rebecca Kim",
+                    "email": "rebecca.kim@ubc.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Brian Marcus",
+                "email": "marcus@math.ubc.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+            ]
+        }
+    },
+    "uc": {
+        "id": "uc",
+        "name": "University of Calgary",
+        "incoming": {
+            "deadline": "Nov 1 for January, Mar 1 for May, May 1 for July, July 1 for September",
+            "contacts": [
+                {
+                    "name": "Faculty of Graduate Studies",
+                    "email": "graduate@ucalgary.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Carrie Ragan",
+                "email": "carrie.ragan@ucalgary.ca"
+            },
+            "instructions": [
+                "A graduate student registered in the Faculty of Graduate Studies at one university may apply for student status at a university covered under the Western Deans’ Agreement by completing the appropriate application which requires approval of the Graduate Program Director, and the Faculty of Graduate Studies at both the student’s home and host universities. See the Faculty of Graduate Studies website for a list of universities covered by The Western Deans’ Agreement.",
+                "Applications should be received in the Faculty of Graduate Studies at the host institution three months before the beginning of the term at the University of Calgary.",
+                "The student pays tuition and general fees at the home university and applicable general fees at the host institution.  Ancillary fees at UC are $101.98.",
+                "The student is responsible for arranging for an official transcript to be sent from the host institution to the home institution when the course(s) has been completed."
+            ]
+        },
+        "outgoing": {
+            "deadline": "Recommendation is 3 months before start of term",
+            "contacts": [
+                {
+                    "name": "Faculty of Graduate Studies",
+                    "email": "graduate@ucalgary.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Carrie Ragan",
+                "email": "carrie.ragan@ucalgary.ca"
+            },
+            "instructions": [
+                "A graduate student registered in the Faculty of Graduate Studies at one university may apply for student status at a university covered under the Western Deans’ Agreement by completing the appropriate application which requires approval of the Graduate Program Director, and the Faculty of Graduate Studies at both the student’s home and host universities. See the Faculty of Graduate Studies website for a list of universities covered by The Western Deans’ Agreement.",
+                "Applications should be received in the Faculty of Graduate Studies at the host institution three months before the beginning of the term at the University of Calgary.",
+                "The student pays tuition and general fees at the home university and applicable general fees at the host institution.",
+                "The student is responsible for arranging for an official transcript to be sent from the host institution to the home institution when the course(s) has been completed."
+            ]
+        }
+    },
+    "ul": {
+        "id": "ul",
+        "name": "University of Lethbridge",
+        "incoming": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "School of Graduate Studies",
+                    "email": "sgs@uleth.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Barb Hodgson",
+                "email": "hodgsonb@uleth.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to UL department.   Students are responsible to request an official transcript from the host institution.There are no ancillary fees."
+            ]
+        },
+        "outgoing": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "School of Graduate Studies",
+                    "email": "sgs@uleth.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Barb Hodgson",
+                "email": "hodgsonb@uleth.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+            ]
+        }
+    },
+    "um": {
+        "id": "um",
+        "name": "University of Manitoba",
+        "incoming": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Student Affairs Registrar's Office",
+                    "email": "registrar.office@umanitoba.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "John DiNoto",
+                "email": "john.dinoto@umanitoba.ca"
+            },
+            "instructions": [
+                "1.  Fill out the WDA agreement form",
+                "2.  Have your department fill out Part 1 under Home Institution.",
+                "3.  Submit the form, along with a course description of the course you wish to take, to the Faculty of Graduate Studies, 500 University Centre.",
+                "4.  The Faculty of Graduate Studies will contact the Host Institution for their approval.",
+                "5.  When the approval has been granted by the Host Institution, you will receive a Letter of Permission from the Registrar's Office at University of Manitoba.  You should also ensure that you have received an admission letter from the Host Institution and you are responsible for ensuring you are registered for the course at the Host Institution.  Students pay ancillary fees (last year $86).",
+                "6.  When the course has been completed and a grade assigned, please arrange to have an official transcript of marks from the Host Institution sent directly to the Registrar's Office, 400 University Centre, University of Manitoba."
+            ]
+        },
+        "outgoing": {
+            "deadline": "June 1, October 1",
+            "contacts": [
+                {
+                    "name": "Student Affairs Registrar's Office",
+                    "email": "registrar.office@umanitoba.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "John DiNoto",
+                "email": "john.dinoto@umanitoba.ca"
+            },
+            "instructions": [
+                "If you qualify for the WDA, please fill out the WDA agreement form found on the WDA website and contact the UM Faculty of Graduate Studies office directly."
+            ]
+        }
+    },
+    "ur": {
+        "id": "ur",
+        "name": "University of Regina",
+        "incoming": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Faculty of Graduate Studies and Research",
+                    "email": "grad.studies@uregina.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Connie Renwick",
+                "email": "connie.renwick@uregina.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to UR department.  Students pay potential ancillary fees.  Students are responsible to request an official transcript from the host institution."
+            ]
+        },
+        "outgoing": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Faculty of Graduate Studies and Research",
+                    "email": "grad.studies@uregina.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Connie Renwick",
+                "email": "connie.renwick@uregina.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+            ]
+        }
+    },
+    "us": {
+        "id": "us",
+        "name": "University of Saskatchewan",
+        "incoming": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "College of Graduate and Postdoctoral Studies",
+                    "email": "grad.studies@usask.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Kyla Denton",
+                "email": "kyla@math.usask.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to US department.  Students pay potential ancillary fees.   For Math/Stats the Distance Education fees are $49.25.  Other departments may differ.  Students are responsible to request an official transcript from the host institution."
+            ]
+        },
+        "outgoing": {
+            "deadline": "",
+            "contacts": [
+                {
+                    "name": "College of Graduate and Postdoctoral Studies",
+                    "email": "grad.studies@usask.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Kyla Denton",
+                "email": "kyla@math.usask.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+            ]
+        }
+    },
+    "sfu": {
+        "id": "sfu",
+        "name": "Simon Fraser University",
+        "incoming": {
+            "deadline": "6 weeks prior to start of term",
+            "contacts": [
+                {
+                    "name": "Nicole Ceron (Mathematics Graduate Program Assistant)",
+                    "email": "mathgsec@sfu.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Weiran Sun",
+                "email": "weiran-sun@sfu.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain home institution approvals.  Submit form to Mathematics Graduate Program Assistant who will forward it to department graduate chair and then graduate studies.  Students need to pay ancillary fee to SFU (last year $75.13).  Once accepted, student will get a student number from SFU.  Student is responsible for ordering an official transcript from SFU and have it sent to their home institution."
+            ]
+        },
+        "outgoing": {
+            "deadline": "6 weeks prior to start of term",
+            "contacts": [
+                {
+                    "name": "Nicole Ceron (Mathematics Graduate Program Assistant)",
+                    "email": "mathgsec@sfu.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Weiran Sun",
+                "email": "weiran-sun@sfu.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+            ]
+        }
+    },
+    "uv": {
+        "id": "uv",
+        "name": "University of Victoria",
+        "incoming": {
+            "deadline": "6 weeks prior to start of the course",
+            "contacts": [
+                {
+                    "name": "Maria Soriano (GARO Records Officer (Math/Stats))",
+                    "email": "grad7@uvic.ca",
+                    "phone": "(250) 721-7974"
+                },
+                {
+                    "name": "Anne Humphrey (GARO Records Officer (Computer Science))",
+                    "email": "grad17@uvic.ca",
+                    "phone": "(250) 721-7957"
+                }
+            ],
+            "site_admin": {
+                "name": "Kristina McKinnon",
+                "email": "pims@uvic.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution.",
+                "UVic does not require completion of a regular application for admission and will waive the usual application fee. Once the WDA form is received in GARO with the appropriate signatures from the student’s home department and home graduate office, it will be forwarded to the department in which the course is offered, for approval.",
+                "The proposed host department is not obligated to accept the applicant. When returned to this office, it is given to the Director of GARO for final approval.",
+                "You will receive a letter indicating the outcome of your request. You will be registered in the course(s) upon approval.",
+                " Students pay ancillary fees ($77.96 after opt out).  Students are responsible to request an official transcript from the host institution."
+            ]
+        },
+        "outgoing": {
+            "deadline": "6 weeks prior to start of the course",
+            "contacts": [
+                {
+                    "name": "Bettina Mueller-Browne (GARO Records Officer (Math/Stats))",
+                    "email": "grad8@uvic.ca",
+                    "phone": "(250) 721-6687"
+                },
+                {
+                    "name": "Tricia Charlton (GARO Records Officer (Computer Science))",
+                    "email": "grad5@uvic.ca",
+                    "phone": "(250) 472 5057"
+                }
+            ],
+            "site_admin": {
+                "name": "Kristina McKinnon",
+                "email": "pims@uvic.ca"
+            },
+            "instructions": [
+                "Students must complete a WDA authorization and course registration form, specifying the host institution, the exact courses and their unit values.",
+                "The form must be supported with the signature from the supervisor of their committee. The form must then be returned to Graduate Admissions and Records (GARO) for the Director’s approval along with a course syllabus and information indicating the grading of the course.",
+                "If approval is given, the form will be sent directly to the host institution for their approvals.",
+                "Contact the potential host institution for details as soon as you receive verbal approval from your supervisor.  Students pay potential ancillary fees.",
+                "Student will arrange for official transcripts from the host institution confirming successful completion of course.",
+                "Student must send confirmation of registration and notice of any change to the Graduate Records Office of the home institution at the time of registration or course change is completed."
+            ]
+        }
+    }
+}
