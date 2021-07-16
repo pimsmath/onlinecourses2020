@@ -17,33 +17,17 @@ you must obtain the approval of the course instructor.  Once you have obtained
 their approval please complete the <a target="_blank"
 href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western
 Deans' agreement form <i class="fas fa-file-pdf" aria-hidden="true"></i></a>.
-The exact process and deadlines vary by site, but the general steps for student
+The exact process and deadlines vary by site, but the general steps for students
 at PIMS member universities are
 
+1. Obtain the approval of the course instructor.
 1. Contact your home department and obtain the necessary signatures.
-1. Contact the PIMS Site administrator at your home site.
-1. The PIMS Site Admin from your university will liaise with "outgoing" contact
-   at their university and Site Admin at host university to make sure form is
-   transferred.
-1. The PIMS Site Admin at host university will liaise with "incoming" contact at
-   their university and make sure that complete documentation has been received
-   from the student
-1. Once student is accepted, host the PIMS Site Admin will be available to
-   assist students with obtaining waivers and paying necessary fees (or
-   referring them to the appropriate "incoming" contact).
-1. After course completion, the host site PIMS Admin will be available to assist
-   student with ordering of transcripts (or referring them to the appropriate
-   "incoming" contact).
+1. Follow the procedures at your host institution to complete and submit the
+   application form, CC the PIMS Site Admins for both your home site and host
+   university when submitting the application.
+1. The PIMS Site Admins will be available to assist you with document tracking,
+   fee payments and waivers, ordering transcripts, etc.
 
-A list of PIMS Site administrators and other information is given below,
-contacts for other sites can be found on the <a target="_blank"
-href="http://wcdgs.ca/contact-us.html">Western Deans' Agreement contact page <i
-class="fas fa-external-link-alt"></i></a>. Note that: The Western Deans'
-Agreement provides an automatic tuition fee waiver for visiting students.
-Graduate students paying normal required tuition fees at their home institution
-will not pay tuition fees to the host institution. However, students will
-typically be required to pay other ancillary fees to the host institution (as
-much as $270) or explicitly request exemptions (e.g. Insurance or travel fees).
 
 Select your university and the university hosting the course you are interested
 in below. Read both sets of instructions _carefully_ before proceeding.
@@ -93,6 +77,15 @@ in below. Read both sets of instructions _carefully_ before proceeding.
   </div>
 </form>
 
+
+
+
+Please note: The Western Deans' Agreement provides an automatic tuition fee waiver
+for visiting students.  Graduate students paying normal required tuition fees at
+their home institution will not pay tuition fees to the host institution.
+However, students will typically be required to pay other ancillary fees to
+the host institution (as much as $270) or explicitly request exemptions (e.g.
+Insurance or travel fees).
 
 
 For help completing the Western Deans' agreement form, please contact the
