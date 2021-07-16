@@ -45,13 +45,16 @@ will not pay tuition fees to the host institution. However, students will
 typically be required to pay other ancillary fees to the host institution (as
 much as $270) or explicitly request exemptions (e.g. Insurance or travel fees).
 
+Select your university and the university hosting the course you are interested
+in below. Read both sets of instructions _carefully_ before proceeding.
+
 <form class="p-3">
   <div class="form-group">
     <div class="row">
       <div class="col-6">
-        <label for="firstUniversity">First University</label>
+        <label for="firstUniversity">Your University</label>
         <select class="form-control" id="firstUniversity">
-          <option value="" disabled selected>Select first university</option>
+          <option value="" disabled selected>Select your university</option>
           <option value="ua">UA</option>
           <option value="ubc">UBC</option>
           <option value="uc">UC</option>
@@ -64,9 +67,9 @@ much as $270) or explicitly request exemptions (e.g. Insurance or travel fees).
         </select>
       </div>
       <div class="col-6">
-        <label for="secondUniversity">Second University</label>
+        <label for="secondUniversity">Host University</label>
         <select class="form-control" id="secondUniversity">
-          <option value="" disabled selected>Select second university</option>
+          <option value="" disabled selected>Select the host university for your course</option>
           <option value="ua">UA</option>
           <option value="ubc">UBC</option>
           <option value="uc">UC</option>
