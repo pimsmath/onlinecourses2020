@@ -52,9 +52,8 @@ in below. Read both sets of instructions _carefully_ before proceeding.
   <div class="form-group">
     <div class="row">
       <div class="col-6">
-        <label for="firstUniversity">Your University</label>
         <select class="form-control" id="firstUniversity">
-          <option value="" disabled selected>Select your university</option>
+          <option value="" disabled selected>Your university</option>
           <option value="ua">UA</option>
           <option value="ubc">UBC</option>
           <option value="uc">UC</option>
@@ -67,9 +66,8 @@ in below. Read both sets of instructions _carefully_ before proceeding.
         </select>
       </div>
       <div class="col-6">
-        <label for="secondUniversity">Host University</label>
         <select class="form-control" id="secondUniversity">
-          <option value="" disabled selected>Select the host university for your course</option>
+          <option value="" disabled selected>Course University</option>
           <option value="ua">UA</option>
           <option value="ubc">UBC</option>
           <option value="uc">UC</option>
