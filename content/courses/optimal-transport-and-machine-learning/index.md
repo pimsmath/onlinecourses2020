@@ -1,6 +1,6 @@
 ---
 title: "Optimal Transport + Machine Learning (OT + ML)"
-date: 2021-05-17T12:18:22-07:00
+date: 2021-07-18T12:18:22-07:00
 tags: []
 categories: []
 
@@ -62,7 +62,8 @@ abstract: |
   learning will be particularly helpful. The course will be interspersed
   with numerical illustrations. Familiarity with coding in Python or R is a
   plus.
-# course_website:
+
+course_website: https://sites.math.washington.edu/~soumik/OTML.html
 
 # Complete either or both of these when you have a syllabus, prefer txt!
 # syllabus_txt: |
