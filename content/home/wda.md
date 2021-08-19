@@ -17,84 +17,77 @@ you must obtain the approval of the course instructor.  Once you have obtained
 their approval please complete the <a target="_blank"
 href="http://wcdgs.ca/content/dam/ex/wcdgs/Western-Deans-Agreement.pdf">Western
 Deans' agreement form <i class="fas fa-file-pdf" aria-hidden="true"></i></a>.
-The completed form should be returned to your graduate advisor who will sign it
-and take the required steps. For students at PIMS sites, a list of graduate
-advisors is given below, contacts for other sites can be found on the <a
-target="_blank" href="http://wcdgs.ca/contact-us.html">Western Deans' Agreement
-contact page <i class="fas fa-external-link-alt"></i></a>. Note that: The
-Western Deans' Agreement provides an automatic tuition fee waiver for visiting
-students. Graduate students paying normal required tuition fees at their home
-institution will not pay tuition fees to the host institution. However, students
-will typically be required to pay other ancillary fees to the host institution
-(as much as $270) or explicitly request exemptions (e.g. Insurance or travel
-fees).
+The exact process and deadlines vary by site, but the general steps for students
+at PIMS member universities are
+
+1. Obtain the approval of the course instructor.
+1. Contact your home department and obtain the necessary signatures.
+1. Follow the procedures at your host institution to complete and submit the
+   application form, CC the PIMS Site Admin at your university.
+1. The PIMS Site Admins will be available to assist you with document tracking,
+   fee payments and waivers, ordering transcripts, etc.
+
+
+Select your university and the university hosting the course you are interested
+in below. Read both sets of instructions _carefully_ before proceeding.
+
+<form class="p-3">
+  <div class="form-group">
+    <div class="row">
+      <div class="col-6">
+        <label for="firstUniversity">Your University</label>
+        <select class="form-control" id="firstUniversity">
+          <option value="" disabled selected>Select your university...</option>
+          <option value="ua">UA</option>
+          <option value="ubc">UBC</option>
+          <option value="uc">UC</option>
+          <option value="ul">UL</option>
+          <option value="um">UM</option>
+          <option value="ur">UR</option>
+          <option value="us">US</option>
+          <option value="sfu">SFU</option>
+          <option value="uv">UV</option>
+        </select>
+      </div>
+      <div class="col-6">
+        <label for="secondUniversity">Hosting University</label>
+        <select class="form-control" id="secondUniversity">
+          <option value="" disabled selected>Select course university...</option>
+          <option value="ua">UA</option>
+          <option value="ubc">UBC</option>
+          <option value="uc">UC</option>
+          <option value="ul">UL</option>
+          <option value="um">UM</option>
+          <option value="ur">UR</option>
+          <option value="us">US</option>
+          <option value="sfu">SFU</option>
+          <option value="uv">UV</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <div class="form-group" id="otherFieldGroupDiv">
+    <div class="row">
+      <div class="col-6">
+        <div id="firstUniversityNotes">Notes from <span></span></div>
+      </div>
+      <div class="col-6">
+        <div id="secondUniversityNotes">Notes from <span></span></div>
+      </div>
+    </div>
+  </div>
+</form>
 
 
 
-#### University of Alberta
- * Graduate Administration
-   - Peng Wang: mathgrad@ualberta.ca
- * Graduate Chair
-   - Dr. J. Kuttler: jochen.kuttler@ualberta.ca
 
-#### University of British Columbia
-_Please see [Student Fees at the University of British
-Columbia](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/graduate-student-fees) for
-potential fees and exemption requirements._
- * Mathematics Graduate Chair
-   - Dr. Michael Ward : gradchair@math.ubc.ca
- * Mathematics Graduate Program Coordinator 
-   - grad-coord@math.ubc.ca
+Please note: The Western Deans' Agreement provides an automatic tuition fee waiver
+for visiting students.  Graduate students paying normal required tuition fees at
+their home institution will not pay tuition fees to the host institution.
+However, students will typically be required to pay other ancillary fees to
+the host institution (as much as $270) or explicitly request exemptions (e.g.
+Insurance or travel fees).
 
-#### University of Calgary 
- * Graduate Program Director
-   - Jingjing Wu: jinwu@ucalgary.ca
- * Graduate Student Advising:
-   - sci.grad@ucalgary.ca
-
-#### University of Lethbridge
- * Graduate Coordinator: John Sheriff 
-   - john.sheriff@uleth.ca
-
-#### University of Manitoba
- * Associate Head Graduate Studies
-   - Adam Clay: adam.clay@umanitoba.ca
-
-#### University of Regina
- * Graduate coordinator
-   - Karen Meagher: karen.meagher@uregina.ca
-
-#### University of Saskatchewan
-
-_Please see [Student Fees at the University of
-Saskatchwan](https://students.usask.ca/money/tuition-fees/graduate-tuition.php#Studentfees)
-for potential fees and exemption requirements._
-
- * Chair of Graduate Committee
-   - Steven Rayan: mathgrad@math.usask.ca
- * Graduate Admin:
-   - Kyla Denton: Kyla@math.usask.ca
-
-
-
-#### Simon Fraser University
-_Please see [Student Fees at Simon Fraser
-University](https://www.sfu.ca/gradstudies/apply/tuition-and-fees/fees.html) for
-potential fees and exemption requirements._
-
- * Graduate Program Assistant
-   - Nicole Ceron: mathgsec@sfu.ca
-
-
-#### University of Victoria
-_Please see [Student Fees at the University of
-Victoria ("Other fees" section)](https://www.uvic.ca/calendar/grad/index.php#/policy/B146lofuE?bc=true&bcCurrent=03%20-%20Regulations%20Concerning%20Tuition%20Fees%20for%20Graduate%20Programs&bcGroup=Tuition%20and%20Other%20Fees&bcItemType=policies)
-for potential fees and exemption requirements._
-
- * Graduate advisor
-   - Dr. Marcelo Laca: msgradad@uvic.ca
- * Graduate secretary
-   - Ms. Amy Almeida: msgstt@uvic.ca
 
 For help completing the Western Deans' agreement form, please contact the
 graduate advisor at your institution.  For more information about the agreement,
