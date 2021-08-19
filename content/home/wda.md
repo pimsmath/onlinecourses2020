@@ -23,7 +23,7 @@ at PIMS member universities are
 1. Obtain the approval of the course instructor.
 1. Contact your home department and obtain the necessary signatures.
 1. Follow the procedures at your host institution to complete and submit the
-   application form, CC the PIMS Site Admin for your home site.
+   application form, CC the PIMS Site Admin at your university.
 1. The PIMS Site Admins will be available to assist you with document tracking,
    fee payments and waivers, ordering transcripts, etc.
 
