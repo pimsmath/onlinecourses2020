@@ -21,7 +21,7 @@ instructors:
   primary: true
 - name: Vladyslav Yaskin
   institution: University of Alberta
-  email: vladyskin@ualberta.ca
+  email: yaskin@ualberta.ca
 
 course_start: 2022-01-01
 course_end: 2022-04-30
