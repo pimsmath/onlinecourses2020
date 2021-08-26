@@ -324,14 +324,12 @@
             "deadline": "6 weeks prior to start of the course",
             "contacts": [
                 {
-                    "name": "Maria Soriano (GARO Records Officer (Math/Stats))",
-                    "email": "grad7@uvic.ca",
-                    "phone": "(250) 721-7974"
+                    "name": "Kristina McKinnon",
+                    "email": "pims@uvic.ca"
                 },
                 {
-                    "name": "Anne Humphrey (GARO Records Officer (Computer Science))",
-                    "email": "grad17@uvic.ca",
-                    "phone": "(250) 721-7957"
+                    "name": "Marcelo Laca",
+                    "email": "msgradad@uvic.ca"
                 }
             ],
             "site_admin": {
@@ -350,14 +348,12 @@
             "deadline": "6 weeks prior to start of the course",
             "contacts": [
                 {
-                    "name": "Bettina Mueller-Browne (GARO Records Officer (Math/Stats))",
-                    "email": "grad8@uvic.ca",
-                    "phone": "(250) 721-6687"
+                    "name": "Kristina McKinnon",
+                    "email": "pims@uvic.ca"
                 },
                 {
-                    "name": "Tricia Charlton (GARO Records Officer (Computer Science))",
-                    "email": "grad5@uvic.ca",
-                    "phone": "(250) 472 5057"
+                    "name": "Marcelo Laca",
+                    "email": "msgradad@uvic.ca"
                 }
             ],
             "site_admin": {

@@ -35,12 +35,12 @@ function showNotes(notesElement, university, direction) {
 
 $("#firstUniversity").change(function() {
     let university = $(this).val();
-    showNotes($('#firstUniversityNotes'), university, "incoming");
+    showNotes($('#firstUniversityNotes'), university, "outgoing");
 });
 $("#firstUniversityNotes").hide();
 
 $("#secondUniversity").change(function() {
     let university = $(this).val();
-    showNotes($('#secondUniversityNotes'), university, "outgoing");
+    showNotes($('#secondUniversityNotes'), university, "incoming");
 });
 $("#secondUniversityNotes").hide();

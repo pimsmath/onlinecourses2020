@@ -38,30 +38,30 @@ in below. Read both sets of instructions _carefully_ before proceeding.
         <label for="firstUniversity">Your University</label>
         <select class="form-control" id="firstUniversity">
           <option value="" disabled selected>Select your university...</option>
-          <option value="ua">UA</option>
+          <option value="ua">UAlberta</option>
           <option value="ubc">UBC</option>
-          <option value="uc">UC</option>
-          <option value="ul">UL</option>
-          <option value="um">UM</option>
-          <option value="ur">UR</option>
-          <option value="us">US</option>
+          <option value="uc">UCalgary</option>
+          <option value="ul">ULethbridge</option>
+          <option value="um">UManitoba</option>
+          <option value="ur">URegina</option>
+          <option value="us">USaskatchewan</option>
           <option value="sfu">SFU</option>
-          <option value="uv">UV</option>
+          <option value="uv">UVic</option>
         </select>
       </div>
       <div class="col-6">
         <label for="secondUniversity">Hosting University</label>
         <select class="form-control" id="secondUniversity">
           <option value="" disabled selected>Select course university...</option>
-          <option value="ua">UA</option>
+          <option value="ua">UAlberta</option>
           <option value="ubc">UBC</option>
-          <option value="uc">UC</option>
-          <option value="ul">UL</option>
-          <option value="um">UM</option>
-          <option value="ur">UR</option>
-          <option value="us">US</option>
+          <option value="uc">UCalgary</option>
+          <option value="ul">ULethbridge</option>
+          <option value="um">UManitoba</option>
+          <option value="ur">URegina</option>
+          <option value="us">USaskatchewan</option>
           <option value="sfu">SFU</option>
-          <option value="uv">UV</option>
+          <option value="uv">UVic</option>
         </select>
       </div>
     </div>
