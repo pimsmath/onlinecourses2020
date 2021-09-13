@@ -4,7 +4,7 @@ date: 2020-10-21T19:18:22-07:00
 tags: []
 categories: []
 
-registration_open: true
+registration_open: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-21T19:18:22-07:00
