@@ -12,7 +12,7 @@ course_upcoming: true
 publishDate: 2021-05-17T12:18:22-07:00
 
 # Publication name and optional abbreviated publication name.
-course_title: "Theory of Probability and Applications"
+course_title: "Statistical Theory II (4)"
 
 instructors:
 - name: Donald Estep
@@ -24,10 +24,10 @@ course_start: 2022-01-01
 course_end: 2022-04-30
 
 # Course number at home institution
-course_number: "STAT 831"
+course_number: "STAT 831 G100"
 
 # Section/Catalog number
-section_number: ""
+section_number: "6194"
 
 # Course Code at Home institution
 section_code: ""
@@ -67,3 +67,10 @@ prerequisites:
 # Free form markdown below this point
 ---
 
+### Shedule
+ * **Location**: This class will meet remotely
+ * **Course times**:
+   - Wed 4:30PM - 6:20 PM (Pacific)
+   - Fri 4:30PM - 6:20 PM (Pacific)
+
+See also the [course outline](https://www.sfu.ca/outlines.html?2022/spring/stat/831/g100) at sfu, for more details.
