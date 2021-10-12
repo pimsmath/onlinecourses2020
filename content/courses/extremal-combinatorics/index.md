@@ -31,10 +31,10 @@ course_end: 2022-04-30
 course_number: "MATH 8210"
 
 # Section/Catalog number
-section_number: "T01"
+section_number: "T03"
 
 # Course Code at Home institution
-section_code: ""
+section_code: "61826"
 
 # Course Abstract
 # abstract : |
