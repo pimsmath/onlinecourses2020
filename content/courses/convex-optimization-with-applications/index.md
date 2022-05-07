@@ -2,6 +2,7 @@
 title: "Convex Optimization with Applications"
 date: 2021-05-17T12:18:22-07:00
 tags: []
+draft: true
 categories: []
 
 registration_open: true
