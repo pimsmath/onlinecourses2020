@@ -1,0 +1,48 @@
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  engine: 2
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+cms:
+  netlify_cms: true
+
+
+header:
+  navbar:
+    show_day_night: false
+    show_search: true
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - python
+      - latex
+  math:
+    enable: true
+
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'

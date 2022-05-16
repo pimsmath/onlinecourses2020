@@ -10,7 +10,7 @@
 
   {{ $paginator := .Paginate .Data.Pages }}
   {{ range $paginator.Pages }}
-    {{ partial "li_card" . }}
+    {{ partial "views/card" . }}
   {{ end }}
 
   {{ partial "pagination" . }}

@@ -69,12 +69,16 @@ nav#navbar-main li.nav-item {
   }
 }
 
-ul.nav-tabs {
+ul.navbar-nav {
     border-bottom: none;
     .nav-link {
         border: none;
         border-radius: 0;
         border-left: 1px solid rgba(52, 73, 94, 0.15);
+    }
+    .nav-link.js-search {
+        border: none;
+        border-radius: 0;
     }
     a.nav-link.active {
         border-left: 1px solid rgba(52, 73, 94, 0.45);

@@ -1,0 +1,10 @@
+main:
+  - name: Home
+    url: '#hero'
+    weight: 10
+  - name: Courses
+    url: '#upcomingcourses'
+    weight: 30
+  - name: WDA (Western Dean's Agreement)
+    url: '#wda'
+    wight: 80

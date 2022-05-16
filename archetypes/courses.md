@@ -4,6 +4,9 @@ date: {{ .Date }}
 tags: []
 categories: []
 
+# Registration currently open
+registration_open: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: {{ .Date }}
 
@@ -12,6 +15,7 @@ course_title: ""
 
 instructors:
 - name:
+  institution
   email:
 
 # Start and end dates
@@ -34,7 +38,9 @@ abstract: ""
 # Course Website
 # course_website: 
 
-# syllabus_txt:
+# syllabus_txt: |
+#   syllabus goes here
+#
 # syllabus_pdf:
 
 image:
@@ -42,5 +48,4 @@ image:
   focal_point: ""
   preview_only: false
 
-# Free form markdown below this point
 ---

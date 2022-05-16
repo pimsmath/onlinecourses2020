@@ -1,0 +1,51 @@
+---
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  publication_types: '/publication-type/:slug/'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+  section:
+    - HTML
+    - RSS
+mediaTypes:
+  application/manifest+json:
+    suffixes:
+      - webmanifest
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+taxonomies:
+  tag: tags
+  publication_type: publication_types
+  author: authors
+  course: course
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+---
