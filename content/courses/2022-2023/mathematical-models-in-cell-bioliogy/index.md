@@ -35,9 +35,9 @@ section_number: "101"
 section_code: "2022W:563:101"
 
 prerequisites:
-  - For math students: Some familiarity with ODEs, PDEs
-  - "For bioligy students: Flexible, hopefully some math background, such as
-    calculus"
+  - For math students - Some familiarity with ODEs, PDEs
+  - For bioligy students - Flexible, hopefully some math background, such as
+    calculus
 
 # Course Abstract
 abstract: |
