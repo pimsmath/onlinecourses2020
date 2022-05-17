@@ -29,34 +29,46 @@ course_end: 2022-12-31
 course_number: "UBC Math 563"
 
 # Section/Catalog number
-section_number: ""
+section_number: "101"
 
 # Course Code at Home institution
-course_code: ""
+course_code: "2022W:563:101"
+
+prerequisutes:
+  - For math students: Some familiarity with ODEs, PDEs
+  - For bioligy students: Flexible, hopefully some math background, such as
+    calculus
 
 # Course Abstract
 # abstract : |
 abstract: |
-  In this course, we will explore both classic and current mathematical
-  vignettes motivated by the biophysics of cell shape, cell motility, cell
-  signaling, and pattern formation in mammalian cells. We will consider how
-  cells interact with one another and how they coordinate into multicellular
-  groups and tissues. From the mathematical perspective, we will showcase
-  several important models (with applications beyond cell biology) where
-  analysis provide insights and helps to understand underlying mechanisms. (We
-  concentrate on ordinary and partial differential equations, i.e. deterministic
-  models in this course.) We will see that models that prove useful in many
-  other areas of science (ecology, population biology, social aggregation),
-  suitably reinterpreted, can provide a foundation of understanding in the
-  micro-world of cells. (Hence this course will also serve as a survey of PDEs
-  that are important in STEM.) We also highlight several “classics of
-  mathematical cell biology”, papers of recent vintage that have become
-  influential or paradigm-shifting in modern cell biology. The course will
-  include tutorials and hands-on exploration of the open source software,
-  Morpheus, to simulate multiscale computational models of cells and tissue. The
-  course will be based on a textbook, ``Mathematical Models for Cell Biology’’
-  currently under development by the instructor, as well as papers from the
-  literature.
+  Cell biology provides many interesting challenges across many spatial scales.
+  Mathematical and computational modeling are tools that can help gain a better
+  understanding of cellular phenomena. At the small scales, there are puzzling
+  examples of patterns formed by proteins inside cells, and dynamic
+  rearrangement of cellular components that enable cells to actively move. At
+  higher scales, cells sense chemical gradients, exhibit active motility, and
+  interact with other cells to form functioning tissues and organs. Mathematical
+  and computational models allow us to explore many of the leading questions at
+  each of these levels. How do patterns for spontaneously? What are the limits
+  of cell sensing? How do cells polarize and migrate in a directed manner? How
+  does a collection of cells self-organize into a structured tissue? In this
+  graduate course, we will explore such questions in the context of
+  deterministic models (ordinary and partial differential equations) as well as
+  stochastic simulations that emphasize multiscale approaches.
+
+
+  The course is designed to be equally suitable for mathematics graduate
+  students looking to learn advanced modeling methods, interesting applications,
+  and topics for further analysis, and biologists who want to understand and
+  critically assess models and carry out advanced multiscale simulations.  All
+  participants will learn multiscale simulations (using the open source software
+  Morpheus) to visualize behaviour that emerges from intracellular signaling
+  systems, cell migration, and cell-cell interactions. An emphasis will be on
+  communication across disciplines, matching students from distinct disciplines
+  for joint  presentations and projects. Learning goals, expectations,
+  assignments, and grading will take into account the student background.
+
 
 # Course Website
 # course_website: 
@@ -71,6 +83,5 @@ image:
   focal_point: ""
   preview_only: false
 
-prerequisutes:
   
 ---
