@@ -2,7 +2,7 @@
 title: "Explorations in Information Security and Privacy"
 date: 2021-05-17T12:18:22-07:00
 tags: []
-categories: []
+categories: [past]
 
 registration_open: true
 

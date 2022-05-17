@@ -4,7 +4,7 @@ publishdate: 2020-05-25T10:00:47-07:00
 date: "2020-09-01T13:00:00Z"
 
 tags: []
-categories: []
+categories: [past]
 
 registration_open: false
 

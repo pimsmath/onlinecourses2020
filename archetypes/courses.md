@@ -3,6 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: []
 categories: []
+featured: false
+draft: false
 
 # Registration currently open
 registration_open: true
@@ -11,25 +13,29 @@ registration_open: true
 publishDate: {{ .Date }}
 
 # Publication name and optional abbreviated publication name.
-course_title: ""
+course_title: "{{ replace .Name "-" " " | title }}"
 
 instructors:
 - name:
-  institution
+  institution:
   email:
 
 # Start and end dates
-course_start:
-course_end:
+# course_start: 2022-09-01
+course_start: {{ .Date | time.Format "2006-01-02" }}
+course_end: {{ .Date | time.Format "2006-01-02" }}
 
 # Course number at home institution
-course_number: "XXX"
+course_number: ""
 
 # Section/Catalog number
-section_number: "YYY"
+section_number: ""
 
 # Course Code at Home institution
-course_code: "ZZZ"
+section_code: ""
+
+prerequisites:
+#  - A course in Probability Theory and Stochastic Processes
 
 # Course Abstract
 # abstract : |

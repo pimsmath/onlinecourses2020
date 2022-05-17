@@ -1,25 +1,55 @@
----
+title: PIMS Network Wide Graduate Courses
+baseURL: 'https://courses.pims.math.ca/' # Website URL
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+
+############################
+## ADVANCED
+############################
+
+enableGitInfo: false
+summaryLength: 30
+paginate: 20
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  event: '/talk/:slug/'
   tags: '/tag/:slug/'
+  categories: '/categories/:slug/'
   publication_types: '/publication-type/:slug/'
+disableAliases: true
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-    - WebAppManifest
-  section:
-    - HTML
-    - RSS
-mediaTypes:
-  application/manifest+json:
-    suffixes:
-      - webmanifest
-outputFormats:
-  WebAppManifest:
-    mediaType: application/manifest+json
-    rel: manifest
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+  course: courses
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -30,22 +60,17 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 3
-imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
-taxonomies:
-  tag: tags
-  publication_type: publication_types
-  author: authors
-  course: course
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+  _merge: deep
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_
----
+  _merge: deep
+sitemap:
+  _merge: deep

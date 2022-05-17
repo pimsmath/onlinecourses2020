@@ -2,25 +2,20 @@
 widget: pages
 headless: true
 active: true
-weight: 60
+weight: 65
 
-title: "Upcoming Courses"
+title: "Future Courses"
 subtitle: >
-  The courses in this section are accepting registrations. Expand each item to
-  see the course details and registration information.
+  The courses in this section are not yet accepting registrations.
 
 content:
   page_type: courses
-  
   count: 0
   offset: 0
   order: desc
-
   filters:
-    folders:
-      - courses
-    category:
-      - upcoming
+    category: "future"
+    registration: false
 
 design:
   # Toggle between the various page layout types.
@@ -29,6 +24,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
-  columns: 1
-  
+  columns: "1"
 ---

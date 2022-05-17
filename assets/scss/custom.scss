@@ -101,3 +101,10 @@ section#announcement {
 select.form-control {
     color: gray;
 }
+
+details p {
+    margin-left: 0;
+    padding-left: 0;
+    border: none;
+}
+

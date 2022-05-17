@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Current Courses"
-subtitle = "The courses in this section are currently running and may not be accepting registrations. Expand each item to see the course details."
+subtitle = "The courses in this section are currently open for registration. Expand each item to see the course details."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,15 +25,8 @@ subtitle = "The courses in this section are currently running and may not be acc
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    registration_open = true
-    upcoming = false
+    category = "upcoming"
+    registration = true
     
 [design]
   # Toggle between the various page layout types.

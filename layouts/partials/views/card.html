@@ -1,4 +1,4 @@
-{{ $item := . }}
+{{ $item := .item }}
 
 
 {{/* Dynamic view adjusts to content type. */}}
@@ -31,8 +31,6 @@
     <span>{{ . }}</span>
     {{ end }}
   </div>
-  {{ else }}
-    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}

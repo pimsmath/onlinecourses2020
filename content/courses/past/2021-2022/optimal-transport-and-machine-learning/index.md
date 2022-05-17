@@ -2,7 +2,7 @@
 title: "Optimal Transport + Machine Learning (OT + ML)"
 date: 2021-07-18T12:18:22-07:00
 tags: []
-categories: []
+categories: [past]
 
 registration_open: true
 

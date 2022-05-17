@@ -2,7 +2,7 @@
 title: "Differential Equations in Algebraic Geometry"
 date: 2021-07-17T12:18:22-07:00
 tags: []
-categories: []
+categories: [past]
 
 registration_open: true
 

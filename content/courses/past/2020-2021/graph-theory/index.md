@@ -1,8 +1,8 @@
 ---
 title: "Graph Theory"
 publishdate: 2020-05-25T10:00:29-07:00
-tags: []
-categories: []
+tags: [2020-2021]
+categories: [past]
 
 registration_open: false
 

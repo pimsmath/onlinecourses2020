@@ -1,8 +1,8 @@
 ---
 title: "Comparative Prime Number Theory"
 date: 2020-10-21T21:02:57-07:00
-tags: []
-categories: []
+tags: [2020-2021]
+categories: [past]
 
 registration_open: false
 

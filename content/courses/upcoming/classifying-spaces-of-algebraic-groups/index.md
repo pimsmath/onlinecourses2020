@@ -1,10 +1,9 @@
 ---
 title: "Classifying Spaces of Algebraic Groups"
-date: 2022-05-16T13:21:00-07:00
-lastmod: 2022-05-16T13:21:00-07:00
-tags: []
-categories:
-  - upcoming
+date: '2022-05-14T00:00:00Z'
+lastmod: '2022-05-14T00:00:00Z'
+tags: [upcoming]
+categories: ["upcoming"]
 featured: false
 draft: false
 
@@ -27,7 +26,7 @@ course_start: 2022-09-01
 course_end: 2022-12-31
 
 # Course number at home institution
-course_number: "XXX"
+course_number: ""
 
 # Section/Catalog number
 section_number: ""
@@ -77,4 +76,6 @@ image:
   focal_point: ""
   preview_only: false
 
+prerequisites:
+  - Any basic course of algebraic geometry
 ---

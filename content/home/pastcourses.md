@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Previous Courses"
+title = "Past Courses"
 subtitle = "The courses in this section are no longer accepting registrations. Expand each item to see a course abstract"
 
 [content]
@@ -15,7 +15,7 @@ subtitle = "The courses in this section are no longer accepting registrations. E
   page_type = "courses"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 20 
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -26,7 +26,7 @@ subtitle = "The courses in this section are no longer accepting registrations. E
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "past"
     publication_type = ""
     author = ""
     exclude_featured = false
@@ -34,7 +34,9 @@ subtitle = "The courses in this section are no longer accepting registrations. E
     exclude_future = false
     registration = true
     upcoming = false
-    
+
+  [content.archive]
+    text = "Older courses"
 [design]
   # Toggle between the various page layout types.
   #   1 = List

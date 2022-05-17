@@ -2,7 +2,7 @@
 title: "Mathematical Data Science"
 date: 2020-10-21T19:18:22-07:00
 tags: []
-categories: []
+categories: [past]
 
 registration_open: false
 
