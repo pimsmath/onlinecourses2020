@@ -41,10 +41,7 @@ prerequisites:
     calculus, at the undergraduate engineering/physics level. Familiarity with
     the calculus of variations, as well as basic quantum mechanics, would also
     be helpful, but those are not formal requirements since the key necessary
-    concepts will be presented. Some of the past students have not had a
-    background in functionals and quantum mechanics, yet have been able to
-    acquire the necessary background quickly and achieve high success in the
-    course.
+    concepts will be presented.
 
 # Course Abstract
 abstract : |
@@ -66,7 +63,60 @@ abstract : |
 # Course Website
 # course_website: 
 
-# syllabus_txt: |
+syllabus_txt: |
+  ##### Introduction
+    * Modelling quantum systems and phenomena
+    * The many-body wave function and the Schrödinger equation
+    * The Born-Oppenheimer approximation
+    * Spin and the Pauli exclusion principle
+    * Representation of functions
+
+  ##### Hartree-Fock theory
+    * Hartree products and Slater determinants
+    * The variation principle
+    * The expectation value of the Hamiltonian with a single Slater-determinant
+    * Lagrange's method of undetermined multipliers
+    * Exchange interaction, the Fock operator, and the Hartree-Fock equations
+
+  ##### Interpretation of Hartree-Fock orbitals
+    * Unitary transformations and the diagonalization of the Hartree-Fock
+    equations
+    * The Koopmans theorem and the significance of canonical Hartree-Fock orbitals
+
+  ##### Implementation of the Hartree-Fock equations
+    * Basis functions and basis sets
+    * The Roothaan equations
+    * Mulliken population analysis
+
+  ##### Post-Hartree-Fock methods
+    * Many-electron excitations
+    * Basis set for many-electron wave functions
+    * Configuration interaction
+    * The Møller-Plesset perturbation theory
+
+  ##### The density functional theory (DFT)
+    * Functional derivatives
+    * The theorems of Hohenberg and Kohn
+    * The Kohn-Sham method
+    * Total energy in DFT, and the significance of Kohn-Sham orbitals
+    * Correlation energy and exchange-correlation functionals
+    * The connection between DFT and the Thomas-Fermi-Dirac and Hartree-Fock
+    theories
+    * Periodicity, the Bloch theorem, and band structure in DFT
+    * Finite-temperature DFT
+    * Time-dependent DFT
+
+  ##### Semi-empirical approach to studying electronic structure
+    * Linear combination of atomic orbitals
+    * The Hückel method
+    * The Pariser-Parr-Pople method
+    * The tight-binding method
+
+  ##### Semi-empirical approach to studying mechanical structure
+    * Molecular mechanics and molecular dynamics
+    * Force fields
+    * Time propagation
+    * Temperature, pressure, thermostats, and barostats
 #   syllabus goes here
 #
 syllabus_pdf: ELEC_542_syllabus.pdf
