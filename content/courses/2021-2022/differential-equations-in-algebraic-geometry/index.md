@@ -4,7 +4,7 @@ date: 2021-07-17T12:18:22-07:00
 tags: [2021-2022]
 categories: [past]
 
-registration_open: true
+registration_open: false
 
 course_upcoming: false
 

@@ -5,7 +5,7 @@ tags: [2021-2022]
 draft: true
 categories: [past]
 
-registration_open: true
+registration_open: false
 
 course_upcoming: true
 

@@ -5,7 +5,7 @@ tags: []
 published: false
 categories: [past]
 
-registration_open: true
+registration_open: false
 
 course_upcoming: true
 
