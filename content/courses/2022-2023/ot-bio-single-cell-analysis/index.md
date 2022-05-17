@@ -26,7 +26,7 @@ course_start: 2022-09-01
 course_end: 2022-12-31
 
 # Course number at home institution
-course_number: "Math 621D"
+course_number: "Math 612D"
 
 # Section/Catalog number
 section_number: ""
@@ -35,7 +35,7 @@ section_number: ""
 section_code: ""
 
 prerequisites:
-#  - A course in Probability Theory and Stochastic Processes
+  - Linear algebra as in Math 307
 
 # Course Abstract
 # abstract : |
