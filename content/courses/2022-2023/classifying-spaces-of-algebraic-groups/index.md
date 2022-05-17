@@ -8,7 +8,7 @@ featured: false
 draft: false
 
 # Registration currently open
-registration_open: true
+registration_open: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-16T13:21:00-07:00
@@ -22,8 +22,8 @@ instructors:
   institution: University of Alberta
 
 # Start and end dates
-course_start: 2022-09-01
-course_end: 2022-12-31
+course_start: 2023-01-01
+course_end: 2022-04-30
 
 # Course number at home institution
 course_number: ""
