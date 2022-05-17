@@ -3,7 +3,7 @@ main:
     url: '#hero'
     weight: 10
   - name: Courses
-    url: '#upcomingcourses'
+    url: '#currentcourses'
     weight: 30
   - name: WDA (Western Dean's Agreement)
     url: '#wda'

@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="container">
+   <nav class="d-none d-md-flex" aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        {{ template "breadcrumb" . }}
+        <li class="breadcrumb-item active" aria-current="page">
+          {{ .LinkTitle | emojify }}
+        </li>
+      </ol>
+    </nav>
+    <div class="section">
+        <div class="content">
+          <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </div>
+        <div class="columns is-multiline">
+          <ul>
+            {{ range $index, $item := .Paginator.Pages }}
+            {{ $count := len .Pages }}
+            <li>
+              <a href="{{ $item.Permalink }}">
+                Academic Year {{ $item.LinkTitle }} - {{ $count }} course{{ if gt $count 1 }}s{{end}}
+              </a>
+            </li>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

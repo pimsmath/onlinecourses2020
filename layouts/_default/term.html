@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container">
+ <nav class="d-none d-md-flex" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {{ template "breadcrumb" . }}
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ .LinkTitle | emojify }}
+      </li>
+    </ol>
+  </nav>
+    <div class="section">
+        <div class="content">
+            <h1>Courses: {{ .Title }}</h1>
+            <p>The following courses were scheduled for the {{ .Title }} academic year:</p>
+        </div>
+        <div class="col-12">
+            {{ range $index, $item := .Paginator.Pages }}
+            {{ partial "functions/render_view" (dict "page" $item "item" . "view" "card" "index" $index) }}
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
