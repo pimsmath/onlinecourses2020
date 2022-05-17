@@ -26,7 +26,8 @@ course_start: 2023-01-01
 course_end: 2023-04-30
 
 # Course number at home institution
-course_number: "990"
+course_number: "APMA 990 Selected Topics in Applied Mathematics: The Mathematics
+of Evolution"
 
 # Section/Catalog number
 section_number: ""

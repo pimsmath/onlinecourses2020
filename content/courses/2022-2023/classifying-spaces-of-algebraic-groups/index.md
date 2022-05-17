@@ -2,7 +2,7 @@
 title: "Classifying Spaces of Algebraic Groups"
 date: '2022-05-14T00:00:00Z'
 lastmod: '2022-05-14T00:00:00Z'
-tags: [upcoming]
+tags: [2022-2023]
 categories: ["upcoming"]
 featured: false
 draft: false

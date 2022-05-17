@@ -1,7 +1,7 @@
 ---
 title: "Parallel Programming for Scientific Computing"
 date: 2020-10-21T19:18:22-07:00
-tags: []
+tags: [2021-2022]
 categories: [past]
 
 registration_open: false

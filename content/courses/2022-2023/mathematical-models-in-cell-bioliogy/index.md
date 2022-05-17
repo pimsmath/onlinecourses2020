@@ -32,15 +32,14 @@ course_number: "UBC Math 563"
 section_number: "101"
 
 # Course Code at Home institution
-course_code: "2022W:563:101"
+section_code: "2022W:563:101"
 
 prerequisutes:
   - For math students: Some familiarity with ODEs, PDEs
-  - For bioligy students: Flexible, hopefully some math background, such as
-    calculus
+  - "For bioligy students: Flexible, hopefully some math background, such as
+    calculus"
 
 # Course Abstract
-# abstract : |
 abstract: |
   Cell biology provides many interesting challenges across many spatial scales.
   Mathematical and computational modeling are tools that can help gain a better
