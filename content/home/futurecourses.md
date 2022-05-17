@@ -14,8 +14,8 @@ content:
   offset: 0
   order: desc
   filters:
-    category: "future"
-    registration: false
+    category: "upcoming"
+    registration_open: false
 
 design:
   # Toggle between the various page layout types.

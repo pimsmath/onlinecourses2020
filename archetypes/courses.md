@@ -6,8 +6,8 @@ categories: []
 featured: false
 draft: false
 
-# Registration currently open
-registration_open: true
+# Registration status (open|closed)
+registration: open
 
 # Schedule page publish date (NOT publication's date).
 publishDate: {{ .Date }}

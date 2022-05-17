@@ -48,8 +48,10 @@
 {{ if $st.Params.content.filters.exclude_featured }}
   {{ $query = where $query "Params.featured" "!=" true }}
 {{ end }}
-{{ if $st.Params.content.filters.registration }}
+{{ if $st.Params.content.filters.registration_open }}
   {{ $query = where $query "Params.registration_open" "==" true }}
+{{ else }}
+  {{ $query = where $query "Params.registration_open" "!=" true }}
 {{ end }}
 {{ if $st.Params.content.filters.exclude_past }}
   {{ $query = where $query "Date" ">=" now }}
