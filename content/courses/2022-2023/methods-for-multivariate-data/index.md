@@ -4,7 +4,7 @@ date: 2022-05-16T16:20:53-07:00
 tags: [2022-2023]
 categories: [upcoming]
 featured: false
-draft: false
+draft: true
 
 # Registration currently open
 registration_open: false
