@@ -36,7 +36,7 @@ section_code: "2022W:563:101"
 
 prerequisites:
   - For math students - Some familiarity with ODEs, PDEs
-  - For bioligy students - Flexible, hopefully some math background, such as
+  - For biology students - Flexible, hopefully some math background, such as
     calculus
 
 # Course Abstract
@@ -49,7 +49,7 @@ abstract: |
   higher scales, cells sense chemical gradients, exhibit active motility, and
   interact with other cells to form functioning tissues and organs. Mathematical
   and computational models allow us to explore many of the leading questions at
-  each of these levels. How do patterns for spontaneously? What are the limits
+  each of these levels. How do patterns form spontaneously? What are the limits
   of cell sensing? How do cells polarize and migrate in a directed manner? How
   does a collection of cells self-organize into a structured tissue? In this
   graduate course, we will explore such questions in the context of
