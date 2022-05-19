@@ -1,8 +1,8 @@
 {{/* Function to get event start and end dates/times. */}}
 {{ $t1 := time .Params.course_start }}{{/* Start datetime. */}}
-{{ $str := slice ((time $t1).Format site.Params.date_format) }}{{/* Init return string with start date. */}}
+{{ $str := slice ((time $t1).Format site.Params.locale.date_format) }}{{/* Init return string with start date. */}}
 {{ $t2 := time .Params.course_end }}{{/* End datetime. */}}
 {{ $str = $str | append "&mdash;" }}
 {{ $t2 := time .Params.course_end}}{{/* End datetime. */}}
-{{ $str = $str | append ((time $t2).Format site.Params.date_format) }}
+{{ $str = $str | append ((time $t2).Format site.Params.locale.date_format) }}
 {{ return (delimit $str " ") }}

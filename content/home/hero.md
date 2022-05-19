@@ -43,7 +43,9 @@ some cases students must enroll 6 weeks in advance of the term start date and
 will typically be required to pay ancillary fees to the host institution (as
 much as $270) or explicitly request exemptions.  Please see the <a
 href="#wda">WDA section</a> for details of fees at specific sites, and check the
-individual courses below for registration details.
+individual courses below for registration details. Courses hosted at UW must
+nominate a co-instructor at a Canadian PIMS site. That site will be used to
+process WDA student applications.
 
 Students at universities not covered by the WDA but which are part of the <a
 target="_blank" href="https://cags.ca">Canadian Association for Graduate Studies

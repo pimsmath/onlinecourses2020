@@ -1,0 +1,20 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+    
+      {{ range $index, $item := .Pages }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "list") "index" $index) }}
+      {{ end }}
+    
+    </div>
+  </div>
+</div>
+
+{{- end -}}
