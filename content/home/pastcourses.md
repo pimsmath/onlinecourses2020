@@ -55,7 +55,7 @@ content:
     - title: 2020-2021
       content: |
         The 2020-2021 PIMS Network Wide Graduate Courses program featured the
-        following courses.
+        following courses:
 
           * [Algebraic
             Topology](/courses/2020-2021/algebraic-topology/)
