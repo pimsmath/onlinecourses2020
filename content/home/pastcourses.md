@@ -54,7 +54,7 @@ content:
         text: View All 2021-2022 Courses
     - title: 2020-2021
       content: |
-        The 2020-2021 PIMS Networ Wide Graduate Courses program featured the
+        The 2020-2021 PIMS Network Wide Graduate Courses program featured the
         following courses.
 
           * [Algebraic
