@@ -29,34 +29,27 @@ course_end: 2023-04-30
 course_number: "Math 535"
 
 # Section/Catalog number
-section_number: ""
+section_number: "201"
 
 # Course Code at Home institution
 section_code: ""
 
 prerequisites:
   - |
-    As a graduate course there are no strict pre-requisites, but course is
-    easier to follow for students with a general graduate background including
-    real analysis and point-set topology, functional analysis, some algebra, and
-    undergraduate group theory and linear algebra. Specific background: while we
-    will develop the notion of a Lie algebra from scratch as well as the theory
-    of roots, weights, etc, the course will be easier going for students who
-    have seen previously seen Lie algebras and the classification of complex
-    (semi)simple Lie algebras, such as in MATH 534.
+    There will be no formal pre-requisites.  Ideally students would have a
+    general graduate background including real analysis and integration, point
+    set topology, and functional analysis.  Familiarity with the classification
+    of complex semisimple Lie algebras (e.g. by taking UBC MATH 534) would be an
+    advantage.
 
 # Course Abstract
 # abstract : |
 abstract: |
-  The course will discuss the structure and representation theory of real Lie
-  groups. It will be roughly divided into four parts: 1. Topological groups,
-  introduction to representation theory, and the Peter–Weyl Theorem. 2. Lie
-  groups: basic definitions and differential geometry 3. Compact Lie groups:
-  maximal tori, roots and weights, representation theory, Weyl character and
-  integration formulae. 4. Real Lie groups: Lie algebras,
-  Poincare–Birkhoff–Witt, Cartan subalgebras, roots and weights, parabolic
-  subgroups, introduction to infinite-dimensional representations.
-
+  This is a graduate course on the structure and representation theory of real
+  Lie groups. The course will have four parts: an introduction to topological
+  and compact groups, the basics of Lie groups and differential geometry, the
+  structure and representation theory of compact Lie groups, and (as time
+  allows) the structure and representation theory of semisimple Lie groups. 
 # Course Website
 # course_website: 
 
