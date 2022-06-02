@@ -22,7 +22,7 @@ instructors:
 
 # Start and end dates
 # course_start: 2022-09-01
-course_start: 2023-09-01
+course_start: 2023-01-01
 course_end: 2023-04-30
 
 # Course number at home institution
