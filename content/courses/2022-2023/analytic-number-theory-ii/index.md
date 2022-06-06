@@ -43,19 +43,17 @@ prerequisites:
 # abstract : |
 abstract: |
   This course is a second graduate course in number theory, designed to follow
-  Analytic Number Theory I taught by Prof. Habiba Kadiri (University of
-  Lethbridge) in Fall 2022. We will learn about Dirichlet characters and sums
-  involving them, Dirichlet L-functions and their zeros, and the prime number
-  theorem in arithmetic progressions. With the explicit formula for the error
-  term in this theorem, we will continue into limiting distributions of error
-  terms and comparative prime number theory ("prime number races"). This course
-  also precedes the summer school "Inclusive Paths in Explicit Number Theory" in
-  Summer 2023 and is designed to give students the ideal preparation for that
-  summer school program. All three of these events are part of the current PIMS
-  CRG "L-functions in Analytic Number Theory". The applicant has experience
-  running PIMS Network Courses, having successfully taught both "Distribution of
-  prime numbers and zeros of Dirichlet L-functions"' (Winter 2011) and
-  "Comparative prime number theory" (Winter 2021).
+  [Analytic Number Theory I](/#currentcourses ) taught by Prof. Habiba Kadiri
+  (University of Lethbridge) in Fall 2022. We will learn about Dirichlet
+  characters and sums involving them, Dirichlet _L_-functions and their zeros,
+  and the prime number theorem in arithmetic progressions. With the explicit
+  formula for the error term in this theorem, we will continue into limiting
+  distributions of error terms and comparative prime number theory ("prime
+  number races"). This course also precedes the summer school "Inclusive Paths
+  in Explicit Number Theory" in Summer 2023 and is designed to give students the
+  ideal preparation for that summer school program. All three of these events
+  are part of the current [PIMS CRG "_L_-functions in Analytic Number
+  Theory](https://sites.google.com/view/crgl-functions/crg-news).
 
 # Course Website
 # course_website: 
