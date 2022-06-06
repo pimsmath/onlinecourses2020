@@ -52,14 +52,15 @@ abstract: |
   will be to explore each topic explicitly (essentially by computing all the
   hidden terms implied in the asymptotic estimates). With this respect, students
   will get an introduction to relevant programming languages and computational
-  software. This will be closely connected to Analytic Number Theory 2 proposed
-  by Greg Martin (UBC), as the sequences of topics are coordinated between us;
-  the intention is for students at all PIMS institutions to be able to take the
-  second analytic number theory course as a continuation of the first one with
-  maximum benefit. In addition, these two courses will provide excellent
-  training for students who plan to attend the "Inclusive Paths in Explicit
-  Number Theory" CRG summer school in 2023. All these events are part of the
-  PIMS CRG L-functions in Analytic Number Theory" 2022-2015.
+  software. This will be closely connected to [Analytic Number Theory
+  2](/#futurecourses) by Greg Martin (UBC), as the sequences of topics are
+  coordinated between us; the intention is for students at all PIMS institutions
+  to be able to take the second analytic number theory course as a continuation
+  of the first one with maximum benefit. In addition, these two courses will
+  provide excellent training for students who plan to attend the "Inclusive
+  Paths in Explicit Number Theory" CRG summer school in 2023. All these events
+  are part of the [PIMS CRG L-functions in Analytic Number
+  Theory (2022-2025)](https://sites.google.com/view/crgl-functions/crg-news).
 
 
 
