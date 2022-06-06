@@ -59,8 +59,8 @@ abstract: |
   of the first one with maximum benefit. In addition, these two courses will
   provide excellent training for students who plan to attend the "Inclusive
   Paths in Explicit Number Theory" CRG summer school in 2023. All these events
-  are part of the [PIMS CRG L-functions in Analytic Number
-  Theory (2022-2025)](https://sites.google.com/view/crgl-functions/crg-news).
+  are part of the [PIMS CRG "L-functions in Analytic Number
+  Theory" (2022-2025)](https://sites.google.com/view/crgl-functions/crg-news).
 
 
 

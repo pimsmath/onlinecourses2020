@@ -35,9 +35,10 @@ section_number: "201"
 section_code: "2022W MATH 539 201"
 
 prerequisites:
-  - A graduate course in analytic number theory that includes Dirichlet series
-    and a complex-analytic proof of the prime number theorem (preferably
-    Analytic Number Theory I taught by Kadiri in Fall~2022)
+  - A course in analytic number theory that includes Dirichlet series and a
+    complex-analytic proof of the prime number theorem (preferably [Analytic
+    Number Theory I](/#currentcourses) taught by Kadiri in Fall 2022), or other
+    exposure to those topics
 
 # Course Abstract
 # abstract : |
@@ -53,7 +54,7 @@ abstract: |
   in Explicit Number Theory" in Summer 2023 and is designed to give students the
   ideal preparation for that summer school program. All three of these events
   are part of the current [PIMS CRG "_L_-functions in Analytic Number
-  Theory](https://sites.google.com/view/crgl-functions/crg-news).
+  Theory" (2022-2025)](https://sites.google.com/view/crgl-functions/crg-news).
 
 # Course Website
 # course_website: 
