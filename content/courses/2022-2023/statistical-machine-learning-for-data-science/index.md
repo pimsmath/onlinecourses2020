@@ -48,11 +48,7 @@ abstract: |
   focusing on hands-on skills with the statistical software, R, and applications
   to real data. The course covers re-sampling methods, regression and
   classification, tree-based methods, dimension reduction, and clustering. It
-  embeds R training through the entire class. Additional information for this
-  course: I will have at least four graduate students from Mathematics and
-  Statistics, the University of Victoria, interested in registering for this
-  course. And this course is also one of the popular courses offered in my
-  department at the University of Saskatchewan.
+  embeds R training through the entire class.
 
 # Course Website
 # course_website: 
