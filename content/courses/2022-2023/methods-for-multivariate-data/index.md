@@ -29,7 +29,7 @@ course_end: 2023-04-30
 course_number: "STAT 475-3 and STAT 675-3"
 
 # Section/Catalog number
-section_number: ""
+section_number: "CRNs: For STAT 476-3: 10653, for STAT 675-3: 10655"
 
 # Course Code at Home institution
 section_code: ""
