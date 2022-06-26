@@ -43,13 +43,11 @@ prerequisites:
 # Course Abstract
 # abstract : |
 abstract: |
-  Based on a mathematical and statistical theory foundation, the course
-  introduces statistical methods for supervised and unsupervised learning,
-  focusing on hands-on skills with the statistical software, R, and applications
-  to real data. The course covers re-sampling methods, regression and
-  classification, tree-based methods, dimension reduction, and clustering. It
-  embeds R training through the entire class.
-
+  The course provides learning opportunities on statistical software, R, with
+  some focus on data management and wrangling, reproducibility, and
+  visualization. On top of that, there are basic introductions to Machine
+  Learning such as k-NN, Naive Bayes, regression methods, etc. The focus is on
+  hands-on skills with R and applications to real data.
 # Course Website
 # course_website: 
 
