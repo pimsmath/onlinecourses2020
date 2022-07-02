@@ -53,9 +53,9 @@
                     "email": "ward@math.ubc.ca"
                 },
                 {
-                    "name": "",
+                    "name": "Graduate Applications",
                     "email": "graduate.apply@ubc.ca"
-                },
+                }
             ],
             "site_admin": {
                 "name": "Brian Marcus",
