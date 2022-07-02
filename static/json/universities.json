@@ -53,12 +53,8 @@
                     "email": "ward@math.ubc.ca"
                 },
                 {
-                    "name": "Kirsten Cameron (Academic Support)",
-                    "email": "kirsten.cameron@ubc.ca"
-                },
-                {
-                    "name": "Rebecca Kim (Information Clerk)",
-                    "email": "rebecca.kim@ubc.ca"
+                    "name": "Graduate Applications",
+                    "email": "graduate.apply@ubc.ca"
                 }
             ],
             "site_admin": {
@@ -73,12 +69,8 @@
             "deadline": "No deadline given",
             "contacts": [
                 {
-                    "name": "Kirsten Cameron",
-                    "email": "kirsten.cameron@ubc.ca"
-                },
-                {
-                    "name": "Rebecca Kim",
-                    "email": "rebecca.kim@ubc.ca"
+                    "name": "Graduate Applications",
+                    "email": "graduate.apply@ubc.ca"
                 }
             ],
             "site_admin": {

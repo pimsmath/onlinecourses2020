@@ -1,6 +1,7 @@
 function showNotes(notesElement, university, direction) {
     notesElement.empty();
     $.getJSON('/json/universities.json', function(jd) {
+        console.log('Showing ' + university + ' ' + direction + ' ' + jd);
         notesElement.empty();
         let content = '';
         content += '<li><strong>Deadline</strong>: ' + jd[university][direction].deadline + '</li>';
@@ -35,11 +36,13 @@ function showNotes(notesElement, university, direction) {
 
 $("#firstUniversity").change(function() {
     let university = $(this).val();
+    console.log('first changed university ' + university);
     showNotes($('#firstUniversityNotes'), university, "outgoing");
 });
 $("#firstUniversityNotes").hide();
 
 $("#secondUniversity").change(function() {
+    console.log('second changed university');
     let university = $(this).val();
     showNotes($('#secondUniversityNotes'), university, "incoming");
 });
