@@ -19,7 +19,7 @@ instructors:
 - name: Alexander Giessing
   institution: University of Washington
   email: giessing@uw.edu
-- name: UBC Instructor TBA
+- name: A UBC Instructor will be added here shortly
   institution: UBC
 # Start and end dates
 # course_start: 2022-09-01
