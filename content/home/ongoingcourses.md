@@ -1,12 +1,12 @@
 ---
 widget: pages
 headless: true
-active: false
-weight: 65
+active: true
+weight: 63
 
-title: "Future Courses"
+title: "Ongoing Courses"
 subtitle: >
-  The courses in this section are not yet accepting registrations.
+  The courses in this section are currently running and are not accepting registrations.
 
 content:
   page_type: courses
@@ -14,7 +14,7 @@ content:
   offset: 0
   order: desc
   filters:
-    category: "upcoming"
+    category: "ongoing"
     registration_open: false
 
 design:

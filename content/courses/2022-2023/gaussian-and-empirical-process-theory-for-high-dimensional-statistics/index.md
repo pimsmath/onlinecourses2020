@@ -4,10 +4,10 @@ date: 2022-05-16T16:53:20-07:00
 tags: [2022-2023]
 categories: [upcoming]
 featured: false
-draft: true
+draft: false
 
 # Registration currently open
-registration_open: false
+registration_open: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-16T16:53:20-07:00
@@ -19,7 +19,8 @@ instructors:
 - name: Alexander Giessing
   institution: University of Washington
   email: giessing@uw.edu
-
+- name: UBC Instructor TBA
+  institution: UBC
 # Start and end dates
 # course_start: 2022-09-01
 course_start: 2023-01-01
