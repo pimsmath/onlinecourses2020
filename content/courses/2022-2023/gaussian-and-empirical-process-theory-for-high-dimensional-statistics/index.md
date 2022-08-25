@@ -19,8 +19,9 @@ instructors:
 - name: Alexander Giessing
   institution: University of Washington
   email: giessing@uw.edu
-- name: A UBC Instructor will be added here shortly
-  institution: UBC
+- name: Jiahua Chen
+  institution: University of British Columbia
+  email: jhchen@stat.ubc.ca
 # Start and end dates
 # course_start: 2022-09-01
 course_start: 2023-01-01
