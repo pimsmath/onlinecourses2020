@@ -47,11 +47,11 @@ abstract: |
   transport.
 
 # Course Website
-course_website: https://personal.math.ubc.ca/~geoff/courses/W2019T1/Math612.html
+course_website: https://sites.google.com/view/math612d/home
 
 syllabus_txt: |
   See the [course
-  website](https://personal.math.ubc.ca/~geoff/courses/W2019T1/Math612.html) for
+  website](https://sites.google.com/view/math612d/home) for
   the syllabus and other details.
 #   syllabus goes here
 #
