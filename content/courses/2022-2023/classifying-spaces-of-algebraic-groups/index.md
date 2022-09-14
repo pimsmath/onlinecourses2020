@@ -26,7 +26,7 @@ course_start: 2023-01-01
 course_end: 2022-04-30
 
 # Course number at home institution
-course_number: ""
+course_number: "MATH 682-850"
 
 # Section/Catalog number
 section_number: ""
