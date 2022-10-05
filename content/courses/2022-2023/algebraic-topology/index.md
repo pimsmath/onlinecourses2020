@@ -29,10 +29,10 @@ course_end: 2023-04-30
 course_number: "Math 842"
 
 # Section/Catalog number
-section_number: ""
+section_number: "001"
 
 # Course Code at Home institution
-course_code: ""
+section_code: "12215"
 
 prerequisites:
   - A course in general topology or metric space topology is required
