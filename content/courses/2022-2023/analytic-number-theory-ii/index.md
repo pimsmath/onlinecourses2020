@@ -26,13 +26,13 @@ course_start: 2023-01-01
 course_end: 2023-04-30
 
 # Course number at home institution
-course_number: "539"
+course_number: "613D"
 
 # Section/Catalog number
 section_number: "201"
 
 # Course Code at Home institution
-section_code: "2022W MATH 539 201"
+section_code: "2022W MATH 613D 201"
 
 prerequisites:
   - A course in analytic number theory that includes Dirichlet series and a
@@ -57,7 +57,7 @@ abstract: |
   Theory" (2022-2025)](https://sites.google.com/view/crgl-functions/crg-news).
 
 # Course Website
-# course_website: 
+course_website: https://personal.math.ubc.ca/~gerg/index.shtml?613-Winter2023
 
 # syllabus_txt: |
 #   syllabus goes here
