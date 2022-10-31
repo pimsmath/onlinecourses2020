@@ -55,21 +55,8 @@ abstract: |
 # course_website: 
 
 syllabus_txt: |
-  Classifying spaces of algebraic groups do not exist in classical algebraic
-  geometry. However, they can be approximated by algebraic varieties. Using this
-  approach, Burt Totaro defined the Chow ring CH(BG) of algebraic cycles on the
-  classifying space BG of an affine algebraic group G. The representation ring
-  R(G) can be viewed as the Grothendieck ring of BG. It turns out that the rings
-  CH(BG) and R(G) are related the same way as the Chow ring and the Grothendieck
-  ring of a smooth algebraic variety are. Namely, for elements of R(G) one can
-  define their Chern classes with values in CH(BG). And there is a surjective
-  ring homomorphism of CH(BG) onto the graded ring associated with certain
-  filtration on R(G). We discuss these and related objects, consider examples of
-  their computation, review some applications. We also take a look at the
-  rationality problem of BG. We start with a quick introduction into algebraic
-  groups and into the theory of Chow rings of algebraic varieties. Textbook:
-  Burt Totaro. Group cohomology and algebraic cycles. Cambridge Tracts in
-  Mathematics, 204. Cambridge University Press, Cambridge, 2014.
+  An up to date syllabus for this course is available [on the instructor's
+  website](http://www.ualberta.ca/~karpenko/PIMS/syllabus.pdf).
 
 image:
   caption: ""
