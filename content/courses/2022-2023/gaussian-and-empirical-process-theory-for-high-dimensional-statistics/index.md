@@ -94,3 +94,6 @@ Textbooks for the first and second part:
 
 Typed lecture notes of all three parts will be provided.
 
+_Please note, the WDA registration deadline for this course at UBC will be **Jan
+6th, 2023.**_
+

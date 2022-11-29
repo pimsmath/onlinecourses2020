@@ -70,3 +70,5 @@ image:
   preview_only: false
 
 ---
+_Please note, the WDA registration deadline for this course at UBC will be **Jan
+6th, 2023**._

@@ -5,7 +5,7 @@ lastmod: '2022-05-14T00:00:00Z'
 tags: [2022-2023]
 categories: ["upcoming"]
 featured: false
-draft: false
+draft: true
 
 # Registration currently open
 registration_open: true
