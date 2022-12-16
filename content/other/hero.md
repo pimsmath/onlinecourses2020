@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 10
 
-title: "External Network Courses"
+title: "External Courses"
 hero_media: "pims-avatar.png"
 
 design:
