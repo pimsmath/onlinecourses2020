@@ -14,7 +14,7 @@ design:
 
 cta:
   url: https://ubc.ca1.qualtrics.com/jfe/form/SV_3gGgapMiJDqfZrM
-  label: Submit a Course
+  label: Submit an External Course
   icon_pack: fas
   icon: download
 ---
