@@ -38,6 +38,7 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  other: [HTML, RSS, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
