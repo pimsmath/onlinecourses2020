@@ -63,6 +63,7 @@ image:
   focal_point: ""
   preview_only: false
 
+course_website: https://personal.math.ubc.ca/~lior/teaching/2223/535_W23/
 ---
 _Please note, the WDA registration deadline for this course at UBC will be **Jan
 6th, 2023.**_
