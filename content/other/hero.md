@@ -23,3 +23,4 @@ but they are also available remotely and may be of interest to the broader
 community. If you have a course which you would like to have included here,
 please complete the [application
 form](https://ubc.ca1.qualtrics.com/jfe/form/SV_3gGgapMiJDqfZrM).
+<p>&nbsp;</p>

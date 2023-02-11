@@ -1,11 +1,12 @@
-+++
-# Hero widget.
-widget = "announcement"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+---
+widget: announcement
+headless: true
+active: true  # Activate this widget? true/false
+weight: 1  # Order that this section will appear.
 
-title = "PIMS is now accepting proposals for courses to run in the 2021/2022 academic year. If you are interested in teaching one of these courses, please complete the [application form](/instructors) by <strong>April 16th, 2021</strong>"
-+++
-
+title: |
+  External courses: If you have a graduate course in the mathematical sciences
+  which you would like to advertise on this site. Please submit it for review
+  through the [external courses](/other) form.
+---
 
