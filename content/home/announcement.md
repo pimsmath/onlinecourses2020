@@ -5,8 +5,10 @@ active: true  # Activate this widget? true/false
 weight: 1  # Order that this section will appear.
 
 title: |
-  External courses: If you have a graduate course in the mathematical sciences
-  which you would like to advertise on this site. Please submit it for review
-  through the [external courses](/other) form.
+  **CALL FOR NEW COURSES** If you are interested in offering a course through
+  the PIMS Network Wide Courses program, please complete [this
+  form](https://ubc.ca1.qualtrics.com/jfe/form/SV_d0QPbTv7TgABTEy). The deadline
+  for applications is **April 15th, 2023**. [Apply
+      now](https://ubc.ca1.qualtrics.com/jfe/form/SV_d0QPbTv7TgABTEy).
 ---
 
