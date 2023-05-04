@@ -7,6 +7,12 @@ title: Current Courses
 subtitle: >-
   The courses in this section are currently open for registration. Expand each
   item to see the course details.
+
+  <div style="font-size: 70%; font-style: italic">
+  N.B. The courses below have be provisionally authorized by the hosting
+  institutions, but may be subject to cancellation depending on enrollment and
+  other factors outwith our control.
+  </div>
 content:
   page_type: courses
   count: 0
