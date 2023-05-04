@@ -8,7 +8,7 @@ featured: false
 draft: true
 
 # Registration currently open
-registration_open: true
+registration_open: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-16T13:21:00-07:00

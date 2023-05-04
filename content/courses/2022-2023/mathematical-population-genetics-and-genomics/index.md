@@ -2,12 +2,12 @@
 title: "The Mathematics of Evolution"
 date: 2022-05-16T15:35:01-07:00
 tags: [2022-2023]
-categories: [upcoming]
+categories: [ongoing]
 featured: false
 draft: false
 
 # Registration currently open
-registration_open: true
+registration_open: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-05-16T15:35:01-07:00

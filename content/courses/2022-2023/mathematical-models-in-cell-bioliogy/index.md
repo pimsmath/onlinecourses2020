@@ -2,7 +2,7 @@
 title: "Mathematical Models in Cell Biology"
 date: 2022-05-16T15:24:38-07:00
 tags: []
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: false
 

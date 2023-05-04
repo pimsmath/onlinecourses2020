@@ -13,6 +13,25 @@ design:
 
 content:
   slides:
+    - title: 2022-2023
+      content: |
+        The first half of the 2022-2023 PIMS Network Wide Graduate Courses program featured the
+        following courses (see above for ongoing courses):
+          * [Analytic Number Theory I](/courses/2022-2023/analytic-number-theory-i)
+          * [Mathematical Models in Cell Biology](/courses/2022-2023/mathematical-models-in-cell-bioliogy/)
+          * [OT+Bio - Single Cell Analysis](/courses/2022-2023/ot-bio-single-cell-analysis)
+          * [Statistical Machine Learning for Data Science](/courses/2022-2023/statistical-machine-learning-for-data-science)
+      align: center
+      background:
+        position: right
+        color: '#BBB'
+        brightness: 0.7
+        media: class.jpg
+      link:
+        icon: graduation-cap
+        icon_pack:
+        url: /tag/2022-2023
+        text: View Past 2022-2023 Courses
     - title: 2021-2022
       content: |
         The 2021-2022 PIMS Network Wide Graduate Courses program featured the

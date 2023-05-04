@@ -2,7 +2,7 @@
 title: "Analytic Number Theory I"
 date: 2022-05-16T16:42:01-07:00
 tags: [2022-2023]
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: false
 
