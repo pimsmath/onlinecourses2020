@@ -1,6 +1,6 @@
 ---
 title: Hodge theory, Deligne cohomology and algebraic cycles
-date: 2023-05-10T22:16:23-0700
+date: 2023-05-09T22:16:23-0700
 tags:
 - 2023-2024
 categories:
@@ -8,7 +8,7 @@ categories:
 featured: false
 draft: false
 registration_open: false
-publish_date: 2023-05-10T22:16:23-0700
+publish_date: 2023-05-09T22:16:23-0700
 course_title: Hodge theory, Deligne cohomology and algebraic cycles
 instructors:
 - name: James D. Lewis
