@@ -2,7 +2,7 @@
 title: "Gaussian and Empirical Process Theory for High Dimensional Statistics"
 date: 2022-05-16T16:53:20-07:00
 tags: [2022-2023]
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: false
 

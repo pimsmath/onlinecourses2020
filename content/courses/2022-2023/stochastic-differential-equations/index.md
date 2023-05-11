@@ -2,7 +2,7 @@
 title: "Stochastic Differential Equations"
 date: 2022-05-16T16:08:33-07:00
 tags: [2022-2023]
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: false
 
