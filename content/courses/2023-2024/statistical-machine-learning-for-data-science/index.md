@@ -18,7 +18,7 @@ course_start: '2023-09-01'
 course_end: '2023-12-31'
 course_number: Stat 847
 section_number: '01'
-section_code: ''
+section_code: '82213'
 prerequisites: 
   - Students have taken undergraduate courses in linear regression and have
     basic R skills.
