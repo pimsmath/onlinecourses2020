@@ -17,7 +17,7 @@ instructors:
 course_start: '2023-09-01'
 course_end: '2023-12-31'
 course_number: MATH 800
-section_number: ''
+section_number: 'D100'
 section_code: ''
 prerequisites:
   - An undergraduate degree in mathematics and basic programming skills (you are
