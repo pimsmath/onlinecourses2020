@@ -36,5 +36,5 @@ abstract: >
   polynomials, unique factorization in Euclidean\ndomains), basic number theory
   (modular arithemtic, factorization into primes) and Galois Theory, but no
   specific courses are required.
-syllabus_pdf: syllabus.pdf
+syllabus_pdf:
 ---
