@@ -94,11 +94,11 @@
                   <dt class="col-sm-4">Course Name</dt>
                   <dd class="col-sm-8">{{ $item.Params.course_title }}</dd>
                   <dt class="col-sm-4">Course Number</dt>
-                  <dd class="col-sm-8">{{ $item.Params.course_number }}</dd>
+                  <dd class="col-sm-8">{{ $item.Params.course_number | markdownify }}</dd>
                   <dt class="col-sm-4">Section Number</dt>
-                  <dd class="col-sm-8">{{ $item.Params.section_number }}</dd>
+                  <dd class="col-sm-8">{{ $item.Params.section_number | markdownify }}</dd>
                   <dt class="col-sm-4">Section Code</dt>
-                  <dd class="col-sm-8">{{ $item.Params.section_code }}</dd>
+                  <dd class="col-sm-8">{{ $item.Params.section_code | markdownify }}</dd>
                 </dl>
               </div>
             </div>
