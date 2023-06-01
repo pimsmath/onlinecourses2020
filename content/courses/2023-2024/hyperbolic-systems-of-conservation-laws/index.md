@@ -25,45 +25,21 @@ section_number: ''
 section_code: ''
 prerequisites:
 - Some basic knowledge on partial differential equations.
-# abstract: >
-#   In this course we will study the theory of hyperbolic systems of conservation
-#   laws.
-# 
-# 
-#   Hyperbolic systems arise in many areas of applied mathematics,
-#   including gas dynamics, thermodynamics, population dynamics, or traffic flow.
-#   In contrast to dissipative systems (like reaction-diffusion equations),
-#   solutions of hyperbolic systems with smooth initial data can generate
-#   "shocks" in finite time.  The solution is no longer differentiable and weak
-#   solutions have to be studied.
-# 
-# 
-#   We will develop the existence and uniqueness theory for solutions of
-#   conservation laws in spaces of functions of "bounded variation\" (BV-spaces).
-#   At the beginning we will recall distributions and weak limits of measures.
-#   Then we study "broad" solutions (solutions which do not form shocks). After
-#   that we investigate discontinuous solutions in detail, we will derive the
-#   Rankine-Hugoniot conditions, the entropy conditions, the Lax-condition and we
-#   will discuss the vanishing viscosity method. We will classify strictly
-#   hyperbolic systems into genuinely nonlinear or linear degenerate systems. Then
-#   we use solutions to the Riemann problem to define a front tracking algorithm.
-#   This method is merely an\ analytical tool to obtain results on local and
-#   global existence and on uniqueness.
-
-syllabus_txt: >
-  In this course we will study the theory of hyperbolic systems of conservation\
+abstract: >
+  In this course we will study the theory of hyperbolic systems of conservation
   laws.
 
-  Hyperbolic systems arise in many areas of applied mathematics, including gas
-  dynamics, thermodynamics, population dynamics, or traffic flow. In contrast to
-  dissipative systems (like reaction-diffusion equations), solutions of
-  hyperbolic systems with smooth initial data can generate "shocks" in finite
-  time.  The solution is no longer differentiable and weak solutions have to be
-  studied.
 
- 
+  Hyperbolic systems arise in many areas of applied mathematics,
+  including gas dynamics, thermodynamics, population dynamics, or traffic flow.
+  In contrast to dissipative systems (like reaction-diffusion equations),
+  solutions of hyperbolic systems with smooth initial data can generate
+  "shocks" in finite time.  The solution is no longer differentiable and weak
+  solutions have to be studied.
+
+
   We will develop the existence and uniqueness theory for solutions of
-  conservation laws in spaces of functions of "bounded variation" (BV-spaces).
+  conservation laws in spaces of functions of "bounded variation\" (BV-spaces).
   At the beginning we will recall distributions and weak limits of measures.
   Then we study "broad" solutions (solutions which do not form shocks). After
   that we investigate discontinuous solutions in detail, we will derive the
@@ -71,8 +47,32 @@ syllabus_txt: >
   will discuss the vanishing viscosity method. We will classify strictly
   hyperbolic systems into genuinely nonlinear or linear degenerate systems. Then
   we use solutions to the Riemann problem to define a front tracking algorithm.
-  This method is merely an analytical tool to obtain results on local and global
-  existence and on uniqueness.
+  This method is merely an\ analytical tool to obtain results on local and
+  global existence and on uniqueness.
+
+# syllabus_txt: >
+#   In this course we will study the theory of hyperbolic systems of conservation\
+#   laws.
+# 
+#   Hyperbolic systems arise in many areas of applied mathematics, including gas
+#   dynamics, thermodynamics, population dynamics, or traffic flow. In contrast to
+#   dissipative systems (like reaction-diffusion equations), solutions of
+#   hyperbolic systems with smooth initial data can generate "shocks" in finite
+#   time.  The solution is no longer differentiable and weak solutions have to be
+#   studied.
+# 
+#  
+#   We will develop the existence and uniqueness theory for solutions of
+#   conservation laws in spaces of functions of "bounded variation" (BV-spaces).
+#   At the beginning we will recall distributions and weak limits of measures.
+#   Then we study "broad" solutions (solutions which do not form shocks). After
+#   that we investigate discontinuous solutions in detail, we will derive the
+#   Rankine-Hugoniot conditions, the entropy conditions, the Lax-condition and we
+#   will discuss the vanishing viscosity method. We will classify strictly
+#   hyperbolic systems into genuinely nonlinear or linear degenerate systems. Then
+#   we use solutions to the Riemann problem to define a front tracking algorithm.
+#   This method is merely an analytical tool to obtain results on local and global
+#   existence and on uniqueness.
 ---
 ### Lecture Times
 
