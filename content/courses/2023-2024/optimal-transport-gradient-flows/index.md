@@ -16,7 +16,10 @@ instructors:
   email: soumikpal@gmail.com
 course_start: '2023-09-01'
 course_end: '2023-12-31'
-course_number: Math 581
+course_number: >
+  * University of British Columbia (**_WDA students_**): Math 606D:101
+
+  * University of Washington: Math 581
 section_number: ''
 section_code: ''
 prerequisites:

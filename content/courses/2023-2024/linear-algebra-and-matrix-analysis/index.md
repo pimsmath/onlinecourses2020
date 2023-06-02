@@ -20,13 +20,26 @@ course_number: MATH 7370
 section_number: ''
 section_code: ''
 prerequisites:
-  - Permission of department (for the grad version). The course is dual listed.
-    Prereqs for the undergrad version are second year linear algebra and that is
-    typically what I expect students to know.
+  - Permission of the department. The course is dual listed, the undergraduate
+    version requires a second year linear algebra course. While the
+    prerequisites are low, you should be comfortable with the content of a solid
+    second year linear algebra course, as the course is fast paced.
+   
 abstract: >
-  Vector and matrix norms, matrix factorizations, eigenvalues and eigenvectors,
-  theory of non-negative matrices. Applications to differential equations, math
-  biology, numerical analysis, digital image processing, data mining, GPS,
-  Markov chains, graph theory, etc. will be given in this course.
-syllabus_pdf: syllabus.pdf
+  Matrices are ubiquitous in many aspects of mathematics. They show up, for
+  instance, when considering the local asymptotic stability of equilibria of
+  systems of ordinary differential equations, the long term behaviour of Markov
+  chains, the study of graphs and the discretization of reaction-diffusion
+  equations.
+
+  ##### Objectives of the course:
+
+    1. explore the role of matrices in several fields of mathematics;
+    1. study properties of these matrices;
+    1. develop a toolbox to study some matrix properties computationally.
+
+syllabus_pdf:
+course_website: https://julien-arino.github.io/math-4370-7370/
 ---
+For more information about this course, including a detailed syllabus, please
+see the [course website](https://julien-arino.github.io/math-4370-7370/).
