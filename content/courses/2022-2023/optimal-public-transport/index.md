@@ -2,7 +2,7 @@
 title: "Optimal Public Transport"
 date: 2022-05-16T16:16:40-07:00
 tags: [2022-2023]
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: true
 

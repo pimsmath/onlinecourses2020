@@ -2,7 +2,7 @@
 title: "Methods for Multivariate Data"
 date: 2022-05-16T16:20:53-07:00
 tags: [2022-2023]
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: false
 

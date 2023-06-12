@@ -1,8 +1,8 @@
 ---
 widget: pages
 headless: true
-active: false
-weight: 65
+active: true
+weight: 62
 
 title: "Future Courses"
 subtitle: >

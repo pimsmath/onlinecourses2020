@@ -2,7 +2,7 @@
 title: "Lie Groups: Structure and Representation Theory"
 date: 2022-05-16T16:38:28-07:00
 tags: [2022-2023]
-categories: [ongoing]
+categories: [past]
 featured: false
 draft: false
 
