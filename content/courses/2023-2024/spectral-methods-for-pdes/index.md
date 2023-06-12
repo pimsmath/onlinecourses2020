@@ -1,5 +1,5 @@
 ---
-title: 'Spectral Methods: Analysis and Fast Algorithms'
+title: 'Spectral Methods for PDEs'
 date: 2023-05-09T22:16:23-0700
 tags:
 - 2023-2024
@@ -9,7 +9,7 @@ featured: false
 draft: false
 registration_open: true
 publish_date: 2023-05-09T22:16:23-0700
-course_title: 'Spectral Methods: Analysis and Fast Algorithms'
+course_title: 'Spectral Methods for PDEs'
 instructors:
 - name: Shaun Lui & Mikael Slevinsky
   institution: University of Manitoba
@@ -38,8 +38,8 @@ syllabus_txt: >
   #### Part I: Introduction to Spectral Methods (Shaun Lui)
 
     1. Trigonometric and orthogonal polynomials (truncation and interpolation
-       error estimates)
-    2. Fourier spectral, spectral Galerkin and spectral tau methods
+       error estimates, aliasing, Lebesgue constants)
+    2. Fourier spectral (FFT), spectral Galerkin and spectral tau methods
     3. Spectral collocation for Poisson equation with Dirichlet BCs (convergence
        and condition number estimates)
     4. Neumann problems and fourth-order PDEs
@@ -54,6 +54,7 @@ syllabus_txt: >
        of the connection coefficients
     4. Multivariate orthogonal polynomials via Koornwinder’s construction (f)
        Time evolution with exponential integrators
+
 ---
 ##### Tentative Time
   * Tues, Thurs 3 - 4:15 (CDT)
@@ -65,11 +66,12 @@ syllabus_txt: >
 1. J. Shen T. Tao and L.-L. Wang, Spectral methods. Algorithms, analysis and
    applications, Springer, 2011.
 2. L.N. Trefethen, Spectral Methods in Matlab, SIAM, 2000.
-3. S. Olver, R. M. Slevinsky, and A. Townsend, Fast algorithms using orthogonal
+3. L.N. Trefethen, Approimation Theory and Approximation Practice (Extended Ed.), SIAM, 2020.
+4. S. Olver, R. M. Slevinsky, and A. Townsend, Fast algorithms using orthogonal
    polynomials, _Acta Numerica_, 29: 573–699, 2020.
 
 ##### Grading Scheme
-There are 6 Homeworks (each contributing approximately 16.66% toward the grade).
+There are 4 Homeworks (each contributing 17% toward the grade) and a project (32%).
 
 ##### Academic Integrity
 The Department of Mathematics, the Faculty of Science and the University of
