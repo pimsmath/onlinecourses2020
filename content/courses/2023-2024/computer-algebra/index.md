@@ -33,3 +33,13 @@ abstract: >
   programming will be provided.
 syllabus_pdf: syllabus.pdf
 ---
+
+### Lecture Times
+
+Lectures are on Tuesdays and Thursdays 9:30am to 11:20am (Pacific Time)
+.
+### Remote Access
+
+Lectures will be shared via zoom.  Students will need to have installed the zoom
+app on their desktop/laptop.
+
