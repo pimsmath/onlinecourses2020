@@ -20,9 +20,9 @@ course_number: MATH 800
 section_number: ''
 section_code: ''
 prerequisites: 
-  - Undergraduate course in graph theory
-  - Undergraduate course on (discrete) probability
-  - Linear algebra
+- Undergraduate course in graph theory
+- Undergraduate course on (discrete) probability
+- Linear algebra
 abstract: |
   The course will provide an introduction to algebraic and probabilistic
   techniques in combinatorics and graph theory. The main topics included will
