@@ -66,11 +66,6 @@ and
 the time zones, the course has an unusual structure. Please read the details
 below carefully.**
 
-
-### Professors
-  * Young-Heon Kim (UBC and KAIST) <yhkim@math.ubc.ca>
-  * Soumik Pal (UW) <soumikpal@gmail.com>
-
 ### Lectures
 * Lecture hours **6:30pm - 8pm Pacific on Tuesdays and Thursdays**. Thus we will
 have two classes per week, each for 90 mins.
