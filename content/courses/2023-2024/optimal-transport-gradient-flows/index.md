@@ -11,15 +11,20 @@ registration_open: true
 publish_date: 2023-05-09T22:16:23-0700
 course_title: Optimal Transport + Gradient Flows
 instructors:
-- name: Young-Heon Kim and Soumik Pal
+- name: Soumik Pal
   institution: University of Washington
   email: soumikpal@gmail.com
+- name: Young-Heon Kim
+  institution: University of British Columbia
+  email: yhkim@math.ubc.ca
 course_start: '2023-09-01'
 course_end: '2023-12-31'
 course_number: >
-  * University of British Columbia (**_WDA students_**): Math 606D:101
+  **University of Washington Students:**
+    * University of Washington: Math 581 F
 
-  * University of Washington: Math 581
+  **All Other WDA Students:**
+    * University of British Columbia: Math 606D:101
 section_number: ''
 section_code: ''
 prerequisites:
@@ -51,3 +56,84 @@ abstract: >
   This is a continuation of the sequence of OT+X courses under the Kantorovich
   Initiative.
 ---
+
+## Delivery Details
+
+The course is being offered simultaneously at Korea Advanced Institute of
+Science and Technology (KAIST) and the PIMS network, including the University of
+Washington, Seattle. **Due to different time schedules for individual campuses
+and
+the time zones, the course has an unusual structure. Please read the details
+below carefully.**
+
+
+### Professors
+  * Young-Heon Kim (UBC and KAIST) <yhkim@math.ubc.ca>
+  * Soumik Pal (UW) <soumikpal@gmail.com>
+
+### Lectures
+* Lecture hours **6:30pm - 8pm Pacific on Tuesdays and Thursdays**. Thus we will
+have two classes per week, each for 90 mins.
+
+* Lectures will be taught over Zoom and videos and notes will be made available
+  to everyone afterwards.
+
+* A Slack channel will be used to communicate with students and distribute
+  teaching material.
+
+  There will be no exams in this course. Occasional homework problems will be
+  provided.
+
+### Registration
+Students at Canadian PIMS Member Universities may register through the [Western
+Deans Agreement](http://wcdgs.ca/western-deans-agreement.html). Students at UW
+may register directly for the UW course. Course codes and other registration
+details for students in either of these cases are listed in the registration
+section above. Students at other institutions should contact one of the
+instructors to attend the course as a
+non-registered student.
+
+## Course Structure
+
+### Part I
+Part I is a recap of the basics of Monge-Kantorovich optimal transport theory.
+_You do NOT need to take this part if you are already familiar with the basics_.
+This will be covered between **AUG 28** and **SEP 26**. Topics covered during
+this period are:
+
+* linear programming
+* Monge-Kantorovich problem
+* Kantorovich duality
+* Monge-Ampère PDE
+* Brenier’s Theorem
+* Wasserstein-2 metric
+
+### Part II
+This will start on **SEP 27** and continue through **DEC 7**. A rough syllabus
+of topics covered are presented below in the order they will be covered. There
+might be some changes depending on our progress.
+
+
+#### core topics
+* Wasserstein space
+  * metric property
+  * geodesics, displacement interpolation, generalized geodesic
+  * Geodesic convexity
+* AC curves in the Waserstein space and the continuity equation
+* Benamou-Brenier and dynamic OT
+* Otto calculus
+  * tangent spaces to the Wasserstein space
+  * Riemannian gradient
+* Diffusions as gradient flows via Otto calculus
+  * Brownian motion
+  * Langevin diffusions
+
+#### Modern research topics that will be surveyed
+* log-Sobolev and other functional inequalities
+* Convergence of finite dimensional gradient flow of particles to the
+  **McKean-Vlasov diffusions** and gradient flow in the Wasserstein space.
+* The implicit Euler or JKO scheme
+* Entropy regularization and gradient flows
+  * Schrödinger bridges
+  * Large deviation and gradient flows
+* Mirror gradient flows, parabolic Monge-Ampere and the Sinkhorn algorithm
