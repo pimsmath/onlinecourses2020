@@ -31,3 +31,15 @@ abstract: >
   embeds R training throughout the entire class.
 syllabus_pdf: syllabus.pdf
 ---
+### Course Schedule
+  * **Lecture Section**: Wednesday 6:00pm-9:00pm CST (online via zoom)
+  * **Lab Section**: Thursday 3:30pm-4:50pm CST (online via zoom for outside USask
+    students, or onsite in a lab room to be announced).
+  * **Office Hours**: Friday 5:00pm-6:00pm CST, and by appointment (online via zoom,
+    or onsite by appointment)
+
+### Other Information
+Please see the [syllabus
+document](/courses/2023-2024/statistical-machine-learning-for-data-science/syllabus.pdf)
+for more details, including required reading, learning objective and evaluation
+    components.
