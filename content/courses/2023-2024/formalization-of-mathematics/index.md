@@ -16,8 +16,8 @@ instructors:
   email: topaz@ualberta.ca
 course_start: '2023-09-01'
 course_end: '2023-12-31'
-course_number: ''
-section_number: ''
+course_number: 'MATH 681'
+section_number: 'A1'
 section_code: ''
 prerequisites: 
   - There are no strict mathematical prerequisites, but a certain level of
@@ -40,3 +40,8 @@ abstract: >
   outline of the topics we expect to cover.
 syllabus_pdf: syllabus.pdf
 ---
+
+### Lecture Times
+
+Lectures are Tuesdays and Thursdays, 11am to 12:20pm, Mountain time.
+All lectures will take place electronically using zoom (or similar software).
