@@ -1,12 +1,12 @@
 ---
 widget: pages
 headless: true
-active: false
+active: true
 weight: 63
 
 title: "Ongoing Courses"
 subtitle: >
-  The courses in this section are currently running and are not accepting registrations.
+  The courses in this section are currently running but are no longer accepting registrations.
 
 content:
   page_type: courses
