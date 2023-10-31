@@ -164,7 +164,7 @@
         "id": "um",
         "name": "University of Manitoba",
         "incoming": {
-            "deadline": "8 weeks prior to the start of the course",
+            "deadline": "No deadline given",
             "contacts": [
                 {
                     "name": "Student Affairs Registrar's Office",
@@ -185,7 +185,7 @@
             ]
         },
         "outgoing": {
-            "deadline": "8 weeks prior to the start of the course",
+            "deadline": "No deadline given",
             "contacts": [
                 {
                     "name": "Student Affairs Registrar's Office",
