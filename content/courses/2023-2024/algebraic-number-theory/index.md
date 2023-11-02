@@ -38,3 +38,11 @@ abstract: >
   specific courses are required.
 syllabus_pdf:
 ---
+
+### Lecture Schedule
+Lectures will take place every Wednesday and Friday from 9:30am-11am (Pacific
+Time).
+
+### Remote Access
+Lectures will be shared via zoom. Students will need to have installed the zoom
+app on their desktop/laptop.

@@ -17,7 +17,7 @@ instructors:
 course_start: '2024-01-01'
 course_end: '2024-04-30'
 course_number: Math 610D
-section_number: ''
+section_number: '201'
 section_code: ''
 prerequisites: 
   - This course assumes graduate-level background in measure theory, real
@@ -29,3 +29,12 @@ abstract: >
   Fourier restriction theory, and in particular the recent use of tools such as
   the polynomial method.
 ---
+
+### Lecture Times
+Lectures will take place every Monday, Wednesday and Friday 11:00am-12:00pm
+(Pacific Time)
+
+### Remote Access
+Lectures will be shared via zoom. Students will need to have installed the zoom
+app on their desktop/laptop.
+
