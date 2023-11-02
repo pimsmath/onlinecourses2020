@@ -16,7 +16,7 @@ instructors:
   email: aquas@uvic.ca
 course_start: '2024-01-01'
 course_end: '2024-04-30'
-course_number: MATH 580
+course_number: MATH 535
 section_number: A01
 section_code: ''
 prerequisites:
@@ -31,3 +31,10 @@ abstract: >
   the principal invariants of ergodic theory will be introduced.  From there,
   the course will focus on applications to other areas.
 ---
+
+### Lecture Times
+Lectures will take place every Monday and Thursday from from 8:30-9:50 (Pacific time).
+
+### Remote Access
+Lectures will be shared via zoom. Students will need to have installed the zoom
+app on their desktop/laptop.
