@@ -9,14 +9,14 @@ featured: false
 draft: false
 registration_open: true
 publish_date: 2023-05-09T22:16:23-0700
-course_title: Hodge theory, Deligne cohomology and algebraic cycles
+course_title: Topics in Algebra
 instructors:
 - name: James D. Lewis
   institution: University of Alberta
   email: lewisjd@ualberta.ca
 course_start: '2024-01-01'
 course_end: '2024-04-30'
-course_number: ''
+course_number: Math 681-850 (18987)
 section_number: ''
 section_code: ''
 prerequisites:
@@ -33,3 +33,11 @@ abstract: >
   uploaded pdf file.
 syllabus_pdf: syllabus.pdf
 ---
+
+### Lecture Times
+Lectures will take place on Mondays, Wednesdays and Fridays from 13:00-13:50
+(Mountain Time)
+
+### Remote Access
+These lectures will take place via zoom. Students should have zoom installed on
+their laptop or other device.
