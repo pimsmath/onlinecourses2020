@@ -36,7 +36,8 @@ abstract: >
   polynomials, unique factorization in Euclidean\ndomains), basic number theory
   (modular arithemtic, factorization into primes) and Galois Theory, but no
   specific courses are required.
-syllabus_pdf:
+syllabus_pdf: syllabus-math538.v1.0.pdf
+course_website: https://personal.math.ubc.ca/~lior/teaching/2324/538_W24/
 ---
 
 ### Lecture Schedule
