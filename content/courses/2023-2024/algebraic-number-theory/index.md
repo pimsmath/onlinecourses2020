@@ -41,7 +41,7 @@ course_website: https://personal.math.ubc.ca/~lior/teaching/2324/538_W24/
 ---
 
 ### Lecture Schedule
-Lectures will take place every Wednesday and Friday from 9:30am-11am (Pacific
+Lectures will take place every Wednesday and Friday from 10:00am-11:30am (Pacific
 Time).
 
 ### Remote Access
