@@ -36,7 +36,6 @@ abstract: |
   * First day of classes: January 9
   * Reading break: February 20-25
   * Last day of classes: April 11
-* Room: AQ 5029 + Zoom for remote students
 
 ### Delivery details
 Note: This course is also offered through PIMS and WDA (Western Dean's
