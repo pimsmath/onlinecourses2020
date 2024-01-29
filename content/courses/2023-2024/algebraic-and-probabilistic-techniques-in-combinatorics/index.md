@@ -4,10 +4,10 @@ date: 2023-06-21T21:44:26-0700
 tags:
 - 2023-2024
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2023-06-21T21:44:26-0700
 course_title: Algebraic and probabilistic techniques in combinatorics
 instructors:

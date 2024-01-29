@@ -4,10 +4,10 @@ date: 2023-05-09T22:16:23-0700
 tags:
 - 2023-2024
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2023-05-09T22:16:23-0700
 course_title: Topics in Algebra
 instructors:

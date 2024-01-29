@@ -4,7 +4,7 @@ date: 2023-05-09T22:16:23-0700
 tags:
 - 2023-2024
 categories:
-- ongoing
+- past
 featured: false
 draft: false
 registration_open: false
