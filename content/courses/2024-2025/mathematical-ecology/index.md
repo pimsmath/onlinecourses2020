@@ -22,12 +22,11 @@ section_code: 'MATH559'
 prerequisites:
   - >
     #### Required
-    - e.g. [MATH225 Introduction to ODEs](https://cmps-people.ok.ubc.ca/rtyson/Teaching/Math225/index.html)
-    - e.g. [MATH200 Multivariable
-      Calculus](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?session=2020W&t=outline&name=200:203)
+      - [MATH225 Introduction to ODEs](https://cmps-people.ok.ubc.ca/rtyson/Teaching/Math225/index.html) or similar
+      - [MATH200 Multivariable Calculus](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?session=2020W&t=outline&name=200:203) or similar
   - >
     #### Strongly Recommended
-    - e.g. [MATH319 Introduction to PDEs](https://personal.math.ubc.ca/~ttsai/courses/516-23Q4/)
+      - [MATH319 Introduction to PDEs](https://personal.math.ubc.ca/~ttsai/courses/516-23Q4/) or similar
 abstract: > 
   Mathematical modelling in ecology, including population dynamics,
   epidemiology, and pattern formation. Theory of such models formulated as
