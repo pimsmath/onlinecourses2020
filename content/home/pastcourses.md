@@ -13,6 +13,38 @@ design:
 
 content:
   slides:
+    - title: 2023-2024
+      content: |
+        The 2023-2024 PIMS Network Wide Graduate Courses program featured the
+        following courses:
+          * [Algebraic and probabilistic techniques in combinatorics](/courses/2023-2024/algebraic-and-probabilistic-techniques-in-combinatorics/)
+          * [Algebraic Number Theory](/courses/2023-2024/algebraic-number-theory/)
+          * [Ergodic Theory](/courses/2023-2024/ergodic-theory/)
+          * [Hodge theory, Deligne cohomology and algebraic cycles](/courses/2023-2024/hodge-theory-deligne-cohomology-and-algebraic-cycles)
+          * [Hyperbolic Systems of Conservation Laws](/courses/2023-2024/hyperbolic-systems-of-conservation-laws)
+          * [The geometry and arithmetic of schemes](/courses/2023-2024/the-geometry-and-arithmetic-of-schemes/)
+          * [Topics in harmonic analysis: Fourier restriction and
+            decoupling](/courses/2023-2024/topics-in-harmonic-analysis-fourier-restriction-and-decoupling)
+          * [Computer Algebra](/courses/2023-2024/computer-algebra)
+          * [Formalization of Mathematics](/courses/2023-2024/formalization-of-mathematics)
+          * [Linear Algebra and Matrix Analysis](/courses/2023-2024/linear-algebra-and-matrix-analysis)
+          * [Moments of L-functions](/courses/2023-2024/moments-of-l-functions)
+          * [Optimal Transport + Gradient Flows](/courses/2023-2024/optimal-transport-gradient-flows)
+          * [Spectral Methods for PDEs](/courses/2023-2024/spectral-methods-for-pdes)
+          * [Statistical Machine Learning for Data Science](/courses/2023-2024/statistical-machine-learning-for-data-science)
+
+      align: center
+      background:
+        position: right
+        color: '#BBB'
+        brightness: 0.7
+        media: class.jpg
+      link:
+        icon: graduation-cap
+        icon_pack:
+        url: /tag/2023-2024
+        text: View Past 2023-2024 Courses
+
     - title: 2022-2023
       content: |
         The 2022-2023 PIMS Network Wide Graduate Courses program featured the
