@@ -9,15 +9,15 @@ featured: false
 draft: false
 registration_open: true
 publish_date: 2024-05-09T22:16:23-0700
-course_title: "Introduction to Cohomology of Arithmetic Groups"
+course_title: "Topics in Algebra"
 instructors:
 - name: Manish Patnaik
   institution: University of Alberta
   email: patnaik@ualberta.ca
 course_start: '2024-09-03'
 course_end: '2024-12-09'
-course_number: 
-section_number: 
+course_number: MATH681
+section_number: LECTURE B1
 section_code:
 prerequisites:
  -  We will aim to make this course accessible to students with a basic
@@ -42,6 +42,8 @@ abstract: >
 syllabus_pdf: syllabus.pdf
 ---
 ### Lecture Times
+Dates: Sep. 3 - Dec. 9
+Class Time: Tuesday/Thursday, 16-17:20 (Mountain Time)
 
 ### Remote Access
 The lecturer will use a tablet connected to zoom/camera to live stream lectures
