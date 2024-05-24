@@ -23,11 +23,12 @@ prerequisites:
   - >
     #### Required
       * Undergraduate algebra (groups, rings, fields)
-      * Undergraduate complex analysis)
+      * Undergraduate complex analysis
   - >
     #### Recommended
       * Galois theory
-      * undergratuate introduction to algebraic geometry
+      * Undergraduate introduction to algebraic geometry
+
 abstract: > 
   This course provides an introduction into analytic number theoretic methods
   with applications to arithmetic geometry. We will study Dirichlet series with
