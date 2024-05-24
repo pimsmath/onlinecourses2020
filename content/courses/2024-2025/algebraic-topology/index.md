@@ -20,7 +20,7 @@ course_number: MATH 842
 section_number: Section 001
 section_code: 'CRN: 12237'
 prerequisites:
-  - A course in general toplogy or metric space topology (required)
+  - A course in general topology or metric space topology (required)
   - A course in group theory (strongly recommended)
 abstract: > 
   The course is a first semester of algebraic topology. Broadly speaking,
