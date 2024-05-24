@@ -42,8 +42,8 @@ abstract: >
 syllabus_pdf: syllabus.pdf
 ---
 ### Lecture Times
-Dates: Sep. 3 - Dec. 9
-Class Time: Tuesday/Thursday, 16-17:20 (Mountain Time)
+ * **Dates**: Sep. 3 - Dec. 9
+ * **Class Time**: Tuesday/Thursday, 16-17:20 (Mountain Time)
 
 ### Remote Access
 The lecturer will use a tablet connected to zoom/camera to live stream lectures
