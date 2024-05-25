@@ -1,14 +1,10 @@
 ---
 widget: announcement
 headless: true
-active: false  # Activate this widget? true/false
+active: true  # Activate this widget? true/false
 weight: 1  # Order that this section will appear.
 
 title: |
-  **CALL FOR NEW COURSES** If you are interested in offering a course through
-  the PIMS Network Wide Courses program, please complete [this
-  form](https://ubc.ca1.qualtrics.com/jfe/form/SV_d0QPbTv7TgABTEy). The deadline
-  for applications is **May 1st, 2024**. [Apply
-      now](https://ubc.ca1.qualtrics.com/jfe/form/SV_d0QPbTv7TgABTEy).
+  **COURSE REGISTRATION NOW OPEN FOR FALL 2024** Courses in the [current](/#currentcourses) section below are now accepting new registrations. Please be aware that the WDA deadline at some sites may be as early as **July 1st** for courses beginning in September. See the [wda section](/#wda) for more information.
 ---
 
