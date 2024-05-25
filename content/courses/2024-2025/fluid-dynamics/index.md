@@ -32,7 +32,8 @@ abstract: >
   or engineering fluids course, including basic functional analysis and
   variational methods, and it will have more physics than a pure PDE analysis
   course. Through detailed study of several fundamental model systems, we will
-  PDE examples of topics that may be more familiar int he context of ODE
+  see
+  PDE examples of topics that may be more familiar in the context of ODE
   dynamical systems, such as linear stability, nonlinear stability, bifurcations
   and chaos. Undergraduate knowledge of PDEs and real analysis are assumed.
 
