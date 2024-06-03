@@ -41,9 +41,9 @@ abstract: >
     * What is the minimum size of an independent set in a triangle-free graph?
  
   Other topics may include the Szemerédi Regularity Lemma, Shannon Capacity, the
-  Entropy Method, the Container Method and Stability. A preliminary version of
-  the course notes can be [found
-  here](https://drive.google.com/file/d/1IRCm7sf2KSMBHu7DLiPnsTDio61TB0uZ/view?usp=sharing.).
+  Entropy Method, the Container Method and Stability. The course webpage, which
+  includes a link to a preliminary version of the course notes, can be [found
+  here](http://extremalcombinatorics.com/).
 ---
 ### Lecture Schedule
 This course will run Sept. 4th-Dec. 4th, 2024. Lectures will take place
@@ -54,6 +54,6 @@ entry](https://www.uvic.ca/BAN1P/bwckctlg.p_disp_listcrse?term_in=202409&subj_in
 ### Remote Access
 Lectures will be livestreamed via Zoom. The lecturer will write on chalkboards
 which will be shared via Zoom. Recordings of the lectures will be available for
-asynchronous viewing. Preliminary lecture notes are [available
-online](https://drive.google.com/file/d/1IRCm7sf2KSMBHu7DLiPnsTDio61TB0uZ/view?usp=sharing) and
-assignments will be distributed electronically.
+asynchronous viewing. Preliminary lecture notes are available on the [course
+website](http://extremalcombinatorics.com/) and assignments will be distributed
+electronically.
