@@ -16,9 +16,15 @@ instructors:
   email: patnaik@ualberta.ca
 course_start: '2024-09-03'
 course_end: '2024-12-09'
-course_number: MATH681
-section_number: LECTURE B1
-section_code:
+course_number: |
+   - Students at UAlberta: MATH 581
+   - Students **not** at UAlberta: MATH 681
+section_number: |
+   - Students at UAlberta: LECTURE B1
+   - Students **not** at UAlberta: Lecture 800
+section_code: |
+  - Students at UAlberta: 54832
+  - Students **not** at UAlberta: 54986
 prerequisites:
  -  We will aim to make this course accessible to students with a basic
     background in algebra and analysis (at the level of introductory graduate
