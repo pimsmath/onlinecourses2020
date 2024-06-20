@@ -17,8 +17,7 @@ instructors:
 course_start: '2024-09-03'
 course_end: '2024-12-09'
 course_number: |
-   - Students at UAlberta: MATH 581
-   - Students **not** at UAlberta: MATH 681
+   - All Students: MATH 681
 section_number: |
    - Students at UAlberta: LECTURE B1
    - Students **not** at UAlberta: Lecture 800
