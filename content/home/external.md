@@ -3,7 +3,7 @@
 widget = "blank"
 headless = true
 active = true
-weight = 160
+weight = 72
 autolink = false
 
 [design]

@@ -2,7 +2,7 @@
 widget: slider
 headless: true
 active: true
-weight: 70
+weight: 75
 title: Previous Courses
 subtitle: The courses in this section are no longer accepting registrations.
 design:
