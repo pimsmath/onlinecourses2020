@@ -4,10 +4,10 @@ date: 2024-05-09T22:16:23-0700
 tags:
 - 2024-2025
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2024-05-09T22:16:23-0700
 course_title: "Topics in Mathematical Biology: biological image data and shape analysis"
 instructors:
@@ -49,7 +49,7 @@ abstract: >
 ### Lecture Schedule
 
 ### Remote Access
-Remote access will be via zoom. A combination of pre-pared slides and hand
+Remote access will be via zoom. A combination of prepared slides and hand
 written notes will be used. The hand written notes will be on a blackboard or
 tablet depending on room availability. The lecturer will distribute lecture
 notes online.

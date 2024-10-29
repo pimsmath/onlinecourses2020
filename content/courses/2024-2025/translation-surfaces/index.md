@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2024-05-09T22:16:23-0700
 course_title: Translation Surfaces
 instructors:
