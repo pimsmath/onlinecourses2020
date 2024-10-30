@@ -17,8 +17,8 @@ instructors:
 - name: Ozgur Yilmaz
   institution: University of British Columbia
   email: oyilmaz@math.ubc.ca
-course_start: '2025-01-05'
-course_end: '2025-03-13'
+course_start: '2025-03-31'
+course_end: '2025-06-06'
 course_number: >
   - University of Washington: MATH 583C
   - WDA Students: UBC Course number TBA
