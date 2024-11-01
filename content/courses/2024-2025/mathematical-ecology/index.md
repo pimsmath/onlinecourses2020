@@ -35,7 +35,7 @@ abstract: >
   elucidate the behaviour of these mathematical models, whether or not a
   closed-form solution is avalable. By the end of the class, the students will
   be able to competently read and follow a research paper presenting and
-  analysing a differential equation model ffrom a wide variety of application
+  analysing a differential equation model from a wide variety of application
   areas.
 ---
 ### Class Schedule
