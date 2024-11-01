@@ -31,6 +31,10 @@ abstract: >
 
 syllabus_pdf: syllabus.pdf
 ---
+### Lecture Schedule
+
+Lectures will take place Monday, Wednesday and Friday 12:30 - 1:20 PM Regina time.
+
 ### Remote Access
 The class will be in a hybrid format hosted in a classroom equipped with [hyflex
 technology](https://www.uregina.ca/is/ctes/help-guides.html).
