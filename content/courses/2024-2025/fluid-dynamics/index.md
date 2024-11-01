@@ -17,8 +17,8 @@ instructors:
 course_start: '2025-01-06'
 course_end: '2025-04-04'
 course_number: MATH 444/550
-section_number: ''
-section_code: ''
+section_number: 'A01'
+section_code: '21967'
 prerequisites:
   - Introductory PDEs
   - Introductory analysis
@@ -42,7 +42,9 @@ abstract: >
 There will be no exams, only assignments access and submitted online via
 Crowdmark.
 
+### Class Schedule
+  * M/Th 11:30 AM - 12:50 PM PST
+
 ### Remote Access
-The lecturer will use zoom for each lecture, and lectures will be recorded.
-Typed lecture notes will be distributed electronically.
+The lecturer will use zoom for each lecture.  Typed lecture notes will be distributed electronically.
 
