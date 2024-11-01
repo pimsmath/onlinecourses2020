@@ -39,5 +39,8 @@ abstract: >
 
 syllabus_pdf: syllabus.pdf
 ---
+### Class Schedule
+This class will meet Mondays and Wednesdays from 11am-12:15pm (CDT)
+
 ### Remote Access
 Lectures will be delivered via Zoom using iPad with GoodNotes.
