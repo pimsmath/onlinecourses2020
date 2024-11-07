@@ -51,7 +51,7 @@
             "deadline": "Friday before the term starts",
             "contacts": [
                 {
-                    "name": "Math Dept. Graduate Coordinator)",
+                    "name": "Math Dept. Graduate Coordinator",
                     "email": "grad-coord@math.ubc.ca"
                 },
                 {
@@ -70,6 +70,10 @@
         "outgoing": {
             "deadline": "No deadline given",
             "contacts": [
+                {
+                    "name": "Math Dept. Graduate Coordinator",
+                    "email": "grad-coord@math.ubc.ca"
+                },
                 {
                     "name": "Graduate Applications",
                     "email": "graduate.apply@ubc.ca"
