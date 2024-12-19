@@ -19,8 +19,9 @@ course_end: '2025-04-08'
 course_number: MATH559
 section_number: '001'
 section_code: |
-  **PLEASE NOTE**: This course is hosted at the UBC Okanagan campus.
-  Requests for registration under the WDA should be directed to UBCO
+  **PLEASE NOTE**: This course is hosted at the _UBC Okanagan campus_.
+  Requests for registration under the WDA should be directed to graduate
+  admissions _at UBC Okanagan_
 prerequisites:
   - >
     #### Required
