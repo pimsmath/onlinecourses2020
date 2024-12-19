@@ -12,13 +12,15 @@ publish_date: 2024-05-09T22:16:23-0700
 course_title: "Mathematical Ecology - Nonlinear PDE Models"
 instructors:
 - name: Rebecca Tyson
-  institution: University of British Columbia
+  institution: University of British Columbia - Okanagan
   email: rebecca.tyson@ubc.ca
 course_start: '2025-01-06'
 course_end: '2025-04-08'
 course_number: MATH559
 section_number: '001'
-#section_code: ''
+section_code: |
+  **PLEASE NOTE**: This course is hosted at the UBC Okanagan campus.
+  Requests for registration under the WDA should be directed to UBCO
 prerequisites:
   - >
     #### Required
