@@ -56,6 +56,7 @@ in below. Read both sets of instructions _carefully_ before proceeding.
           <option value="" disabled selected>Select course university...</option>
           <option value="ua">UAlberta</option>
           <option value="ubc">UBC</option>
+          <option value="ubco">UBC Okanagan Campus</option>
           <option value="uc">UCalgary</option>
           <option value="ul">ULethbridge</option>
           <option value="um">UManitoba</option>
