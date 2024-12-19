@@ -88,6 +88,50 @@
             ]
         }
     },
+    "ubco": {
+        "id": "ubco",
+        "name": "University of British Columbia - Okanagan",
+        "incoming": {
+            "deadline": "Friday before the term starts",
+            "contacts": [
+                {
+                    "name": "Laura Bissel (Associate Director, Admissions and Records)",
+                    "email": "laura.bisell@ubc.ca"
+                },
+                {
+                    "name": "Michelle Colvey (Program and Office Assistant)",
+                    "email": "michelle.colvey@ubc.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Brian Marcus",
+                "email": "marcus@math.ubc.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to UBC Okanagan department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.  The total student fee is $400.  Any student can opt-out of the U-Pass, about $200 (students from  SFU are automatically opted out because they get a U-Pass from SFU).  Any student can opt out of medical insurance (IMED, about $100) but must state that they have other medical insurance (domestic students are automatically opted-out because it is assumed they have medical insurance from their home institution).  This leaves a residual of about $100 that the student pays. Student is responsible for ordering an official transcript from UBC and have it sent to their home institution."
+            ]
+        },
+        "outgoing": {
+            "deadline": "No deadline given",
+            "contacts": [
+                {
+                    "name": "Laura Bissel (Associate Director, Admissions and Records)",
+                    "email": "laura.bisell@ubc.ca"
+                },
+                {
+                    "name": "Michelle Colvey (Program and Office Assistant)",
+                    "email": "michelle.colvey@ubc.ca"
+                }
+            ],
+            "site_admin": {
+                "name": "Brian Marcus",
+                "email": "marcus@math.ubc.ca"
+            },
+            "instructions": [
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+            ]
+        }
+    },
     "uc": {
         "id": "uc",
         "name": "University of Calgary",
