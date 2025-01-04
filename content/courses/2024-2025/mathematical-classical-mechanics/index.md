@@ -42,23 +42,31 @@ abstract: >
   Legendre transformations, manifolds, tangent and cotangent vectors,
   rotations and the orthogonal group.
 
-syllabus_txt: >
-  Topics to be discussed may include:
+# syllabus_txt: |
+#   Topics to be discussed may include:
+# 
+#     1. Kinematics; coordinates
+#     2. Newtonian mechanics; existence and uniqueness of solutions to ODE.
+#     Examples: simple harmonic motion; central potentials; 
+#     3. Symmetry and the Galilean group; change of coordinates
+#     4. Lagrangian mechanics; calculus of variations, Lagrange multipliers.
+#     5. Constraints and manifolds; the tangent bundle.
+#     6. Symmetry, rigid body motion and angular momentum; Noether's Theorem, the
+#        orthogonal group, and its Lie algebra
+#     7. Hamiltonian mechanics; convexity and Legendre transformation, the
+#        cotangent bundle.
+#     8. Conserved quantities and the Poisson bracket; symplectic structure
+#     9. Liouville's Theorem and Poincaré recurrence
 
-  1. Kinematics; coordinates
-  2. Newtonian mechanics; existence and uniqueness of solutions to ODE.
-  Examples: simple harmonic motion; central potentials; 
-  3. Symmetry and the Galilean group; change of coordinates
-  4. Lagrangian mechanics; calculus of variations, Lagrange multipliers.
-  5. Constraints and manifolds; the tangent bundle.
-  6. Symmetry, rigid body motion and angular momentum; Noether's Theorem, the
-     orthogonal group, and its Lie algebra
-  7. Hamiltonian mechanics; convexity and Legendre transformation, the
-     cotangent bundle.
-  8. Conserved quantities and the Poisson bracket; symplectic structure
-  9. Liouville's Theorem and Poincaré recurrence
-
+syllabus_pdf: syllabus-math428.v1.0.pdf
 ---
+### Course Website
+Full information about this course is available on the [course
+website](https://personal.math.ubc.ca/~lior/teaching/2425/428_W25/).
+
+### Lecture Schedule
+* Tuesday/Thursday 11:00am-12:30pm Pacific Time
+
 ### Remote Access
 Lectures will be held in-person on the UBC campus and on Zoom.  Lectures will be
 recorded and the videos posted to an unlisted but openly accessible YouTube
