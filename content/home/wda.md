@@ -27,6 +27,9 @@ at PIMS member universities are
 1. The PIMS Site Admins will be available to assist you with document tracking,
    fee payments and waivers, ordering transcripts, etc.
 
+_In the event of any problems or delays while completing the WDA form, PIMS
+**strongly** recommends staying in touch with the instructor of the course, as
+they may be able to offer assistance_.
 
 Select your university and the university hosting the course you are interested
 in below. Read both sets of instructions _carefully_ before proceeding.
