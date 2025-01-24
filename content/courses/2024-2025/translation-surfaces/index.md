@@ -74,3 +74,7 @@ syllabus_txt: >
 ### Remote Access
 The instructor will use a tablet and Zoom. The tablet will be displayed locally
 in the classroom and via zoom. Lecture notes will be distributed in PDF format.
+
+### Class Schedule
+This class will meet every Monday, Wednesday and Friday from 1:30-2:20 (Pacific
+time), starting on March 31st.
