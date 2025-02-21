@@ -4,10 +4,10 @@ date: 2024-05-09T22:16:23-0700
 tags:
 - 2024-2025
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2024-05-09T22:16:23-0700
 course_title: "Stochastic Analysis-Stochastic Differential Equation"
 instructors:
