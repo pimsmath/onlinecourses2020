@@ -15,7 +15,7 @@ content:
   filters:
     category: past
     registration_open: false
-    tag: 2023-2024
+    tag: 2024-2025
 design:
   view: 3
   columns: '1'

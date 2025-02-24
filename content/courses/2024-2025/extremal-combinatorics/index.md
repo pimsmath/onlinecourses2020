@@ -4,7 +4,7 @@ date: 2024-05-09T22:16:23-0700
 tags:
 - 2024-2025
 categories:
-- ongoing
+- past
 featured: false
 draft: false
 registration_open: false
