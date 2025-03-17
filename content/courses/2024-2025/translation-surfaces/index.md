@@ -76,5 +76,6 @@ The instructor will use a tablet and Zoom. The tablet will be displayed locally
 in the classroom and via zoom. Lecture notes will be distributed in PDF format.
 
 ### Class Schedule
-This class will meet every Monday, Wednesday and Friday from 1:30-2:20 (Pacific
-time), starting on March 31st.
+This class will meet every Monday, Wednesday and Friday from 1:30-2:50 (Pacific
+time), starting on March 31st. Remote participation is via
+[zoom](https://washington.zoom.us/j/96412944166?pwd=ZelKJ9YosvjydOXhvzGVDfwIAYSasa.1)
