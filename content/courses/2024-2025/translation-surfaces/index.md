@@ -20,8 +20,11 @@ instructors:
 course_start: '2025-03-31'
 course_end: '2025-06-06'
 course_number: >
-  - University of Washington: MATH 583C
-  - WDA Students: UBC Course number TBA
+  **University of Washington Students:**
+    * University of Washington: MATH 583C
+
+  **All Other WDA Students:**
+    * University of British Columbia: 602D:921
 section_number:
 section_code:
 prerequisites:
