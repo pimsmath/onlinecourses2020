@@ -32,7 +32,10 @@ _In the event of any problems or delays while completing the WDA form, PIMS
 they may be able to offer assistance_.
 
 Select your university and the university hosting the course you are interested
-in below. Read both sets of instructions _carefully_ before proceeding.
+in below. Read both sets of instructions _carefully_ before proceeding. _In all
+cases students should contact the host institution to determine which fee
+exemptions they may be eligible and how to apply for them **before the start of
+term**_.
 
 <form class="p-3">
   <div class="form-group">
