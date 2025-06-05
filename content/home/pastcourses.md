@@ -13,6 +13,38 @@ design:
 
 content:
   slides:
+    - title: 2024-2025
+      content: |
+        The 2024-2025 PIMS Network Wide Graduate Courses program featured the
+        following courses:
+          * [Algebraic Topology](/courses/2024-2025/algebraic-topology)
+          * [Analytic and diophantine number theory with applications to
+            arithmetic geometry](/courses/2024-2025/analytic-number-theory)
+          * [Introduction to Cohomology of Arithmetic Groups](/courses/2024-2025/cohomology-of-arithmetic-groups)
+          * [Advanced studies in Theoretical and Computational Biology](/courses/2024-2025/computational-biology)
+          * [Extremal Combinatorics](/courses/2024-2025/extremal-combinatorics)
+          * [Fundamental models in fluid dynamics](/courses/2024-2025/fluid-dynamics)
+          * [Mathematical Classical Mechanics](/courses/2024-2025/mathematical-classical-mechanics)
+          * [Mathematical Ecology - Nonlinear PDE Models](/courses/2024-2025/mathematical-ecology)
+          * [A pimer to Arithmetic Statistics](/courses/2024-2025/primer-to-arithmetic-statistics)
+          * [Spectral Methods for PDEs](/courses/2024-2025/spectral-methods-for-pdes)
+          * [Stochastic Analysis - Stochastic Differential Equations](/courses/2024-2025/stochastic-analysis)
+          * [Topics in Mathematical Biology: biological image data and shape
+            analysis](/courses/2024-2025/topics-in-mathbio)
+          * [Translation Surfaces](/courses/2024-2025/translation-surfaces)
+
+      align: center
+      background:
+        position: right
+        color: '#BBB'
+        brightness: 0.3
+        media: class.jpg
+      link:
+        icon: graduation-cap
+        icon_pack:
+        url: /tag/2024-2025
+        text: View Past 2024-2025 Courses
+
     - title: 2023-2024
       content: |
         The 2023-2024 PIMS Network Wide Graduate Courses program featured the
@@ -32,13 +64,12 @@ content:
           * [Optimal Transport + Gradient Flows](/courses/2023-2024/optimal-transport-gradient-flows)
           * [Spectral Methods for PDEs](/courses/2023-2024/spectral-methods-for-pdes)
           * [Statistical Machine Learning for Data Science](/courses/2023-2024/statistical-machine-learning-for-data-science)
-
       align: center
       background:
         position: right
         color: '#BBB'
-        brightness: 0.7
-        media: class.jpg
+        brightness: 0.3
+        media: class2.jpg
       link:
         icon: graduation-cap
         icon_pack:
@@ -66,7 +97,7 @@ content:
       background:
         position: right
         color: '#BBB'
-        brightness: 0.7
+        brightness: 0.3
         media: class.jpg
       link:
         icon: graduation-cap
@@ -105,7 +136,7 @@ content:
       background:
         position: right
         color: '#BBB'
-        brightness: 0.7
+        brightness: 0.3
         media: class2.jpg
       link:
         icon: graduation-cap

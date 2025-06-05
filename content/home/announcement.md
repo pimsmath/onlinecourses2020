@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: true  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 weight: 1  # Order that this section will appear.
 
 title: |
