@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-active: true
+active: false
 weight: 60
 title: Current Courses
 subtitle: >-
