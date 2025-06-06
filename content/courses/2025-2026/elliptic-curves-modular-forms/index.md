@@ -20,9 +20,10 @@ course_number: ''
 section_number: ''
 section_code: ''
 prerequisites:
-  - The course is designed to be accessible to M.Sc. students and above
-  - Complex Analysis
-  - Abstract Algebra
+  - >
+    The course is designed to be accessible to M.Sc. students and above
+      - Complex Analysis
+      - Abstract Algebra
 abstract: >
   This course is an introduction to the theory of elliptic curves and modular
   forms at the graduate level.

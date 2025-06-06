@@ -20,12 +20,13 @@ course_number: MATH 605F
 section_number: ''
 section_code: ''
 prerequisites:
-  - Good upper level undergraduate or early graduate knowledge of
-  - Probability
-  - Linear Algebra
-  - PDEs
-  - ODEs
-  - Prior experience with numerical analysis is helpful but not necessary
+  - >
+    Good upper level undergraduate or early graduate knowledge of:
+     - Probability
+     - Linear Algebra
+     - PDEs
+     - ODEs
+     - Prior experience with numerical analysis is helpful but not necessary
 
 abstract: >
   This course will introduce the major tools in stochastic analysis from an

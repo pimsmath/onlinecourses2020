@@ -43,21 +43,21 @@ abstract: >
   published work.
 
   Topics will include:
-  * Diffusion problems in biology
-  * Enzymatic reactions including ODEs, diffusion-limited reactions, and
-    Michaelis-Menton reactions
-  * Statistical mechanics as it applies to Biology, including Gibbs free energy
-    of biochemical reactions
-  * Liquid-liquid phase separation, and its role in the cell and in
-    transcription
-  * Polymer physics; DNA looping, persistence length, polymer entropy
-  * Heterogeneous mixtures and osmotic pressure
-  * Quantitative analysis of genetic networks
-  * Expression distributions of transcription and translation
-  * Phase portrait analysis and stability/metastability of cellular states
-  * Genetics of enhancers – from a biophysical perspective
-  * Pattern formation including Turing patterns, symmetry breaking in an embryo
-  * Quantitative genomics (time permitting)
+    * Diffusion problems in biology
+    * Enzymatic reactions including ODEs, diffusion-limited reactions, and
+      Michaelis-Menton reactions
+    * Statistical mechanics as it applies to Biology, including Gibbs free energy
+      of biochemical reactions
+    * Liquid-liquid phase separation, and its role in the cell and in
+      transcription
+    * Polymer physics; DNA looping, persistence length, polymer entropy
+    * Heterogeneous mixtures and osmotic pressure
+    * Quantitative analysis of genetic networks
+    * Expression distributions of transcription and translation
+    * Phase portrait analysis and stability/metastability of cellular states
+    * Genetics of enhancers – from a biophysical perspective
+    * Pattern formation including Turing patterns, symmetry breaking in an embryo
+    * Quantitative genomics (time permitting)
 
 syllabus_pdf: syllabus.pdf
 ---
