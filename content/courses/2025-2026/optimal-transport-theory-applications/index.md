@@ -17,8 +17,8 @@ instructors:
 - name: Young-Heon Kim
   institution: University of British Columbia
   email: yhkim@math.ubc.ca
-course_start: '2025-09-03'
-course_end: '2025-10-03'
+course_start: '2025-09-24'
+course_end: '2025-12-05'
 course_number: >
   **University of Washington Students:**
     * University of Washington: Math 581
