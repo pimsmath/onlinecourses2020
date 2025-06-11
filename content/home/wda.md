@@ -26,6 +26,8 @@ at PIMS member universities are
    application form, CC the PIMS Site Admin at your university.
 1. The PIMS Site Admins will be available to assist you with document tracking,
    fee payments and waivers, ordering transcripts, etc.
+1. In general, you are also responsible for arranging for an official transcript
+   to be sent from the host institution back to your university upon completion.
 
 _In the event of any problems or delays while completing the WDA form, PIMS
 **strongly** recommends staying in touch with the instructor of the course, as
