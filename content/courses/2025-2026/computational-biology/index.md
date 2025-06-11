@@ -106,7 +106,13 @@ syllabus_txt: >
 
 ---
 
+### Class Schedule
+  * TBA
+
 ### Remote Access
 We will use zoom for each lecture. Course notes will be distributed in advance
 and lecture notes will be distributed after each lecture.
+
+### Availability
+This course may be open to students from universities outside of the PIMS network.
 

@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Discrete Optimization"
 instructors:
@@ -62,3 +62,7 @@ syllabus_txt: >
 Remote access to this course will be via zoom. The delivery mechanism will be
 either blackboard or via tablet depending on available rooms. A PDF textbook
 and/or research article readings will be distributed in advance of each class.
+
+### Availability
+This course may be open to students from universities outside of the PIMS network.
+

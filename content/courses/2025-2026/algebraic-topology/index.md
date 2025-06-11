@@ -48,3 +48,7 @@ abstract: >
 Remote access for this course will be provided via zoom. The instructor intends
 to lecture from handwritten notes on a tablet. Lecture notes will be provided
 after the lectures have been delivered.
+
+### Availability
+This course may be open to students from universities outside of the PIMS network, and those
+coming from industry/government.

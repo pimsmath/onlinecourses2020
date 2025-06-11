@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Modern Biophysics"
 instructors:
@@ -16,7 +16,7 @@ instructors:
   email: steven.plotkin@ubc.ca
 course_start: '2025-09-03'
 course_end: '2025-12-03'
-course_number: 'PHYS 555'
+course_number: 'PHYS 555 (to be confirmed)'
 section_number: ''
 section_code: ''
 prerequisites:
@@ -71,3 +71,8 @@ Remote participation will be via zoom. Lectures will also be recorded and shared
 via UBC's media capture system Panopto. Annotated notes on pre-distributed PDF
 slides are made during class using an iPad, recorded in real time, and uploaded
 to UBC's Canvas server after class, along with links to the lecture recording.
+
+### Availability
+This course may be open to students at universities outside of the PIMS network.
+
+

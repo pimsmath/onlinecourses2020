@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-05-03T22:16:23-0700
 course_title: "Optimal Transport: Theory and Applications"
 instructors:
@@ -24,7 +24,8 @@ course_number: >
     * University of Washington: Math 581
 
   **All Other WDA Students:**
-    * University of British Columbia: Math 606D:101
+    * University of British Columbia: Math 606D:101 (to be confirmed, contact
+      yhkim@math.ubc.ca)
 
 section_number: ''
 section_code: ''
@@ -52,13 +53,15 @@ abstract: >
 
 ### Registration
 Students at Canadian PIMS Member Universities may register through the [Western
-Deans Agreement](http://wcdgs.ca/western-deans-agreement.html). Students at UW
-may register directly for the UW course. Course codes and other registration
-details for students in either of these cases are listed in the registration
-section above. Students at other institutions should contact one of the
-instructors to attend the course as a
-non-registered student.
+Deans Agreement](http://wcdgs.ca/western-deans-agreement.html) for the "shadow
+course" offered at UBC (see registration details above). Students at UW may
+register directly for the UW course. Course codes and other registration details
+for students in either of these cases are listed in the registration section
+above. Students at other institutions should contact one of the instructors
+to attend the course as a non-registered student.
 
+### Class Schedule
+  * TBA
 
 ### Remote Participation
 Online instructions over Zoom. Written on a tablet. Notes will be provided. A
@@ -67,3 +70,7 @@ office hours will be held at UW and UBC.
 
 Lecture notes will be distributed over Slack. Recorded lectures may be viewed on
 our YouTube channel.
+
+### Availability
+This course may be open to students from universities outside of the PIMS network, and those
+coming from industry/government.

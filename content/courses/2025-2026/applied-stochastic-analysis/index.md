@@ -56,3 +56,7 @@ syllabus_pdf: syllabus.pdf
 ### Remote Access
 Remote access will be provided via zoom. The lectures will be delivered mostly
 on blackboards with occasional slides. PDF lecture notes will be handed out.
+
+### Availability
+This course is open to students from within the PIMS network of universities.
+

@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-03T22:16:23-0700
 course_title: "Mathematical Biology - Nonlinear PDE Models"
 instructors:
@@ -51,3 +51,8 @@ TBA
 Lectures will be livestreamed via zoom. The lecturer will be writing on a
 whiteboard interspersed with pdf presentations. Lecture notes will be posted on
 Canvas.
+
+### Availability
+This course may be open to students from universities outside of the PIMS
+network.
+

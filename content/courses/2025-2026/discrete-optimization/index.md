@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Discrete Optimization"
 instructors:
@@ -50,4 +50,8 @@ playlist](https://youtube.com/playlist?list=PLtxJg53s2o0MEvvdIxPKI1AXYLI1cH4A2&s
 Notes and other course related material will be made available on the
 instructor's website (see e.g. notes for [Extreemal
 Combinatorics](https://extremalcombinatorics.com/notes/root-1-2-2.html)).
+
+### Availability
+This course may be open to students from universities outside of the PIMS
+network, and those coming from industry/government.
 

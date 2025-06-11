@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Elliptic Curves and Modular Forms"
 instructors:
@@ -58,3 +58,7 @@ plus additional course materials and readings.
 The format will be Zoom based, with videos on. Breakout rooms will be used
 periodically for small group work. Students will be encouraged to "raise hands"
 with questions at any time.
+
+### Availability
+This course may be open to students from universities outside of the PIMS
+network, and those coming from industry/government.
