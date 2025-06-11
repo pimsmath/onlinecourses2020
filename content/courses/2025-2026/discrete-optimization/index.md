@@ -20,7 +20,7 @@ course_number: MATH 428/529
 section_number: 'A01'
 section_code: ''
 prerequisites:
-  - A course in linear algebra
+  - A first course in linear algebra
   - A 3rd year course in any area of discrete mathematics or combinatorics
 
 abstract: >
