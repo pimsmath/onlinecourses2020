@@ -9,9 +9,9 @@ subtitle: >-
   item to see the course details.
 
   <div style="font-size: 70%; font-style: italic">
-  N.B. The courses below have be provisionally authorized by the hosting
+  N.B. The courses below have been provisionally authorized by the hosting
   institutions, but may be subject to cancellation depending on enrollment and
-  other factors outwith our control.
+  other factors beyond our control.
   </div>
 content:
   page_type: courses
