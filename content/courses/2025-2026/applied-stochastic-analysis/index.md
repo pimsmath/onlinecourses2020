@@ -1,6 +1,6 @@
 ---
 title: "Applied Stochastic Analysis"
-date: 2025-09-01T00:00:00-0700
+date: 2025-06-01T00:00:00-0700
 tags:
 - 2025-2026
 categories:

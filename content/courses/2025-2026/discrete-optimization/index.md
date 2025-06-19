@@ -1,6 +1,6 @@
 ---
 title: "Discrete Optimization"
-date: 2025-09-01T00:00:00-0700
+date: 2025-06-01T00:00:00-0700
 tags:
 - 2025-2026
 categories:
@@ -17,8 +17,8 @@ instructors:
 course_start: '2025-09-03'
 course_end: '2025-12-03'
 course_number: MATH 428/529
-section_number: 'A01'
-section_code: ''
+section_number: 'A02'
+section_code: 'CRN 12140'
 prerequisites:
   - A first course in linear algebra
   - A 3rd year course in any area of discrete mathematics or combinatorics
@@ -34,10 +34,16 @@ abstract: >
   computer science. 
 #syllabus_pdf: syllabus.pdf
 ---
+### Course Webpage
+This course will have an accompanying webpage
 
+  * https://extremalcombinatorics.com/optimization/
+
+Materials related to the course, links and other updates will be posted to the
+course webpage as the course proceeds.
 
 ### Class Schedule
-  * TBA
+  * Monday, Thursday 1:00-2:20pm (PT)
 
 ### Remote Access
 Remote access for this course will be provided via zoom. This course will be
@@ -50,6 +56,10 @@ playlist](https://youtube.com/playlist?list=PLtxJg53s2o0MEvvdIxPKI1AXYLI1cH4A2&s
 Notes and other course related material will be made available on the
 instructor's website (see e.g. notes for [Extreemal
 Combinatorics](https://extremalcombinatorics.com/notes/root-1-2-2.html)).
+
+Lectures will also be live-streamed on the instructors [YouTube
+channel](https://www.youtube.com/@jonathannoel/streams) and also be available to
+[view there](https://www.youtube.com/@jonathannoel) asynchronously.
 
 ### Availability
 This course may be open to students from universities outside of the PIMS
