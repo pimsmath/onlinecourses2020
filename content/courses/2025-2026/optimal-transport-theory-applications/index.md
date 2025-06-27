@@ -24,7 +24,7 @@ course_number: >
     * University of Washington: Math 581
 
   **All Other WDA Students:**
-    * University of British Columbia: Math 606D:101 (to be confirmed, contact
+    * University of British Columbia: Math 566, section 101
       yhkim@math.ubc.ca)
 
 section_number: ''
