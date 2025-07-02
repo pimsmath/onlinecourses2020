@@ -105,7 +105,8 @@
                 "email": "marcus@math.ubc.ca"
             },
             "instructions": [
-                "Complete application form and obtain all 4 signatures.  Submit form to UBC Okanagan department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees. Details can be found on <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>this page</a>. Some additional information on opting out of fees can be found <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>here</a>. Typically, this leaves a residual of about $100 that the student pays. The Student is responsible for ordering an official transcript from UBC and have it sent to their home institution."
+                "Complete application form and obtain all 4 signatures.  Submit form to UBC Okanagan department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.",
+                "Fee details can be found on <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>this page</a>. Some additional information on opting out of fees can be found <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>here</a>. Typically, this leaves a residual of about $100 that the student pays. The Student is responsible for ordering an official transcript from UBC and have it sent to their home institution."
             ]
         },
         "outgoing": {
