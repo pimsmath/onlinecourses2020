@@ -16,8 +16,9 @@
             },
             "instructions": [
                 "For detailed instructions for students at another university wishing to participate in a UAlberta course through the WDA, please see <a href='https://www.ualberta.ca/en/graduate-studies/resources/policies-procedures/graduate-program-manual/section-5-admissions/5-12-categories-of-graduate-students.html'>this page</a>. The following information reflects practical experience of recent PIMS Network Wide Courses students.",
-                "Complete application form and obtain all 4 signatures, then submit the form to UA department.  By signing the WDA form, the student's home department is providing written assurance that the course(s) listed on the form: (a) is not available at the home university; (b) is required for the student's program; and (c) will be credited toward the student's graduate degree program upon successful completion.",
-                "For courses taken at the University of Alberta, students will be assessed only Non-Instructional fees by the University of Alberta. If a course requires additional expenses under University of Alberta policy, the department will require that the student pay these. See the <a href='https://www.ualberta.ca/en/graduate-studies/fees-funding/tuition-fees/index.html'>UAlberta Tuition + Fees page</a> for current fees and details. Students are strongly encouraged to investigate possible exemption procedures with the contacts listed above, well in advance of the registration deadline."
+                "Complete application form and obtain all 4 signatures, then submit the form to relevant UAlberta department.  By signing the WDA form, the student's home department is providing written assurance that the course(s) listed on the form: (a) is not available at the home university; (b) is required for the student's program; and (c) will be credited toward the student's graduate degree program upon successful completion.",
+                "For courses taken at the University of Alberta, students will be assessed only Non-Instructional fees by the University of Alberta. If a course requires additional expenses under University of Alberta policy, the department will require that the student pay these. See the <a href='https://www.ualberta.ca/en/graduate-studies/fees-funding/tuition-fees/index.html'>UAlberta Tuition + Fees page</a> for current fees and details. Students are strongly encouraged to investigate possible exemption procedures with the contacts listed above, well in advance of the registration deadline.",
+                "The notes on <a href='https://www.ualberta.ca/en/graduate-studies/fees-funding/tuition-fees/non-instructional.html'>this page</a> discuss exemption criteria for GSA Health/Dental fees, and uPass fees. Please note the deadlines vary, and may be very early.<ul><li><a href='https://www.ualberta.ca/en/graduate-studies/fees-funding/tuition-fees/non-instructional.html'>GSA Fee details</a></li><li><a href='https://www.ualberta.ca/en/current-students/upass.html'>uPass details</a> including exemption criteria and processes.</li></ul>"
             ]
         },
         "outgoing": {
@@ -60,7 +61,7 @@
             },
             "instructions": [
                 "Complete application form and obtain all 4 signatures.  Submit form to UBC department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.",
-                "The fee schedule can be found <a href='https://vancouver.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>here</a>. The total student fee is around $400.  Any student can opt-out of the U-Pass, about $200 (students from  SFU are automatically opted out because they get a U-Pass from SFU).  Any student can opt out of medical insurance (iMed, about $100) but must state that they have other medical insurance (domestic students are automatically opted-out because it is assumed they have medical insurance from their home institution).  This leaves a residual of about $100 which the student pays.",
+                "The fee schedule can be found <a href='https://vancouver.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>here</a>. The total student fee is around $400.  Any student can opt-out of the U-Pass, (about $200 - students from  SFU are automatically opted out because they get a U-Pass from SFU).  Any student can opt out of medical insurance (iMed, about $100) but must state that they have other medical insurance (domestic students are automatically opted-out because it is assumed they have medical insurance from their home institution).  This leaves a residual of about $100 which the student pays.",
                 "See <a href='https://vancouver.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>this page</a> for fee exemption details, specifically <ul><li>iMED Fee: See <a href='https://david-cummings.com/imed/enrolment/optingout.htm'>iMed - opting out</a>, processing times 2-8 weeks</li><li>uPass: See <a href='https://planning.ubc.ca/transportation/transit/u-pass-compass-card'>UBC uPass</a>, deadline is typically early July</li></ul>"
             ]
         },
@@ -105,8 +106,9 @@
                 "email": "marcus@math.ubc.ca"
             },
             "instructions": [
-                "Complete application form and obtain all 4 signatures.  Submit form to UBC Okanagan department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.",
-                "Fee details can be found on <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>this page</a>. Some additional information on opting out of fees can be found <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>here</a>. Typically, this leaves a residual of about $100 that the student pays. The Student is responsible for ordering an official transcript from UBC and have it sent to their home institution."
+                "Complete application form and obtain all 4 signatures.  Submit form to the <em>UBC Okanagan</em> department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.",
+                "Fee details can be found on <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>this page</a>. Some additional information on opting out of fees can be found <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>here</a>. You may be eligible for exemption for the uPass and iMed fees, leaving a residual of about $100 which the student pays. The Student is responsible for ordering an official transcript from UBC and have it sent to their home institution.",
+                "See <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>Refunds and Opting out of Student Fees</a> for more details, as well as <ul><li>uPass: <a href='https://www.suo.ca/u-pass-opt-out/'>Opt-out criteria & deadlines</a></li><li>iMed: <a href='https://david-cummings.com/imed/enrolment/optingout.htm'>iMed - opting out</a>, processing times 2-8 weeks</li></ul>"
             ]
         },
         "outgoing": {
@@ -368,8 +370,8 @@
             "deadline": "6 weeks prior to start of the course",
             "contacts": [
                 {
-                    "name": "Kristina McKinnon",
-                    "email": "pimsadmin@uvic.ca"
+                    "name": "Graduate Admissions and Records Office (GARO)",
+                    "email": "garo@uvic.ca"
                 },
                 {
                     "name": "Marcelo Laca",
@@ -381,14 +383,11 @@
                 "email": "pimsadmin@uvic.ca"
             },
             "instructions": [
-                "Students applying to take courses at UVic under the Western Deans Agreement will be asked to submit an application for admission at <a href='https://uvic.ca/application' target='_blank'>uvic.ca/application</a>. There is no application fee. More information found <a href='https://www.uvic.ca/graduate/info-for/visiting-students/index.php' target='_blank'>here</a>.",
-                "Complete application form and obtain all 4 signatures. Students pay potential ancillary fees (see below).  Students are responsible for requesting an official transcript upon completion.",
-                "Complete the <a href='https://www.uvic.ca/graduatestudies/forms-policies/data/accessible_graduate-program-update-form.pdf' target='_blank'>Graduate program update form</a>",
-                "Obtain a copy of the course syllabus either from this site, or from the course instructor (UVic will request this information as part of the process)",
-                "UVic does not require completion of a regular application for admission and will waive the usual application fee. Once the WDA form is received in GARO with the appropriate signatures from the student’s home department and home graduate office, it will be forwarded to the department in which the course is offered, for approval.",
-                "The proposed host department is not obligated to accept the applicant. When returned to this office, it is given to the Director of GARO for final approval.",
-                "You will receive a letter indicating the outcome of your request. You will be registered in the course(s) upon approval.",
-                "Students pay ancillary fees (around $80 after opt out in previous years, but see <a href='https://www.uvic.ca/students/campus-services/tuition-fees-budgeting/index.php'>this page</a> for details)."
+                "UVic provides <a href='https://www.uvic.ca/graduate/info-for/visiting-students/index.php#ipn-western-deans-agreement'>explicit WDA registration instructions</a>. Please see that page for up to date information.",
+                "Complete the WDA application, obtaining all 4 signatures. The form should be sent to UVic by the applicant's home department.",
+                "Apply via <a href='https://www.uvic.ca/BAN1P/bzsklogn.p_display_login'>UVic's Online Application System</a>, selecting the option for 'Western Dean's Agreement (WDA)'",
+                "If your application is accepted, we will register you in the approved course(s). You can request a transcript from the Office of the Registrar after you complete your stay at UVic.",
+                "Pay any applicable <a href='https://www.uvic.ca/students/campus-services/tuition-fees-budgeting/index.php'>non-instructional fees</a>. In recent experience typical fees are around $80 after all applicable exemptions have been secured."
             ]
         },
         "outgoing": {
