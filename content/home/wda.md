@@ -33,11 +33,17 @@ _In the event of any problems or delays while completing the WDA form, PIMS
 **strongly** recommends staying in touch with the instructor of the course, as
 they may be able to offer assistance_.
 
+_**PLEASE
+NOTE**: The WDA provides an automatic exemption from instructional fees, but
+non-instructional fees are generally charged to you automatically (e.g. medical
+insurance or transit passes). The specific fees vary by university, as do the
+deadlines and processes for applying for exemptions. In all cases students are
+strongly encouraged to contact the host institution and determine which fee
+exemptions they may be eligible and how to apply for them **well before the WDA
+application deadlines**_.
+
 Select your university and the university hosting the course you are interested
-in below. Read both sets of instructions _carefully_ before proceeding. _In all
-cases students should contact the host institution to determine which fee
-exemptions they may be eligible and how to apply for them **before the start of
-term**_.
+in below. Read both sets of instructions **carefully** before proceeding.
 
 <form class="p-3">
   <div class="form-group">
