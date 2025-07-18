@@ -259,11 +259,11 @@
         "id": "ur",
         "name": "University of Regina",
         "incoming": {
-            "deadline": "No deadline given",
+            "deadline": "6 weeks prior to the start of term.",
             "contacts": [
                 {
                     "name": "Faculty of Graduate Studies and Research",
-                    "email": "grad.studies@uregina.ca"
+                    "email": "graduate.studies@uregina.ca"
                 }
             ],
             "site_admin": {
@@ -271,7 +271,8 @@
                 "email": "connie.renwick@uregina.ca"
             },
             "instructions": [
-                "Complete application form and obtain all 4 signatures.  Submit form to UR department.  Students pay potential ancillary (non-instructional) fees. See <a href='https://www.uregina.ca/financial-services/fees.html#fact_2_1'>Fee schedules</a> for details.  Students are responsible to request an official transcript from the host institution."
+                "All fee schedules can be found on <a href='https://www.uregina.ca/financial-services/fees.html'>this page</a>. Non-instructional fees include: <ul><li>Student's Union UPASS Fee</li><li>Student Service & Wellness Fee</li><li>Student's Union Fees</li><li>Academic Technologies Fee</li></ul>",
+                "Amounts and exemption conditions are listed on the <a href='https://www.uregina.ca/financial-services/fees.html'>same fee schedule page</a>. In particular, Student Service & Wellness fee may be exempted upon proof of equivalent coverage, and the UPASS fee is typically not assessed if no <i>on campus</i> courses are being taken. See the <a href='https://www.uregina.ca/financial-services/fees.html'>fee schedule</a> for details and details, and contact the Faculty of Graduate Studies and Research (above) with any questions."
             ]
         },
         "outgoing": {
@@ -279,7 +280,7 @@
             "contacts": [
                 {
                     "name": "Faculty of Graduate Studies and Research",
-                    "email": "grad.studies@uregina.ca"
+                    "email": "graduate.studies@uregina.ca"
                 }
             ],
             "site_admin": {
