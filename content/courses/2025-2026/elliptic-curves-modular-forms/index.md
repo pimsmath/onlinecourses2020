@@ -13,7 +13,7 @@ course_title: "Elliptic Curves and Modular Forms"
 instructors:
 - name: Chuck Doran
   institution: University of Alberta
-  email: charles.doran@ualbreta.ca
+  email: charles.doran@ualberta.ca
 course_start: '2025-09-03'
 course_end: '2025-12-03'
 course_number: ''
