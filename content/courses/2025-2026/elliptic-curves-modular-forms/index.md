@@ -16,9 +16,9 @@ instructors:
   email: charles.doran@ualberta.ca
 course_start: '2025-09-03'
 course_end: '2025-12-03'
-course_number: ''
+course_number: 'MATH 681'
 section_number: ''
-section_code: ''
+section_code: 'A1'
 prerequisites:
   - >
     The course is designed to be accessible to M.Sc. students and above
@@ -46,7 +46,7 @@ abstract: >
 
 
 ### Class Schedule
-  * TBA
+  * Tuesday and Thursday, 16:00 - 17:20 MST
 
 ### Remote Access
 The course will be taught over Zoom using a tablet and shared screen.  Lecture
