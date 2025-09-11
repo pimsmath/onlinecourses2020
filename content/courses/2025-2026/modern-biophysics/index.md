@@ -9,14 +9,14 @@ featured: false
 draft: false
 registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
-course_title: "Modern Biophysics"
+course_title: "Directed Studies in Physics (A)"
 instructors:
 - name: Steven Plotkin
   institution: University of British Columbia
   email: steven.plotkin@ubc.ca
 course_start: '2025-09-03'
 course_end: '2025-12-03'
-course_number: 'PHYS 555'
+course_number: 'PHYS_V 555A'
 section_number: 'Section 101'
 section_code: ''
 prerequisites:
