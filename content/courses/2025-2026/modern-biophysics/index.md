@@ -17,7 +17,7 @@ instructors:
 course_start: '2025-09-03'
 course_end: '2025-12-03'
 course_number: 'PHYS_V 555A'
-section_number: 'Section 101'
+section_number: 'Section 104'
 section_code: ''
 prerequisites:
   - '[PHYS305 - Introduction to Biophysics](https://vancouver.calendar.ubc.ca/course-descriptions/courses/physv-305) (or equivalent)'
