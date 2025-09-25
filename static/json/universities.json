@@ -99,6 +99,10 @@
                 {
                     "name": "Michelle Colvey (Program and Office Assistant)",
                     "email": "michelle.colvey@ubc.ca"
+                },
+                {
+                    "name": "College of Graduate Studies",
+                    "email": "gradask.ok@ubc.ca"
                 }
             ],
             "site_admin": {
@@ -107,6 +111,7 @@
             },
             "instructions": [
                 "Complete application form and obtain all 4 signatures.  Submit form to the <em>UBC Okanagan</em> department.  Once approved, the student gets an acceptance email which includes information on how to opt-out of some of the student fees.",
+                "<em>Please Note:</em> Applications to UBC-Okanagan are sometimes misdirected to UBC-Vancouver. Please be careful that your application is sent to UBC-Okanagan. We recommend following up with the College of Graduate Studies (address above) one or two weeks after submitting your paperwork to ensure it is on track.",
                 "Fee details can be found on <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/student-fees-established-and-approved-ubc-board-governors'>this page</a>. Some additional information on opting out of fees can be found <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>here</a>. You may be eligible for exemption for the uPass and iMed fees, leaving a residual of about $100 which the student pays. The Student is responsible for ordering an official transcript from UBC and have it sent to their home institution.",
                 "See <a href='https://okanagan.calendar.ubc.ca/fees/student-fees/refunds-and-opting-out-student-fees'>Refunds and Opting out of Student Fees</a> for more details, as well as <ul><li>uPass: <a href='https://www.suo.ca/u-pass-opt-out/'>Opt-out criteria & deadlines</a></li><li>iMed: <a href='https://david-cummings.com/imed/enrolment/optingout.htm'>iMed - opting out</a>, processing times 2-8 weeks</li></ul>"
             ]
@@ -121,6 +126,10 @@
                 {
                     "name": "Michelle Colvey (Program and Office Assistant)",
                     "email": "michelle.colvey@ubc.ca"
+                },
+                {
+                    "name": "College of Graduate Studies",
+                    "email": "gradask.ok@ubc.ca"
                 }
             ],
             "site_admin": {
@@ -128,7 +137,8 @@
                 "email": "marcus@math.ubc.ca"
             },
             "instructions": [
-                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution."
+                "Complete application form and obtain all 4 signatures.  Submit form to host department.  Students pay potential ancillary fees at the host institution.  Students are responsible to request an official transcript from the host institution.",
+                "<em>Please Note: </em>Applications to UBC-Okanagan are sometimes misdirected to UBC-Vancouver. Please be careful that your application is sent to UBC-Okanagan. We recommend following up with the College of Graduate Studies (address above) one or two weeks after submitting your paperwork to ensure it is on track."
             ]
         }
     },
