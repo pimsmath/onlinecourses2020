@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Algebraic Toplogy I"
 instructors:
