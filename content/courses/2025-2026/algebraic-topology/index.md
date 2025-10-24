@@ -15,10 +15,10 @@ instructors:
   institution: University of British Columbia
   email: tbjw@math.ubc.ca
 course_start: '2026-01-06'
-course_end: '2025-04-10'
+course_end: '2026-04-10'
 course_number: MATH 527
 section_number: ''
-section_code: ''
+section_code: '201'
 prerequisites:
   - a first course in real analysis, and some point-set topology, including
     quotient topologies, connectedness, path-connectedness.
@@ -42,7 +42,7 @@ abstract: >
 
 
 ### Class Schedule
-  * TBA
+  * Tuesdays & Thursdays 9:30am - 10:50am ESB 4133 & Zoom
 
 ### Remote Access
 Remote access for this course will be provided via zoom. The instructor intends
@@ -52,3 +52,6 @@ after the lectures have been delivered.
 ### Availability
 This course may be open to students from universities outside of the PIMS network, and those
 coming from industry/government.
+
+### Assessment
+Assessment will be via homework, midterm and final exam.
