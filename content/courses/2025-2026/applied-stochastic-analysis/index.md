@@ -16,7 +16,7 @@ instructors:
   email: holmescerfon@math.ubc.ca
 course_start: '2025-01-06'
 course_end: '2025-04-10'
-course_number: MATH 605F
+course_number: MATH 605D
 section_number: ''
 section_code: ''
 prerequisites:
