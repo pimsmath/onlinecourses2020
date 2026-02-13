@@ -4,10 +4,10 @@ date: 2025-06-03T22:16:23-0700
 tags:
 - 2025-2026
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2025-05-03T22:16:23-0700
 course_title: "Optimal Transport: Theory and Applications"
 instructors:

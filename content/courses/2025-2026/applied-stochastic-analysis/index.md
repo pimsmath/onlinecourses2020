@@ -4,10 +4,10 @@ date: 2025-06-01T00:00:00-0700
 tags:
 - 2025-2026
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Applied Stochastic Analysis"
 instructors:
