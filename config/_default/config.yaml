@@ -1,4 +1,4 @@
-title: PIMS Network Wide Graduate Courses
+titled: PIMS Network Wide Graduate Courses
 baseURL: 'https://courses.pims.math.ca/' # Website URL
 
 ############################
@@ -37,8 +37,9 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  other: [HTML, RSS, headers, redirects]
+  #home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
+  other: [HTML, RSS]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
