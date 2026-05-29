@@ -1,5 +1,5 @@
 ---
-title: "Hodge Theory and Algebraic Cyclies"
+title: "Hodge Theory and Algebraic Cycles"
 date: 2026-05-28T00:00:00-0700
 tags:
 - 2026-2027
