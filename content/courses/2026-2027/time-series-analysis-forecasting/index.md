@@ -9,7 +9,7 @@ featured: false
 draft: false
 registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
-course_title: "Time Series Analysis and Forecasting"
+course_title: "Econometric Models & Forecasts"
 instructors:
 - name: Andrei Volodin
   institution: University of Regina
