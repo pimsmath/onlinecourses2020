@@ -13,10 +13,10 @@ course_title: "Hodge Theory and Algebraic Cycles"
 instructors:
 - name: James Lewis
   institution: University of Alberta
-  email: 
+  email: lewisjd@ualberta.ca
 - name: Terry Gannon
   institution: University of Alberta
-  email:
+  email: tjgannon@ualberta.ca
 course_start: '2026-09-08'
 course_end: '2026-12-22'
 course_number:
