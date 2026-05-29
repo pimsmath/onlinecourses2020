@@ -13,6 +13,32 @@ design:
 
 content:
   slides:
+    - title: 2025-2026
+      content: |
+        The 2025-2026 PIMS Network Wide Graduate Courses program featured the
+        following courses:
+          * [Advanced studies in Theoretical and Computational Biology]()
+          * [Algebraic Topology I](/courses/2025-2026/algebraic-topology)
+          * [Applied Stochastic Analysis](/courses/2025-2026/applied-stochastic-analysis)
+          * [Advanced studies in Theoretical and Computational Biology](/courses/2025-2026/computational-biology)
+          * [Discrete Optimization](/courses/2025-2026/discrete-optimization)
+          * [Elliptic Curves and Modula Forms](/courses/2025-2026/elliptic-curves-modular-forms)
+          * [Mathematical Biology - Nonlinear PDE Models](/courses/2025-2026/mathematical-ecology)
+          * [Topics in Optimization: Mathematical Foundations of Machine Learning](/courses/2025-2026/mathematical-foundations-of-machine-learning)
+          * [Modern Biophysics](/courses/2025-2026/modern-biophysics)
+          * [Optimal Transport: Theory and Applications](/courses/2025-2026/optimal-transport-theory-applications)
+      align: center
+      background:
+        position: right
+        color: '#BBB'
+        brightness: 0.3
+        media: class.jpg
+      link:
+        icon: graduation-cap
+        icon_pack:
+        url: /tag/2025-2026
+        text: View Past 2025-2026 Courses
+
     - title: 2024-2025
       content: |
         The 2024-2025 PIMS Network Wide Graduate Courses program featured the

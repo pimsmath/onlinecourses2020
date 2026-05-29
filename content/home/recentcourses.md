@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-active: true
+active: false
 weight: 70
 title: Past Courses
 subtitle: >-
