@@ -13,7 +13,7 @@ course_title: "Mathematical foundations of stratified and anisotropic fluid flow
 instructors:
 - name: Andrii Arman
   institution: University of Manitoba
-  email: ibrahims@uvic.ca
+  email: Andrii.Arman@umanitoba.ca
 - name: Andriy Prymak
   institution: University of Manitoba
   email: Andriy.Prymak@umanitoba.ca
