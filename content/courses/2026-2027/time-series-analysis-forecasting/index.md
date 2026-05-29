@@ -34,10 +34,10 @@ abstract: >
 syllabus_pdf: syllabus.pdf
 ---
 ### Class Schedule
-  * Tuesday and Thursday 10:00 – 11:15 p.m (Mountain Time)
+  * Tuesday and Thursday 10:00am – 11:15am (Saskatchewan Time)
 
 ### Office Hours
-  * Wednesday 9:00 - 11:00 a.m. Or by an appointment
+  * Wednesday 1pm-3pm or by an appointment
 
 ### Remote Access
 This will be a hybrid course delivered by Zoom. The instructor will share the
@@ -52,5 +52,5 @@ network, and those coming from industry/government.
 Your final grade will be calculated as follows:
  - Assignments: Not to hand in, just for you to prepare for the Midterm and
    Final Exam. I will post both the questions and solutions on URCourses.
- - Midterm (1): 40% in class on Monday, February 23 (right after the Winter break).
+ - Midterm (1): 40% in class 
  - Final Exam: 60%
