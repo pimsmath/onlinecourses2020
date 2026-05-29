@@ -40,3 +40,7 @@ syllabus_pdf:
 ### Remote Access
 The instructor will write on overhead projectors which will be shared via zoom.
 Lecture notes will be posted on the course website.
+
+### Availability
+This course is available to students within the PIMS network, universities
+beyond the PIMS network and from industry/government.

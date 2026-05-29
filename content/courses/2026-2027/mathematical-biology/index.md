@@ -54,11 +54,13 @@ syllabus_pdf: syllabus.pdf
 ### Class Schedule
 TBA
 
+### Availability
+This course is available to students within the PIMS network.
 
 ### Remote Access
 Lectures will be livestreamed via zoom. The lecturer will be writing on a
 whiteboard interspersed with pdf presentations. Lecture notes will be posted on
-Canvas.
+Canvas. Office hours will be offered in hybrid format.
 
 ### Availability
 This course may be open to students from universities outside of the PIMS

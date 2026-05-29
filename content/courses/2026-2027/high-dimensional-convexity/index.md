@@ -33,11 +33,13 @@ abstract: >
   space grows? This course investigates high-dimensional convexity and discrete
   geometry through the lens of geometric covering and illumination problems.
 
+
   Highlighting the intersection of asymptotic bounds and discrete structures,
   the course extensively covers different variations of Borsuk's partition
   question and recent surprising counterexamples. We will discuss constructions
   of special bodies of constant width, discretization techniques, and
   probabilistic models.
+
 
   These tools will be applied to explore asymptotic estimates of various
   covering methods in convex and discrete geometry, volume bounds for bodies of
@@ -49,6 +51,9 @@ abstract: >
 
 syllabus_pdf: syllabus.pdf
 ---
+### Availability
+This course will be available to students at universities inside and beyond the
+PIMS network.
 
 ### Remote Access
 Lectures will be delivered live via Zoom using a 2-in-1 laptop and an on-screen

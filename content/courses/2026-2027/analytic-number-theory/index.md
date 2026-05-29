@@ -33,17 +33,21 @@ abstract: >
 
   Possible topics include:
 
-  1. Elementary techniques: Divisor sums; the Chebychev and Mertens estimates.
-  2. Fourier analysis and exponential sums. Additive number theory.
-  3. Smooth counting. Character sums.
-  4. Dirichlet series and the Mellin transform; countour shifting.
-  5. The Riemann zeta function; analytical continuation; the Prime Number Theorem.
-  6. Dirichlet L-functions and the Prime Number Theorem in Arithmetic Progressions.
+    1. Elementary techniques: Divisor sums; the Chebychev and Mertens estimates.
+    2. Fourier analysis and exponential sums. Additive number theory.
+    3. Smooth counting. Character sums.
+    4. Dirichlet series and the Mellin transform; countour shifting.
+    5. The Riemann zeta function; analytical continuation; the Prime Number Theorem.
+    6. Dirichlet L-functions and the Prime Number Theorem in Arithmetic Progressions.
 
 syllabus_pdf: syllabus.pdf
 ---
 ### Course Website
   * [MATH 539](https://personal.math.ubc.ca/~lior/teaching/1516/539_W16/)
+
+### Availability
+This course is available to students within the PIMS network, at universities
+beyond the PIMS network and from industry/government.
 
 ### Lecture Schedule
 * Class: MWF 10:00-11:00

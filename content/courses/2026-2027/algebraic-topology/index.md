@@ -41,7 +41,7 @@ to lecture from handwritten notes on a tablet. Lecture notes will be provided
 after the lectures have been delivered.
 
 ### Availability
-This course may be open to students in the PIMS network.
+This course is open to students in the PIMS network.
 
 ### Assessment
 Assessment will be via homework, midterm and final exam.

@@ -38,6 +38,7 @@ syllabus_txt: >
   and Euler equations, and serves as a bridge between classical fluid mechanics
   and a wide range of applications.
 
+
   In regimes where one spatial direction is significantly smaller than the
   others, such as thin domains or flows with strong vertical stratification, a
   hydrostatic balance often emerges. Under this approximation, the governing
@@ -46,6 +47,7 @@ syllabus_txt: >
   settings, including flows in thin layers and certain biological systems, such
   as blood flow in narrow vessels.
 
+
   This course develops the mathematical analysis of the Boussinesq system and
   its hydrostatic limit within a broad fluid dynamics framework. We begin with
   the derivation of the models from fundamental conservation laws, highlighting
@@ -53,6 +55,7 @@ syllabus_txt: >
   equations. We then introduce the appropriate functional setting for studying
   well-posedness, emphasizing connections with classical results for the Euler
   and Navier-Stokes equations.
+
 
   The course will cover local and global existence results, as well as
   mechanisms leading to ill-posedness in the non-hydrostatic case, where a
@@ -63,6 +66,9 @@ syllabus_txt: >
   discuss recent advances in the rigorous justification of the hydrostatic
   approximation and the mathematical challenges that arise in inviscid regimes.
 ---
+### Availability
+This course is available to students at PIMS member universities.
+
 
 ### Remote Access
 The instructor will deliver the lectures from a fully equipped classroom (e.g.,

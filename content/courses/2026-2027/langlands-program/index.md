@@ -32,6 +32,9 @@ abstract: >
 
 syllabus_pdf:
 ---
+### Availability
+This course is available to students within the PIMS network, and at universities
+beyond the PIMS network.
 
 ### Remote Access
 All lectures will be available online (either purely or hybrid). The instructor

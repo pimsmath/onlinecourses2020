@@ -44,6 +44,10 @@ syllabus_pdf: syllabus.pdf
 ### Course Website
   * [MATH 428/609E](https://personal.math.ubc.ca/~lior/teaching/2425/428_W25/)
 
+### Availability
+This course is available to students within the PIMS network, at universities
+beyond the PIMS network and from industry/government.
+
 ### Lecture Schedule
 * Class: TTh 10:00-11:30 at ESB4127 and on Zoom
 * Office Hours: TTh 11:30-12:00 at ESB4127 and on zoom 

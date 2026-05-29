@@ -26,11 +26,11 @@ prerequisites:
 abstract: >
   This is an introductory course in functional analysis, involving 
 
-  1. Banach spaces
-  2. Point set topology, strong, weak, and weak* topologies.
-  3. Hilbert spaces.
-  4. Lp spaces. (Chapter 6).
-  5. Additional topics, if time permits: distributions, bounded operators and spectral theory.
+    1. Banach spaces
+    2. Point set topology, strong, weak, and weak* topologies.
+    3. Hilbert spaces.
+    4. Lp spaces. (Chapter 6).
+    5. Additional topics, if time permits: distributions, bounded operators and spectral theory.
 
 syllabus_pdf:
 ---

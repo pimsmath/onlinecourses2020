@@ -32,17 +32,28 @@ abstract: >
   with an emphasis on linking ecological processes with genetics and trait
   dynamics across scales. Students will learn to formulate and analyse models of
   evolution using tools from dynamical systems (primarily ODEs), probability,
-  and discrete mathematics. Topics will include: population genetics,
-  quantitative genetics, evolutionary game theory, evolutionary invasion
-  analysis, eco-evolutionary dynamics and phylogenetics. Throughout, the course
-  emphasises analytical, graphical, and computational techniques that are widely
-  used across applied mathematics to study nonlinear systems. By the end of the
-  course, students will be able to construct, analyse, and critically evaluate
-  mathematical models, and will develop transferable skills for tackling complex
-  problems in biology and other fields.
+  and discrete mathematics.
+
+  Topics will include:
+
+    - population genetics,
+    - quantitative genetics,
+    - evolutionary game theory,
+    - evolutionary invasion analysis,
+    - eco-evolutionary dynamics and phylogenetics.
+
+  Throughout, the course emphasises analytical, graphical, and computational
+  techniques that are widely used across applied mathematics to study nonlinear
+  systems. By the end of the course, students will be able to construct,
+  analyse, and critically evaluate mathematical models, and will develop
+  transferable skills for tackling complex problems in biology and other fields.
 
 syllabus_pdf:
 ---
+### Availability
+This course is available to students within the PIMS network, and at universities
+beyond the PIMS network.
+
 
 ### Remote Access
 Lectures will be delivered in person and over Zoom, with recordings posted to

@@ -21,22 +21,26 @@ section_number: ''
 section_code:
 prerequisites:
   - Some preparation on mathematical analysis and measure based probability
-    theory
+    theory such as STAT 571 or STAT 580 at UAlberta is not necessarily required,
+    but will be very much helpful
 
 abstract: >
   This is a one semester three credit hour course. It is about the theory and
   applications of stochastic differential equations driven by Brownian motions.
+
 
   The stochastic differential equations have found applications in finance,
   signal processing, population dynamics, biology, and many other fields. It is
   the basis of some other applied probability areas such as filtering theory,
   stochastic control and stochastic differential games.
 
+
   To balance the theoretical and applied aspects and to include as much audience
   as possible, we shall focus on the stochastic differential equations driven
   only by Brownian motion (white noise). We will focus on the theory and not get
   into specic applied area (finance, signal processing, filtering, control and
   so on).
+
 
   We shall first briefly introduce some basic concepts and results on stochastic
   processes, in particular the Brownian motions. Then we will discuss stochastic
@@ -52,7 +56,7 @@ syllabus_pdf: syllabus.pdf
 
 
 ### Class Schedule
-  * Thesdays, Thursdays 11:00am - 12:20pm (Mountain time)
+  * Tuesdays, Thursdays 11:00am - 12:20pm (Mountain time)
 
 ### Remote Access
 The instructor will use zoom and other UAlberta resources such as canvas.
