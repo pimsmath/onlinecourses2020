@@ -34,7 +34,7 @@ abstract: >
 syllabus_pdf: syllabus.pdf
 ---
 ### Class Schedule
-  * Monday, Wednesday, and Friday 12:30 – 1:20 p.m (Mountain Time)
+  * Tuesday and Thursday 10:00 – 11:15 p.m (Mountain Time)
 
 ### Office Hours
   * Wednesday 9:00 - 11:00 a.m. Or by an appointment
