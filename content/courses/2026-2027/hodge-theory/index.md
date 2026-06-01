@@ -19,7 +19,7 @@ instructors:
   email: tjgannon@ualberta.ca
 course_start: '2026-09-08'
 course_end: '2026-12-22'
-course_number:
+course_number: 676
 section_number:
 section_code:
 prerequisites:
