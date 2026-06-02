@@ -20,37 +20,39 @@ course_number: MATH609E
 section_number: 201
 section_code: MATH 609E
 prerequisites:
-  - The following UBC courses or equivalent are recommended but there are no
-    formal prerequisites.
-  - Rigorous real analysis and linear algebra (e.g. UBC MATH 320 and 131)
+  - In general this is an advanced course and students are expected to be able
+    to catch up on any necessary background material. There are no formal
+    pre-requisutes, but the following courses or equivalent are suggested
   - Basic classical mechanics (e.g. UBC PHYS 216).
+  - Elementary ODE (e.g. UBC MATH 215).
+  - Rigorous real analysis and linear algebra (e.g. UBC MATH 320)
+  - Linear algebra (UBC MATH 131) will be an advantage.
 abstract: > 
-  This course presents classical mechanics to a mixed audience of mathematics
-  and physics undergraduate and graduate students. It is complementary to
-  regular phsyics courses in that while the physics concepts will be developed
-  the emphasis will be on the underlying mathematical analysis. Students should
-  already have some experience with rigorous mathematics (at UBC via courses
-  like MATH 131/223, 320, 321), and with classical mechanics (at UBC via courses
-  like PHYS 216). Topics may include
-
-    - Newtonian mechanics, ODE and Galilean symmetry
-    - Lagrangian mechanics, variational calculus, symmetry and Noether's Theorem
-    - Angular momentum
-    - Hamiltonian mechanics, symplectic geometry
-    - Introduction to quantization.
+  This is a course in formal mechanics from a mathematical point of view,
+  developing in parallel the mathematical machinery and physical ideas. Some of
+  the material will be developed in the problem sets. The graduate side of the
+  course will make a higher emphasis on manifolds and may involve more advanced
+  mathematics
+    - *Newtonian mechanics* - ODE, tangeng and cotangent vectors
+    - *Kinematics* - Coordinates, Galilean invariance
+    - *Lagrangian mechanics* - Calculus of variations, convexity, symmetry and
+      conservation laws
+    - *Angular momentum* - The rotation group
+    - *Hamiltonian mechanics* - Manifolds, measures
+    - *Quantization* - Short sketch of microlocal calculus
 
 syllabus_pdf: syllabus.pdf
 ---
 ### Course Website
-  * [MATH 428/609E](https://personal.math.ubc.ca/~lior/teaching/2425/428_W25/)
+  * [MATH 428/609E](https://personal.math.ubc.ca/~lior/teaching/2627/428_W27/)
 
 ### Availability
 This course is available to students within the PIMS network, at universities
 beyond the PIMS network and from industry/government.
 
 ### Lecture Schedule
-* Class: TTh 10:00-11:30 at ESB4127 and on Zoom
-* Office Hours: TTh 11:30-12:00 at ESB4127 and on zoom 
+* Class: TTh 11:00-12:30 at ESB4127 and on Zoom
+* Office Hours: Fridays 10:30-11:30
 
 ### Remote Access
 Lectures will be held in-person on the UBC campus and on Zoom.  Lectures will be
