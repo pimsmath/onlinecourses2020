@@ -20,11 +20,11 @@ course_number: MATH539
 section_number: 201
 section_code: MATH539:201
 prerequisites:
-  - The following UBC courses or equivalent are recommended but there are no
-    formal prerequisites.
+  - The following UBC courses or equivalent are recommended
   - Elementary Number Theory (e.g. UBC MATH 537)
-  - Real and Complex Analysis (e.g. UBC MATH 320, 508)
-
+  - Real and Complex Analysis (e.g. UBC MATH 320 and 508 respectively)
+  - We will use some basic ideas from ring theory and finite abelian groups, and
+    will develop all the Fourier analysis we will use.
 abstract: > 
   We will count (that is, estimate the number of) integer and prime number
   solutions to equations. We will use combinatorial (“elementary”) methods, some
@@ -43,14 +43,15 @@ abstract: >
 syllabus_pdf: syllabus.pdf
 ---
 ### Course Website
-  * [MATH 539](https://personal.math.ubc.ca/~lior/teaching/1516/539_W16/)
+  * [MATH 539](https://personal.math.ubc.ca/~lior/teaching/2627/539_W27/)
 
 ### Availability
 This course is available to students within the PIMS network, at universities
 beyond the PIMS network and from industry/government.
 
 ### Lecture Schedule
-* Class: MWF 10:00-11:00
+* Class: TTh 09:30-11:00 at ESB 4127 and on Zoom
+* Office Hours: Friday 10:30-11:30 and on zoom
 
 ### Remote Access
 Lectures will be held in-person on the UBC campus and on Zoom.  Lectures will be
