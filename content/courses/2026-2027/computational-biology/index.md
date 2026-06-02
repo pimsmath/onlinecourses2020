@@ -2,9 +2,9 @@
 title: "Advanced studies in Theoretical and Computational Biology"
 date: 2025-06-03T22:16:23-0700
 tags:
-- 2025-2026
+- 2026-2027
 categories:
-- past
+- upcoming
 featured: false
 draft: false
 registration_open: false
@@ -14,8 +14,8 @@ instructors:
 - name: Anotida Madzvamuse
   institution: University of British Columbia
   email: am823@math.ubc.ca
-course_start: '2026-01-06'
-course_end: '2026-04-10'
+course_start: '2027-01-08'
+course_end: '2027-04-27'
 course_number: MATH 605E
 section_number: ''
 section_code: 'Special Topics'

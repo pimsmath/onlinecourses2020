@@ -4,7 +4,7 @@ date: 2025-06-03T22:16:23-0700
 tags:
 - 2025-2026
 categories:
-- ongoing
+- past
 featured: false
 draft: false
 registration_open: false
