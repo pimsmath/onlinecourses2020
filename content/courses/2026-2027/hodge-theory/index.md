@@ -6,7 +6,7 @@ tags:
 categories:
 - upcoming
 featured: false
-draft: false
+draft: true
 registration_open: true
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Hodge Theory and Algebraic Cycles"
