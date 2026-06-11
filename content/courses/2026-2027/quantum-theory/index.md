@@ -13,7 +13,7 @@ course_title: "Quantum Theory"
 instructors:
 - name: Sven Bachmann
   institution: University of British Columbia
-  email: sback@math.ubc.ca
+  email: sbach@math.ubc.ca
 course_start: '2026-09-08'
 course_end: '2026-12-22'
 course_number: MATH512
