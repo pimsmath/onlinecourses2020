@@ -16,17 +16,17 @@ instructors:
   email: lior@math.ubc.ca
 course_start: '2027-01-05'
 course_end: '2027-04-27'
-course_number: MATH609E
+course_number: MATH 513
 section_number: 201
-section_code: MATH 609E
+section_code: MATH_V 513:201
 prerequisites:
   - In general this is an advanced course and students are expected to be able
     to catch up on any necessary background material. There are no formal
-    pre-requisutes, but the following courses or equivalent are suggested
+    prerequisites, but the following courses or equivalent are suggested
   - Basic classical mechanics (e.g. UBC PHYS 216).
   - Elementary ODE (e.g. UBC MATH 215).
-  - Rigorous real analysis and linear algebra (e.g. UBC MATH 320)
-  - Linear algebra (UBC MATH 131) will be an advantage.
+  - Rigorous real analysis (e.g. UBC MATH 320)
+  - Linear algebra (e.g. UBC MATH 131) will be an advantage.
 abstract: > 
   This is a course in formal mechanics from a mathematical point of view,
   developing in parallel the mathematical machinery and physical ideas. Some of
@@ -44,7 +44,7 @@ abstract: >
 syllabus_pdf: syllabus.pdf
 ---
 ### Course Website
-  * [MATH 428/609E](https://personal.math.ubc.ca/~lior/teaching/2627/428_W27/)
+  * [MATH 428/513](https://personal.math.ubc.ca/~lior/teaching/2627/428_W27/)
 
 ### Availability
 This course is available to students within the PIMS network, at universities
@@ -52,7 +52,7 @@ beyond the PIMS network and from industry/government.
 
 ### Lecture Schedule
 * Class: TTh 11:00-12:30 at ESB4127 and on Zoom
-* Office Hours: Fridays 10:30-11:30
+* Office Hours: after class and Fridays 10:30-11:30
 
 ### Remote Access
 Lectures will be held in-person on the UBC campus and on Zoom.  Lectures will be

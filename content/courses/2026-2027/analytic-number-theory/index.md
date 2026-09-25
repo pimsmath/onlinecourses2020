@@ -51,7 +51,7 @@ beyond the PIMS network and from industry/government.
 
 ### Lecture Schedule
 * Class: TTh 09:30-11:00 at ESB 4127 and on Zoom
-* Office Hours: Friday 10:30-11:30 and on zoom
+* Office Hours: after class and Friday 10:30-11:30
 
 ### Remote Access
 Lectures will be held in-person on the UBC campus and on Zoom.  Lectures will be
