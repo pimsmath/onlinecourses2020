@@ -7,7 +7,7 @@ categories:
 - upcoming
 featured: false
 draft: false
-registration_open: false
+registration_open: true
 publish_date: 2025-06-02T22:16:23-0700
 course_title: "Advanced studies in Theoretical and Computational Biology"
 instructors:

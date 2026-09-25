@@ -4,10 +4,10 @@ date: 2026-05-28T00:00:00-0700
 tags:
 - 2026-2027
 categories:
-- upcoming
+- ongoing
 featured: false
 draft: false
-registration_open: true
+registration_open: false
 publish_date: 2025-06-03T00:00:00-0800
 course_title: "Econometric Models & Forecasts"
 instructors:
