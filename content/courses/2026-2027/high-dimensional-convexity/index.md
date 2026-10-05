@@ -9,7 +9,7 @@ featured: false
 draft: false
 registration_open: true
 publish_date: 2024-05-09T22:16:23-0700
-course_title: "Mathematical foundations of stratified and anisotropic fluid flows"
+course_title: "High-Dimensional Convexity: Covering, Illumination, and Borsuk's Question"
 instructors:
 - name: Andrii Arman
   institution: University of Manitoba
