@@ -37,7 +37,7 @@ syllabus_pdf:
 
 
 ### Class Schedule
-  * TBA
+  * MWF 11-12
 
 ### Remote Access
 Remote students will be able to interact with the instructor and with other
