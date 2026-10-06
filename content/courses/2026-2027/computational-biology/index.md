@@ -107,7 +107,7 @@ syllabus_txt: >
 ---
 
 ### Class Schedule
-  * TBA
+  * Tu/Th 9:30am-11am
 
 ### Remote Access
 We will use zoom for each lecture. Course notes will be distributed in advance
