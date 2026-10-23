@@ -20,8 +20,8 @@ instructors:
 course_start: '2027-01-05'
 course_end: '2027-04-27'
 course_number: MATH8810
-section_number: 
-section_code: 
+section_number: T10
+section_code:  67160
 prerequisites:
   - Consent of the instructors (unofficial transcripts may be requested)
   - Students are expected to have a rigorous undergraduate foundation in linear
@@ -51,6 +51,10 @@ abstract: >
 
 syllabus_pdf: syllabus.pdf
 ---
+### Course Website
+  * [MATH 8810](https://prymak.net/coveringW27/)
+
+
 ### Availability
 This course will be available to students at universities inside and beyond the
 PIMS network.
