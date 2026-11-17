@@ -32,7 +32,7 @@ abstract: >
     4. Lp spaces. (Chapter 6).
     5. Additional topics, if time permits: distributions, bounded operators and spectral theory.
 
-syllabus_pdf:
+syllabus_pdf: syllabus.pdf
 ---
 
 
