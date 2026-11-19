@@ -16,7 +16,7 @@ instructors:
   email: ccunning@ucalgary.ca
 course_start: '2027-01-05'
 course_end: '2027-04-27'
-course_number: MATH599
+course_number: MATH699
 section_number: 
 section_code: 
 prerequisites:
@@ -35,6 +35,9 @@ syllabus_pdf:
 ### Availability
 This course is available to students within the PIMS network, and at universities
 beyond the PIMS network.
+
+### Lecture Schedule
+* Class: MWF 12:00pm-12:50pm MT/11:00am-11:50am PT
 
 ### Remote Access
 All lectures will be available online (either purely or hybrid). The instructor
